@@ -1,0 +1,297 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f5f5f5;
+  --foreground: #111111;
+
+  --card: rgba(255, 255, 255, 0.72);
+  --card-foreground: #111111;
+
+  --popover: #ffffff;
+  --popover-foreground: #111111;
+
+  --primary: #111111;
+  --primary-foreground: #fafafa;
+
+  --secondary: #e7e7e7;
+  --secondary-foreground: #111111;
+
+  --muted: #efefef;
+  --muted-foreground: #5f5f5f;
+
+  --accent: #d4d4d4;
+  --accent-foreground: #171717;
+
+  --destructive: #b91c1c;
+  --destructive-foreground: #fef2f2;
+
+  --border: rgba(0, 0, 0, 0.09);
+  --input: rgba(0, 0, 0, 0.12);
+  --ring: #5f5f5f;
+
+  --radius: 0.9rem;
+
+  --switch-background: #a3a3a3;
+  --input-background: rgba(255, 255, 255, 0.9);
+}
+
+.dark {
+  --background: #0a0a0a;
+  --foreground: #fafafa;
+
+  --card: rgba(23, 23, 23, 0.72);
+  --card-foreground: #fafafa;
+
+  --popover: #171717;
+  --popover-foreground: #fafafa;
+
+  --primary: #fafafa;
+  --primary-foreground: #171717;
+
+  --secondary: #262626;
+  --secondary-foreground: #fafafa;
+
+  --muted: #1a1a1a;
+  --muted-foreground: #a3a3a3;
+
+  --accent: #404040;
+  --accent-foreground: #fafafa;
+
+  --destructive: #ef4444;
+  --destructive-foreground: #fff1f2;
+
+  --border: rgba(255, 255, 255, 0.08);
+  --input: rgba(255, 255, 255, 0.12);
+  --ring: #737373;
+
+  --switch-background: #525252;
+  --input-background: rgba(23, 23, 23, 0.92);
+}
+
+* {
+  box-sizing: border-box;
+  border-color: var(--border);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 10% 10%, rgba(255, 255, 255, 0.85), transparent 22%),
+    radial-gradient(circle at 85% 20%, rgba(120, 120, 120, 0.12), transparent 18%),
+    radial-gradient(circle at 50% 100%, rgba(90, 90, 90, 0.1), transparent 24%),
+    var(--background);
+  color: var(--foreground);
+  font-family:
+    Inter,
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+  line-height: 1.5;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.dark body {
+  background:
+    radial-gradient(circle at 10% 10%, rgba(255, 255, 255, 0.04), transparent 18%),
+    radial-gradient(circle at 85% 20%, rgba(180, 180, 180, 0.06), transparent 18%),
+    radial-gradient(circle at 50% 100%, rgba(120, 120, 120, 0.05), transparent 24%),
+    var(--background);
+}
+
+::selection {
+  background: #171717;
+  color: #fafafa;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  border: 1px solid var(--input);
+  background: var(--input-background);
+  color: var(--foreground);
+  border-radius: 1rem;
+  transition:
+    border-color 0.2s ease,
+    box-shadow 0.2s ease,
+    background-color 0.2s ease,
+    color 0.2s ease,
+    transform 0.15s ease;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: var(--muted-foreground);
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  outline: none;
+  border-color: var(--ring);
+  box-shadow: 0 0 0 4px rgba(82, 82, 82, 0.14);
+}
+
+button {
+  border-radius: 1rem;
+  font-weight: 600;
+  transition:
+    transform 0.15s ease,
+    opacity 0.2s ease,
+    background-color 0.2s ease,
+    color 0.2s ease,
+    border-color 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+button:active {
+  transform: translateY(1px);
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #8a8a8a;
+  border-radius: 999px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #525252;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+
+.surface {
+  background: var(--card);
+  color: var(--card-foreground);
+  border: 1px solid var(--border);
+  border-radius: 1.5rem;
+  backdrop-filter: blur(18px);
+  box-shadow:
+    0 20px 50px rgba(0, 0, 0, 0.08),
+    0 6px 16px rgba(0, 0, 0, 0.05);
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease,
+    border-color 0.25s ease;
+}
+
+.surface:hover {
+  transform: translateY(-4px);
+  box-shadow:
+    0 28px 60px rgba(0, 0, 0, 0.1),
+    0 8px 18px rgba(0, 0, 0, 0.06);
+}
+
+.dark .surface {
+  box-shadow:
+    0 20px 50px rgba(0, 0, 0, 0.35),
+    0 6px 16px rgba(0, 0, 0, 0.22);
+}
+
+.section-title {
+  font-size: 1.875rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--foreground);
+}
+
+.section-subtitle {
+  color: var(--muted-foreground);
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+.gradient-text {
+  background: linear-gradient(135deg, #111111, #525252, #8a8a8a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Force readable dashboard mode for admin/guide pages */
+.force-light-dashboard {
+  background: #f5f5f5 !important;
+  color: #171717 !important;
+  color-scheme: light !important;
+}
+
+.force-light-dashboard h1,
+.force-light-dashboard h2,
+.force-light-dashboard h3,
+.force-light-dashboard h4,
+.force-light-dashboard h5,
+.force-light-dashboard h6 {
+  color: #0a0a0a !important;
+}
+
+.force-light-dashboard p,
+.force-light-dashboard span,
+.force-light-dashboard label,
+.force-light-dashboard td,
+.force-light-dashboard th,
+.force-light-dashboard li {
+  color: #404040 !important;
+}
+
+.force-light-dashboard input,
+.force-light-dashboard select,
+.force-light-dashboard textarea {
+  background: #ffffff !important;
+  color: #171717 !important;
+  border-color: #d4d4d4 !important;
+}
+
+.force-light-dashboard button.bg-black,
+.force-light-dashboard button.bg-neutral-900,
+.force-light-dashboard .bg-black,
+.force-light-dashboard .bg-neutral-900 {
+  color: #ffffff !important;
+}
+
+.force-light-dashboard .bg-white {
+  background: #ffffff !important;
+}
+
+.force-light-dashboard .surface,
+.force-light-dashboard .card {
+  background: #ffffff !important;
+  color: #171717 !important;
+  border-color: #d4d4d4 !important;
+}

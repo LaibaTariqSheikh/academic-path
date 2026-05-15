@@ -1,0 +1,541 @@
+previous_system,previous_stream,academic_performance,strong_subject,weak_area,interest_area,study_independence,study_hours,analytical_skill,problem_handling,tuition_access,study_preference,career_clarity,decision_factor,confidence_level,target_stream
+O-Level,Pre-Engineering,Good,Math,Writing,Problem solving,Yes,Yes,Agree,Keep Trying,Yes,Exams,Clear,Interest,Confident,Pre-Engineering
+Matric,Commerce,Average,Commerce,Math,Business,Somewhat,Sometimes,Neutral,Ask Help,Limited,Continuous,Somewhat,Family,Unsure,Commerce
+O-Level,Pre-Medical,Excellent,Biology,Math,Research,Yes,Yes,Strongly Agree,Keep Trying,Yes,Exams,Clear,Interest,Confident,Pre-Medical
+Matric,Arts,Below Average,Arts,Science,Creative,No,No,Disagree,Avoid,No,Continuous,Not clear,Peer,Not confident,Arts
+O-Level,Pre-Engineering,Good,Physics,Writing,Problem solving,Yes,Sometimes,Agree,Keep Trying,Limited,Exams,Somewhat,Career,Confident,Pre-Engineering
+O-Level,Pre-Engineering,Good,Math,Writing,Problem solving,Yes,Yes,Agree,Keep Trying,Yes,Exams,Clear,Interest,Confident,Pre-Engineering
+Matric,Commerce,Average,Commerce,Math,Business,Somewhat,Sometimes,Neutral,Ask Help,Limited,Continuous,Somewhat,Family,Unsure,Commerce
+O-Level,Pre-Medical,Excellent,Biology,Math,Research,Yes,Yes,Strongly Agree,Keep Trying,Yes,Exams,Clear,Interest,Confident,Pre-Medical
+Matric,Arts,Below Average,Arts,Science,Creative,No,No,Disagree,Avoid,No,Continuous,Not clear,Peer,Not confident,Arts
+O-Level,Pre-Engineering,Good,Physics,Writing,Problem solving,Yes,Sometimes,Agree,Keep Trying,Limited,Exams,Somewhat,Career,Confident,Pre-Engineering
+Matric,Pre-Medical,Good,Biology,Math,Research,Yes,Yes,Agree,Keep Trying,Yes,Exams,Clear,Interest,Confident,Pre-Medical
+O-Level,Commerce,Average,Accounting,Math,Business,Somewhat,Sometimes,Neutral,Ask Help,Limited,Continuous,Somewhat,Family,Unsure,Commerce
+Matric,Pre-Engineering,Good,Math,Writing,Problem solving,Yes,Yes,Agree,Keep Trying,Yes,Exams,Clear,Interest,Confident,Pre-Engineering
+O-Level,Arts,Average,Arts,Science,Creative,Somewhat,Sometimes,Neutral,Ask Help,Limited,Continuous,Not clear,Peer,Unsure,Arts
+Matric,Pre-Medical,Excellent,Biology,Math,Research,Yes,Yes,Strongly Agree,Keep Trying,Yes,Exams,Clear,Interest,Confident,Pre-Medical
+O-Level,Pre-Engineering,Good,Physics,Writing,Problem solving,Yes,Sometimes,Agree,Keep Trying,Limited,Exams,Somewhat,Career,Confident,Pre-Engineering
+Matric,Commerce,Average,Accounting,Math,Business,Somewhat,Sometimes,Neutral,Ask Help,Limited,Continuous,Somewhat,Family,Unsure,Commerce
+O-Level,Pre-Medical,Good,Biology,Math,Research,Yes,Yes,Agree,Keep Trying,Yes,Exams,Clear,Interest,Confident,Pre-Medical
+Matric,Arts,Below Average,Arts,Science,Creative,No,No,Disagree,Avoid,No,Continuous,Not clear,Peer,Not confident,Arts
+O-Level,Commerce,Average,Accounting,Math,Business,Somewhat,Sometimes,Neutral,Ask Help,Limited,Continuous,Somewhat,Family,Unsure,Commerce
+Matric,Pre-Engineering,Good,Math,Writing,Problem solving,Yes,Yes,Agree,Keep Trying,Yes,Exams,Clear,Interest,Confident,Pre-Engineering
+O-Level,Commerce,Average,Accounting,Math,Business,Somewhat,Sometimes,Neutral,Ask Help,Limited,Continuous,Somewhat,Family,Unsure,Commerce
+Matric,Pre-Medical,Excellent,Biology,Math,Research,Yes,Yes,Strongly Agree,Keep Trying,Yes,Exams,Clear,Interest,Confident,Pre-Medical
+O-Level,Arts,Average,Arts,Science,Creative,Somewhat,Sometimes,Neutral,Ask Help,Limited,Continuous,Not clear,Peer,Unsure,Arts
+Matric,Commerce,Good,Accounting,Math,Business,Yes,Sometimes,Agree,Keep Trying,Yes,Continuous,Clear,Career,Confident,Commerce
+O-Level,Pre-Engineering,Average,Physics,Writing,Problem solving,Somewhat,Sometimes,Agree,Ask Help,Limited,Exams,Somewhat,Family,Unsure,Pre-Engineering
+Matric,Pre-Medical,Good,Biology,Math,Research,Yes,Yes,Agree,Keep Trying,Yes,Exams,Clear,Interest,Confident,Pre-Medical
+O-Level,Commerce,Average,Economics,Math,Business,Somewhat,Sometimes,Neutral,Ask Help,Limited,Continuous,Somewhat,Family,Unsure,Commerce
+Matric,Arts,Below Average,Arts,Science,Creative,No,No,Disagree,Avoid,No,Continuous,Not clear,Peer,Not confident,Arts
+O-Level,Pre-Engineering,Good,Math,Writing,Problem solving,Yes,Yes,Agree,Keep Trying,Yes,Exams,Clear,Interest,Confident,Pre-Engineering
+Matric,Commerce,Average,Accounting,Math,Business,Somewhat,Sometimes,Neutral,Ask Help,Limited,Continuous,Somewhat,Family,Unsure,Commerce
+O-Level,Pre-Medical,Good,Biology,Math,Research,Yes,Yes,Agree,Keep Trying,Yes,Exams,Clear,Interest,Confident,Pre-Medical
+Matric,Pre-Engineering,Average,Math,Writing,Problem solving,Somewhat,Sometimes,Neutral,Ask Help,Limited,Exams,Somewhat,Career,Unsure,Pre-Engineering
+O-Level,Arts,Average,Arts,Science,Creative,Somewhat,Sometimes,Neutral,Ask Help,Limited,Continuous,Not clear,Peer,Unsure,Arts
+Matric,Pre-Medical,Excellent,Biology,Math,Research,Yes,Yes,Strongly Agree,Keep Trying,Yes,Exams,Clear,Interest,Confident,Pre-Medical
+O-Level,Commerce,Good,Accounting,Math,Business,Yes,Sometimes,Agree,Keep Trying,Yes,Continuous,Clear,Career,Confident,Commerce
+Matric,Pre-Engineering,Good,Physics,Writing,Problem solving,Yes,Yes,Agree,Keep Trying,Yes,Exams,Clear,Interest,Confident,Pre-Engineering
+O-Level,Pre-Medical,Average,Biology,Math,Research,Somewhat,Sometimes,Neutral,Ask Help,Limited,Exams,Somewhat,Family,Unsure,Pre-Medical
+Matric,Arts,Below Average,Arts,Science,Creative,No,No,Disagree,Avoid,No,Continuous,Not clear,Peer,Not confident,Arts
+O-Level,Commerce,Average,Economics,Math,Business,Somewhat,Sometimes,Neutral,Ask Help,Limited,Continuous,Somewhat,Family,Unsure,Commerce
+Matric,Pre-Engineering,Average,Commerce,Memorization,Creative,No,Sometimes,Agree,Avoid,Limited,Exams,Clear,Career,Confident,Arts
+Matric,Commerce,Excellent,Arts,Science,Creative,No,Yes,Strongly Agree,Ask Help,Limited,Continuous,Clear,Family,Confident,Arts
+Matric,Arts,Excellent,Physics,Math,Problem solving,Somewhat,Sometimes,Neutral,Avoid,Yes,Exams,Clear,Family,Not confident,Pre-Engineering
+O-Level,Commerce,Average,Commerce,Writing,Business,No,Yes,Agree,Ask Help,Yes,Continuous,Not clear,Career,Confident,Commerce
+O-Level,Arts,Excellent,Commerce,Science,Research,Yes,Sometimes,Neutral,Ask Help,No,Continuous,Somewhat,Family,Unsure,Pre-Medical
+O-Level,Pre-Engineering,Excellent,Biology,Math,Problem solving,Yes,Sometimes,Agree,Ask Help,Limited,Exams,Clear,Interest,Not confident,Pre-Medical
+Matric,Arts,Good,Physics,Math,Research,No,Sometimes,Disagree,Avoid,No,Exams,Not clear,Peer,Not confident,Pre-Medical
+O-Level,Pre-Engineering,Below Average,Biology,Writing,Creative,Yes,Yes,Agree,Avoid,Yes,Exams,Somewhat,Interest,Not confident,Pre-Medical
+Matric,Arts,Excellent,Biology,Writing,Creative,No,Sometimes,Neutral,Avoid,No,Exams,Clear,Career,Unsure,Pre-Medical
+Matric,Commerce,Below Average,Biology,Math,Business,No,Yes,Disagree,Keep Trying,Limited,Continuous,Clear,Family,Not confident,Pre-Medical
+Matric,Commerce,Below Average,Commerce,Science,Problem solving,No,Yes,Strongly Agree,Keep Trying,No,Exams,Somewhat,Interest,Unsure,Pre-Engineering
+O-Level,Pre-Medical,Below Average,Biology,Writing,Research,Somewhat,Yes,Neutral,Ask Help,Limited,Continuous,Not clear,Career,Not confident,Pre-Medical
+Matric,Arts,Excellent,Arts,Math,Business,Somewhat,No,Agree,Keep Trying,No,Exams,Clear,Family,Not confident,Commerce
+O-Level,Commerce,Below Average,Commerce,Memorization,Research,Yes,Yes,Strongly Agree,Keep Trying,No,Exams,Somewhat,Family,Not confident,Pre-Medical
+O-Level,Commerce,Excellent,Arts,Writing,Creative,Yes,No,Disagree,Avoid,Limited,Exams,Not clear,Interest,Confident,Arts
+Matric,Commerce,Good,Commerce,Science,Problem solving,No,No,Agree,Keep Trying,Yes,Exams,Clear,Interest,Not confident,Pre-Engineering
+Matric,Pre-Engineering,Below Average,Math,Memorization,Research,Yes,Sometimes,Neutral,Ask Help,Limited,Continuous,Not clear,Interest,Not confident,Pre-Medical
+O-Level,Arts,Average,Biology,Science,Problem solving,No,Sometimes,Strongly Agree,Keep Trying,Yes,Exams,Somewhat,Family,Confident,Pre-Medical
+Matric,Arts,Excellent,Physics,Writing,Problem solving,Somewhat,No,Strongly Agree,Keep Trying,Yes,Exams,Clear,Interest,Not confident,Pre-Engineering
+O-Level,Pre-Medical,Excellent,Commerce,Writing,Research,Yes,No,Strongly Agree,Ask Help,No,Continuous,Somewhat,Family,Unsure,Pre-Medical
+Matric,Commerce,Average,Biology,Memorization,Research,No,Sometimes,Neutral,Keep Trying,No,Exams,Not clear,Career,Unsure,Pre-Medical
+O-Level,Commerce,Good,Commerce,Memorization,Research,Yes,No,Neutral,Keep Trying,Limited,Continuous,Not clear,Career,Not confident,Pre-Medical
+Matric,Commerce,Good,Physics,Math,Business,Somewhat,Yes,Agree,Avoid,Yes,Exams,Clear,Family,Not confident,Pre-Engineering
+O-Level,Pre-Medical,Excellent,Arts,Science,Creative,Somewhat,Yes,Neutral,Keep Trying,Yes,Exams,Not clear,Interest,Unsure,Arts
+O-Level,Arts,Average,Biology,Math,Problem solving,Somewhat,No,Agree,Ask Help,No,Continuous,Clear,Peer,Confident,Pre-Medical
+Matric,Pre-Engineering,Good,Biology,Memorization,Research,No,Sometimes,Disagree,Avoid,Limited,Continuous,Clear,Peer,Unsure,Pre-Medical
+O-Level,Arts,Good,Commerce,Memorization,Business,Somewhat,No,Neutral,Ask Help,No,Continuous,Not clear,Family,Not confident,Commerce
+Matric,Arts,Excellent,Physics,Memorization,Problem solving,No,No,Agree,Keep Trying,No,Exams,Clear,Peer,Confident,Pre-Engineering
+Matric,Pre-Medical,Good,Biology,Memorization,Creative,No,Yes,Strongly Agree,Avoid,Limited,Continuous,Clear,Career,Not confident,Pre-Medical
+O-Level,Pre-Engineering,Good,Physics,Writing,Problem solving,No,Sometimes,Strongly Agree,Avoid,Limited,Continuous,Somewhat,Family,Confident,Pre-Engineering
+Matric,Pre-Engineering,Excellent,Commerce,Writing,Creative,Somewhat,Yes,Agree,Keep Trying,No,Exams,Somewhat,Career,Not confident,Arts
+O-Level,Commerce,Average,Arts,Memorization,Research,Yes,Sometimes,Neutral,Avoid,No,Continuous,Clear,Career,Not confident,Pre-Medical
+Matric,Commerce,Below Average,Biology,Memorization,Problem solving,Somewhat,Yes,Agree,Avoid,No,Exams,Clear,Family,Not confident,Pre-Medical
+Matric,Arts,Below Average,Physics,Writing,Creative,Somewhat,Sometimes,Neutral,Keep Trying,No,Exams,Not clear,Career,Not confident,Pre-Engineering
+Matric,Pre-Engineering,Excellent,Commerce,Math,Creative,No,Sometimes,Strongly Agree,Keep Trying,Limited,Continuous,Not clear,Interest,Unsure,Arts
+O-Level,Pre-Engineering,Good,Arts,Writing,Research,Yes,Yes,Strongly Agree,Keep Trying,No,Continuous,Not clear,Peer,Confident,Pre-Medical
+O-Level,Arts,Good,Math,Math,Business,No,No,Strongly Agree,Avoid,No,Continuous,Not clear,Family,Confident,Pre-Engineering
+O-Level,Commerce,Excellent,Commerce,Science,Creative,No,No,Neutral,Keep Trying,Yes,Exams,Somewhat,Peer,Confident,Arts
+Matric,Arts,Excellent,Commerce,Memorization,Creative,Somewhat,Sometimes,Strongly Agree,Avoid,No,Exams,Clear,Interest,Unsure,Arts
+O-Level,Pre-Medical,Excellent,Biology,Writing,Research,Yes,Sometimes,Neutral,Keep Trying,Yes,Exams,Clear,Family,Confident,Pre-Medical
+Matric,Pre-Engineering,Below Average,Arts,Science,Business,Yes,Sometimes,Strongly Agree,Ask Help,Limited,Continuous,Not clear,Interest,Unsure,Commerce
+Matric,Arts,Average,Biology,Math,Research,Somewhat,Sometimes,Neutral,Ask Help,No,Continuous,Somewhat,Family,Confident,Pre-Medical
+O-Level,Pre-Engineering,Below Average,Physics,Writing,Creative,Somewhat,Yes,Strongly Agree,Ask Help,Yes,Exams,Clear,Family,Confident,Pre-Engineering
+Matric,Pre-Engineering,Good,Commerce,Memorization,Research,No,No,Strongly Agree,Ask Help,No,Exams,Somewhat,Peer,Not confident,Pre-Medical
+Matric,Arts,Excellent,Arts,Math,Problem solving,Somewhat,Sometimes,Disagree,Ask Help,Yes,Exams,Not clear,Interest,Confident,Pre-Engineering
+Matric,Arts,Excellent,Commerce,Writing,Problem solving,Somewhat,Sometimes,Neutral,Avoid,Limited,Continuous,Somewhat,Family,Confident,Pre-Engineering
+Matric,Pre-Engineering,Good,Arts,Science,Business,No,Yes,Neutral,Keep Trying,Yes,Exams,Not clear,Family,Not confident,Commerce
+Matric,Arts,Below Average,Commerce,Science,Problem solving,Somewhat,Sometimes,Agree,Keep Trying,No,Exams,Not clear,Career,Unsure,Pre-Engineering
+Matric,Pre-Engineering,Good,Commerce,Writing,Business,No,Sometimes,Disagree,Ask Help,Yes,Continuous,Clear,Career,Confident,Commerce
+Matric,Commerce,Good,Physics,Math,Problem solving,Yes,Yes,Neutral,Keep Trying,Limited,Continuous,Somewhat,Interest,Not confident,Pre-Engineering
+O-Level,Arts,Excellent,Physics,Memorization,Business,Somewhat,No,Strongly Agree,Keep Trying,Limited,Continuous,Somewhat,Family,Confident,Pre-Engineering
+Matric,Commerce,Below Average,Biology,Math,Problem solving,No,Sometimes,Neutral,Keep Trying,Yes,Exams,Clear,Interest,Confident,Pre-Medical
+O-Level,Arts,Average,Biology,Writing,Business,No,Yes,Disagree,Ask Help,Limited,Continuous,Somewhat,Peer,Confident,Pre-Medical
+O-Level,Pre-Medical,Average,Commerce,Writing,Research,Somewhat,Sometimes,Disagree,Ask Help,Yes,Exams,Not clear,Interest,Confident,Pre-Medical
+Matric,Commerce,Average,Math,Writing,Creative,No,Yes,Neutral,Ask Help,No,Continuous,Clear,Career,Not confident,Pre-Engineering
+Matric,Pre-Engineering,Good,Arts,Science,Problem solving,Somewhat,Sometimes,Neutral,Keep Trying,No,Continuous,Not clear,Peer,Confident,Pre-Engineering
+Matric,Arts,Average,Math,Science,Creative,Somewhat,Sometimes,Strongly Agree,Avoid,No,Exams,Clear,Family,Not confident,Pre-Engineering
+O-Level,Pre-Medical,Below Average,Commerce,Writing,Problem solving,No,No,Disagree,Keep Trying,Yes,Continuous,Not clear,Career,Confident,Pre-Engineering
+O-Level,Commerce,Good,Biology,Memorization,Research,Yes,Yes,Agree,Avoid,No,Continuous,Somewhat,Family,Not confident,Pre-Medical
+O-Level,Pre-Medical,Below Average,Physics,Writing,Research,No,No,Neutral,Ask Help,No,Continuous,Not clear,Peer,Not confident,Pre-Medical
+O-Level,Pre-Engineering,Good,Biology,Memorization,Business,Somewhat,No,Strongly Agree,Avoid,Limited,Exams,Not clear,Peer,Unsure,Pre-Medical
+Matric,Arts,Excellent,Biology,Science,Problem solving,No,No,Disagree,Avoid,Limited,Continuous,Somewhat,Interest,Confident,Pre-Medical
+O-Level,Arts,Average,Biology,Science,Business,Yes,Sometimes,Disagree,Ask Help,No,Continuous,Somewhat,Career,Unsure,Pre-Medical
+O-Level,Pre-Medical,Good,Arts,Science,Problem solving,No,No,Neutral,Keep Trying,No,Exams,Not clear,Interest,Unsure,Pre-Engineering
+O-Level,Pre-Medical,Excellent,Math,Memorization,Research,No,Sometimes,Disagree,Keep Trying,Yes,Continuous,Not clear,Interest,Confident,Pre-Medical
+O-Level,Arts,Excellent,Arts,Memorization,Research,Somewhat,Sometimes,Strongly Agree,Ask Help,Yes,Exams,Not clear,Family,Unsure,Pre-Medical
+Matric,Pre-Engineering,Below Average,Arts,Memorization,Problem solving,Yes,Sometimes,Disagree,Ask Help,Yes,Continuous,Somewhat,Peer,Unsure,Pre-Engineering
+Matric,Pre-Medical,Excellent,Math,Math,Creative,Somewhat,Sometimes,Neutral,Ask Help,No,Continuous,Not clear,Peer,Confident,Pre-Engineering
+O-Level,Pre-Engineering,Below Average,Commerce,Writing,Research,No,No,Neutral,Ask Help,No,Exams,Clear,Family,Confident,Pre-Medical
+O-Level,Arts,Average,Commerce,Science,Business,Yes,No,Agree,Ask Help,Yes,Continuous,Somewhat,Career,Not confident,Commerce
+Matric,Pre-Engineering,Average,Commerce,Writing,Creative,No,Sometimes,Disagree,Avoid,Yes,Exams,Somewhat,Family,Confident,Arts
+O-Level,Arts,Below Average,Commerce,Science,Creative,Yes,Sometimes,Strongly Agree,Keep Trying,No,Exams,Not clear,Family,Confident,Arts
+Matric,Arts,Below Average,Physics,Math,Problem solving,Yes,Yes,Agree,Ask Help,No,Exams,Somewhat,Peer,Confident,Pre-Engineering
+O-Level,Pre-Engineering,Average,Commerce,Math,Research,No,Sometimes,Neutral,Ask Help,No,Exams,Not clear,Peer,Confident,Pre-Medical
+O-Level,Pre-Medical,Average,Arts,Math,Research,Somewhat,Yes,Disagree,Avoid,Yes,Exams,Somewhat,Family,Confident,Pre-Medical
+Matric,Commerce,Average,Arts,Writing,Business,Yes,Sometimes,Neutral,Avoid,No,Continuous,Somewhat,Interest,Not confident,Commerce
+O-Level,Commerce,Excellent,Arts,Science,Business,Somewhat,No,Disagree,Ask Help,No,Continuous,Not clear,Career,Unsure,Commerce
+O-Level,Pre-Medical,Good,Arts,Science,Problem solving,Somewhat,Sometimes,Disagree,Avoid,No,Continuous,Somewhat,Peer,Unsure,Pre-Engineering
+O-Level,Pre-Medical,Average,Math,Science,Business,Somewhat,No,Strongly Agree,Ask Help,Yes,Continuous,Somewhat,Family,Confident,Pre-Engineering
+O-Level,Commerce,Below Average,Physics,Math,Creative,Yes,Yes,Strongly Agree,Ask Help,No,Exams,Clear,Family,Confident,Pre-Engineering
+Matric,Pre-Medical,Below Average,Math,Math,Creative,Somewhat,Sometimes,Strongly Agree,Avoid,Yes,Continuous,Somewhat,Family,Confident,Pre-Engineering
+O-Level,Commerce,Average,Physics,Science,Business,No,Yes,Agree,Keep Trying,No,Continuous,Somewhat,Peer,Unsure,Pre-Engineering
+Matric,Pre-Medical,Good,Commerce,Math,Research,No,No,Agree,Avoid,No,Continuous,Not clear,Family,Confident,Pre-Medical
+Matric,Commerce,Below Average,Math,Science,Research,Yes,Sometimes,Neutral,Avoid,Yes,Exams,Somewhat,Interest,Not confident,Pre-Medical
+Matric,Pre-Medical,Excellent,Commerce,Writing,Research,Yes,Sometimes,Strongly Agree,Avoid,No,Continuous,Not clear,Peer,Not confident,Pre-Medical
+O-Level,Commerce,Below Average,Commerce,Writing,Business,No,No,Strongly Agree,Ask Help,Yes,Exams,Not clear,Career,Confident,Commerce
+Matric,Commerce,Average,Commerce,Memorization,Business,Somewhat,No,Agree,Avoid,Yes,Continuous,Clear,Interest,Not confident,Commerce
+O-Level,Pre-Engineering,Average,Arts,Memorization,Research,Somewhat,Sometimes,Strongly Agree,Keep Trying,Yes,Continuous,Clear,Family,Confident,Pre-Medical
+O-Level,Pre-Medical,Good,Math,Science,Business,No,Sometimes,Disagree,Ask Help,Yes,Continuous,Somewhat,Career,Confident,Pre-Engineering
+Matric,Commerce,Below Average,Biology,Writing,Research,Yes,Yes,Strongly Agree,Keep Trying,No,Exams,Not clear,Career,Not confident,Pre-Medical
+O-Level,Pre-Engineering,Excellent,Math,Memorization,Business,No,No,Agree,Keep Trying,Yes,Exams,Not clear,Career,Unsure,Pre-Engineering
+Matric,Pre-Engineering,Excellent,Arts,Science,Business,Somewhat,No,Disagree,Ask Help,Limited,Exams,Somewhat,Peer,Confident,Commerce
+Matric,Pre-Medical,Good,Biology,Writing,Creative,No,No,Neutral,Avoid,Limited,Continuous,Somewhat,Peer,Unsure,Pre-Medical
+O-Level,Commerce,Average,Arts,Science,Research,No,Yes,Neutral,Keep Trying,Limited,Continuous,Somewhat,Family,Unsure,Pre-Medical
+O-Level,Pre-Medical,Good,Arts,Science,Creative,Somewhat,No,Agree,Keep Trying,Yes,Continuous,Clear,Career,Confident,Arts
+O-Level,Pre-Medical,Average,Biology,Math,Business,No,Yes,Neutral,Keep Trying,Yes,Exams,Clear,Interest,Not confident,Pre-Medical
+O-Level,Pre-Engineering,Average,Physics,Memorization,Problem solving,No,Sometimes,Strongly Agree,Ask Help,No,Continuous,Somewhat,Interest,Unsure,Pre-Engineering
+O-Level,Arts,Good,Arts,Writing,Research,Somewhat,Yes,Neutral,Keep Trying,Yes,Continuous,Somewhat,Career,Not confident,Pre-Medical
+O-Level,Pre-Engineering,Average,Math,Science,Creative,Yes,Yes,Neutral,Avoid,Limited,Exams,Clear,Interest,Confident,Pre-Engineering
+Matric,Pre-Engineering,Excellent,Commerce,Writing,Research,Somewhat,Sometimes,Disagree,Ask Help,Yes,Exams,Not clear,Peer,Not confident,Pre-Medical
+O-Level,Commerce,Average,Physics,Math,Creative,Yes,No,Strongly Agree,Keep Trying,No,Continuous,Not clear,Family,Not confident,Pre-Engineering
+O-Level,Arts,Excellent,Commerce,Math,Creative,Somewhat,Sometimes,Neutral,Keep Trying,Yes,Exams,Somewhat,Career,Unsure,Arts
+O-Level,Pre-Engineering,Excellent,Physics,Memorization,Research,Somewhat,No,Disagree,Ask Help,Limited,Exams,Clear,Family,Not confident,Pre-Medical
+Matric,Arts,Below Average,Physics,Memorization,Creative,Somewhat,No,Neutral,Keep Trying,No,Continuous,Somewhat,Peer,Unsure,Pre-Engineering
+Matric,Arts,Average,Math,Writing,Creative,No,Yes,Agree,Ask Help,Yes,Continuous,Somewhat,Family,Not confident,Pre-Engineering
+O-Level,Arts,Below Average,Physics,Writing,Problem solving,Somewhat,No,Disagree,Avoid,Limited,Continuous,Clear,Family,Unsure,Pre-Engineering
+O-Level,Pre-Medical,Below Average,Commerce,Math,Problem solving,Yes,Yes,Disagree,Avoid,No,Continuous,Not clear,Family,Unsure,Pre-Engineering
+O-Level,Arts,Average,Arts,Science,Creative,Yes,Sometimes,Strongly Agree,Avoid,Limited,Continuous,Somewhat,Family,Unsure,Arts
+O-Level,Pre-Medical,Average,Commerce,Math,Business,Yes,Sometimes,Strongly Agree,Avoid,Limited,Continuous,Somewhat,Career,Not confident,Commerce
+O-Level,Pre-Engineering,Excellent,Arts,Writing,Business,Somewhat,Yes,Agree,Avoid,Yes,Exams,Not clear,Family,Unsure,Commerce
+Matric,Pre-Medical,Below Average,Math,Writing,Business,Somewhat,No,Disagree,Avoid,No,Continuous,Somewhat,Interest,Unsure,Pre-Engineering
+Matric,Pre-Medical,Below Average,Math,Memorization,Business,No,Sometimes,Strongly Agree,Ask Help,Limited,Continuous,Somewhat,Family,Not confident,Pre-Engineering
+O-Level,Arts,Excellent,Math,Math,Business,Somewhat,Yes,Agree,Avoid,Yes,Exams,Clear,Family,Confident,Pre-Engineering
+O-Level,Pre-Engineering,Average,Math,Science,Creative,No,Yes,Agree,Avoid,Limited,Exams,Somewhat,Interest,Not confident,Pre-Engineering
+Matric,Pre-Engineering,Excellent,Math,Writing,Research,No,Yes,Disagree,Ask Help,No,Continuous,Somewhat,Career,Confident,Pre-Medical
+O-Level,Arts,Below Average,Commerce,Math,Business,Yes,Sometimes,Agree,Ask Help,Limited,Exams,Somewhat,Family,Unsure,Commerce
+O-Level,Pre-Medical,Excellent,Biology,Memorization,Business,Somewhat,Sometimes,Strongly Agree,Ask Help,Yes,Exams,Not clear,Interest,Not confident,Pre-Medical
+O-Level,Commerce,Excellent,Commerce,Writing,Business,Somewhat,No,Agree,Avoid,No,Exams,Not clear,Career,Confident,Commerce
+Matric,Pre-Engineering,Excellent,Arts,Memorization,Research,No,Yes,Strongly Agree,Avoid,Limited,Continuous,Clear,Family,Not confident,Pre-Medical
+O-Level,Pre-Medical,Average,Commerce,Memorization,Creative,Somewhat,No,Disagree,Avoid,Yes,Exams,Clear,Peer,Confident,Arts
+O-Level,Pre-Medical,Excellent,Physics,Science,Research,No,No,Disagree,Avoid,No,Exams,Somewhat,Peer,Confident,Pre-Medical
+Matric,Commerce,Below Average,Biology,Math,Business,Somewhat,No,Agree,Ask Help,Limited,Exams,Clear,Career,Not confident,Pre-Medical
+O-Level,Commerce,Excellent,Biology,Science,Business,No,Yes,Disagree,Keep Trying,Yes,Exams,Not clear,Interest,Not confident,Pre-Medical
+O-Level,Pre-Engineering,Excellent,Math,Writing,Business,Yes,Yes,Disagree,Avoid,No,Continuous,Clear,Career,Confident,Pre-Engineering
+Matric,Pre-Medical,Good,Arts,Memorization,Business,Somewhat,Sometimes,Disagree,Keep Trying,Yes,Exams,Clear,Peer,Confident,Commerce
+O-Level,Commerce,Below Average,Biology,Memorization,Research,Yes,Sometimes,Strongly Agree,Keep Trying,No,Exams,Somewhat,Career,Unsure,Pre-Medical
+O-Level,Commerce,Good,Biology,Science,Business,Yes,No,Agree,Avoid,Limited,Continuous,Not clear,Career,Unsure,Pre-Medical
+Matric,Pre-Engineering,Good,Math,Math,Creative,No,No,Disagree,Avoid,Yes,Continuous,Clear,Peer,Unsure,Pre-Engineering
+Matric,Pre-Medical,Below Average,Biology,Writing,Creative,No,Sometimes,Disagree,Keep Trying,Yes,Exams,Not clear,Family,Unsure,Pre-Medical
+Matric,Arts,Below Average,Physics,Science,Business,No,No,Neutral,Ask Help,Yes,Exams,Clear,Career,Not confident,Pre-Engineering
+Matric,Arts,Average,Arts,Writing,Research,No,No,Disagree,Avoid,No,Continuous,Clear,Interest,Confident,Pre-Medical
+Matric,Commerce,Good,Math,Science,Research,No,No,Disagree,Ask Help,Yes,Continuous,Somewhat,Family,Confident,Pre-Medical
+O-Level,Arts,Excellent,Physics,Memorization,Creative,Yes,No,Disagree,Avoid,Limited,Continuous,Not clear,Interest,Unsure,Pre-Engineering
+Matric,Pre-Engineering,Excellent,Biology,Math,Creative,No,Yes,Strongly Agree,Ask Help,Limited,Continuous,Clear,Family,Unsure,Pre-Medical
+Matric,Commerce,Average,Commerce,Math,Research,Somewhat,Yes,Neutral,Avoid,Limited,Exams,Somewhat,Career,Not confident,Pre-Medical
+Matric,Arts,Average,Physics,Science,Creative,Somewhat,No,Neutral,Keep Trying,Limited,Exams,Clear,Career,Confident,Pre-Engineering
+O-Level,Commerce,Excellent,Physics,Science,Research,Yes,No,Agree,Keep Trying,No,Continuous,Somewhat,Family,Not confident,Pre-Medical
+Matric,Arts,Good,Arts,Memorization,Research,No,Sometimes,Agree,Keep Trying,Yes,Continuous,Somewhat,Interest,Unsure,Pre-Medical
+O-Level,Pre-Medical,Below Average,Arts,Math,Research,Somewhat,Yes,Neutral,Avoid,No,Continuous,Somewhat,Family,Unsure,Pre-Medical
+Matric,Commerce,Average,Physics,Memorization,Research,Yes,Yes,Disagree,Avoid,Limited,Continuous,Somewhat,Career,Unsure,Pre-Medical
+O-Level,Commerce,Excellent,Physics,Math,Problem solving,Yes,Sometimes,Strongly Agree,Ask Help,No,Exams,Somewhat,Peer,Confident,Pre-Engineering
+O-Level,Pre-Medical,Excellent,Math,Science,Business,No,Sometimes,Disagree,Keep Trying,Yes,Exams,Not clear,Peer,Unsure,Pre-Engineering
+Matric,Pre-Engineering,Below Average,Arts,Memorization,Problem solving,No,Yes,Disagree,Ask Help,Yes,Continuous,Clear,Peer,Confident,Pre-Engineering
+O-Level,Arts,Average,Arts,Science,Research,Yes,No,Agree,Keep Trying,Yes,Continuous,Somewhat,Career,Not confident,Pre-Medical
+O-Level,Arts,Excellent,Biology,Science,Problem solving,No,Sometimes,Neutral,Keep Trying,Limited,Exams,Clear,Career,Confident,Pre-Medical
+O-Level,Pre-Engineering,Average,Commerce,Math,Research,Somewhat,Yes,Neutral,Ask Help,No,Continuous,Not clear,Family,Confident,Pre-Medical
+O-Level,Pre-Engineering,Good,Physics,Science,Research,Yes,No,Neutral,Avoid,Yes,Exams,Somewhat,Interest,Not confident,Pre-Medical
+Matric,Pre-Medical,Below Average,Commerce,Science,Creative,Yes,Sometimes,Agree,Ask Help,Yes,Exams,Not clear,Interest,Confident,Arts
+O-Level,Pre-Engineering,Average,Commerce,Writing,Creative,Yes,Yes,Disagree,Keep Trying,No,Exams,Somewhat,Interest,Not confident,Arts
+O-Level,Commerce,Average,Biology,Math,Problem solving,No,Yes,Strongly Agree,Keep Trying,No,Exams,Not clear,Interest,Not confident,Pre-Medical
+O-Level,Arts,Good,Biology,Science,Research,Somewhat,Yes,Strongly Agree,Keep Trying,No,Continuous,Clear,Family,Confident,Pre-Medical
+O-Level,Pre-Engineering,Excellent,Commerce,Science,Business,Somewhat,Sometimes,Agree,Ask Help,Limited,Continuous,Somewhat,Interest,Unsure,Commerce
+Matric,Pre-Engineering,Excellent,Biology,Memorization,Business,Somewhat,Sometimes,Disagree,Ask Help,No,Continuous,Clear,Peer,Confident,Pre-Medical
+Matric,Pre-Medical,Excellent,Math,Math,Creative,No,No,Agree,Ask Help,Limited,Exams,Clear,Interest,Confident,Pre-Engineering
+Matric,Arts,Excellent,Arts,Memorization,Creative,No,Sometimes,Neutral,Keep Trying,Limited,Exams,Not clear,Interest,Not confident,Arts
+Matric,Pre-Medical,Below Average,Arts,Math,Creative,Somewhat,Yes,Strongly Agree,Ask Help,Limited,Exams,Not clear,Family,Not confident,Arts
+Matric,Pre-Medical,Excellent,Commerce,Memorization,Problem solving,Yes,Sometimes,Agree,Ask Help,Limited,Exams,Clear,Family,Unsure,Pre-Engineering
+O-Level,Arts,Below Average,Arts,Math,Research,Yes,Sometimes,Strongly Agree,Keep Trying,Limited,Continuous,Not clear,Peer,Confident,Pre-Medical
+Matric,Pre-Medical,Below Average,Biology,Writing,Problem solving,Yes,Sometimes,Strongly Agree,Keep Trying,Limited,Continuous,Somewhat,Family,Unsure,Pre-Medical
+O-Level,Commerce,Good,Physics,Writing,Business,Somewhat,Yes,Disagree,Ask Help,Yes,Continuous,Clear,Family,Unsure,Pre-Engineering
+O-Level,Arts,Average,Commerce,Memorization,Problem solving,Somewhat,Sometimes,Agree,Ask Help,Limited,Continuous,Clear,Interest,Not confident,Pre-Engineering
+Matric,Commerce,Below Average,Biology,Writing,Problem solving,Somewhat,No,Agree,Ask Help,Limited,Continuous,Clear,Peer,Not confident,Pre-Medical
+Matric,Commerce,Good,Biology,Memorization,Problem solving,Yes,No,Neutral,Ask Help,No,Continuous,Not clear,Peer,Confident,Pre-Medical
+Matric,Pre-Medical,Average,Biology,Memorization,Business,Yes,No,Disagree,Ask Help,No,Exams,Not clear,Peer,Not confident,Pre-Medical
+O-Level,Pre-Medical,Average,Biology,Memorization,Research,Somewhat,Sometimes,Strongly Agree,Ask Help,Limited,Exams,Somewhat,Career,Not confident,Pre-Medical
+Matric,Pre-Medical,Good,Physics,Science,Business,Yes,No,Agree,Ask Help,Yes,Continuous,Clear,Peer,Confident,Pre-Engineering
+O-Level,Pre-Engineering,Good,Physics,Math,Problem solving,Yes,Yes,Neutral,Ask Help,No,Continuous,Not clear,Career,Confident,Pre-Engineering
+O-Level,Pre-Engineering,Excellent,Arts,Math,Research,No,Sometimes,Agree,Ask Help,Limited,Exams,Not clear,Peer,Confident,Pre-Medical
+O-Level,Pre-Engineering,Good,Math,Math,Research,Yes,No,Agree,Avoid,Yes,Continuous,Somewhat,Peer,Confident,Pre-Medical
+O-Level,Commerce,Good,Physics,Writing,Creative,Yes,Sometimes,Agree,Avoid,No,Exams,Not clear,Interest,Confident,Pre-Engineering
+O-Level,Arts,Good,Physics,Science,Creative,No,Yes,Neutral,Avoid,Limited,Exams,Clear,Family,Unsure,Pre-Engineering
+O-Level,Arts,Below Average,Biology,Memorization,Business,Somewhat,Yes,Agree,Avoid,Yes,Continuous,Not clear,Interest,Unsure,Pre-Medical
+O-Level,Pre-Engineering,Excellent,Physics,Science,Creative,Yes,No,Neutral,Avoid,No,Exams,Somewhat,Interest,Confident,Pre-Engineering
+Matric,Pre-Engineering,Average,Commerce,Writing,Problem solving,Somewhat,Sometimes,Neutral,Avoid,Yes,Continuous,Not clear,Interest,Not confident,Pre-Engineering
+Matric,Commerce,Good,Physics,Math,Research,Somewhat,Sometimes,Agree,Keep Trying,Limited,Exams,Not clear,Interest,Not confident,Pre-Medical
+Matric,Pre-Medical,Below Average,Physics,Math,Creative,Somewhat,Yes,Agree,Keep Trying,Yes,Exams,Somewhat,Career,Not confident,Pre-Engineering
+O-Level,Commerce,Excellent,Arts,Science,Problem solving,Yes,No,Agree,Avoid,Limited,Exams,Not clear,Career,Not confident,Pre-Engineering
+Matric,Pre-Engineering,Below Average,Commerce,Math,Problem solving,Yes,Yes,Disagree,Ask Help,Limited,Exams,Not clear,Family,Not confident,Pre-Engineering
+Matric,Pre-Engineering,Below Average,Arts,Memorization,Problem solving,Yes,Yes,Strongly Agree,Avoid,Yes,Exams,Somewhat,Peer,Unsure,Pre-Engineering
+O-Level,Arts,Below Average,Physics,Science,Creative,No,Sometimes,Agree,Ask Help,No,Continuous,Somewhat,Career,Not confident,Pre-Engineering
+Matric,Pre-Engineering,Excellent,Biology,Math,Research,Yes,Yes,Neutral,Keep Trying,Yes,Continuous,Clear,Peer,Confident,Pre-Medical
+Matric,Arts,Good,Commerce,Math,Business,No,Yes,Strongly Agree,Ask Help,Limited,Continuous,Not clear,Interest,Unsure,Commerce
+Matric,Pre-Medical,Excellent,Physics,Writing,Problem solving,Somewhat,Sometimes,Disagree,Keep Trying,Limited,Exams,Not clear,Peer,Unsure,Pre-Engineering
+Matric,Arts,Good,Commerce,Math,Creative,No,Yes,Neutral,Avoid,Yes,Continuous,Somewhat,Peer,Not confident,Arts
+Matric,Commerce,Below Average,Math,Math,Business,Yes,Yes,Agree,Avoid,Limited,Continuous,Somewhat,Peer,Confident,Pre-Engineering
+Matric,Commerce,Excellent,Commerce,Writing,Business,Yes,Sometimes,Strongly Agree,Avoid,Yes,Continuous,Clear,Career,Confident,Commerce
+Matric,Pre-Medical,Below Average,Biology,Writing,Creative,Yes,Yes,Disagree,Keep Trying,No,Exams,Clear,Peer,Not confident,Pre-Medical
+Matric,Commerce,Excellent,Arts,Writing,Creative,No,No,Agree,Ask Help,Limited,Exams,Not clear,Peer,Not confident,Arts
+Matric,Pre-Medical,Average,Physics,Writing,Problem solving,Somewhat,Sometimes,Neutral,Keep Trying,Yes,Exams,Somewhat,Family,Not confident,Pre-Engineering
+Matric,Pre-Engineering,Average,Biology,Writing,Business,Yes,Sometimes,Strongly Agree,Keep Trying,Limited,Continuous,Somewhat,Career,Confident,Pre-Medical
+O-Level,Pre-Engineering,Good,Arts,Memorization,Problem solving,Yes,Sometimes,Agree,Keep Trying,Yes,Exams,Not clear,Peer,Confident,Pre-Engineering
+O-Level,Pre-Medical,Below Average,Math,Science,Business,Yes,Sometimes,Neutral,Ask Help,Yes,Continuous,Not clear,Career,Confident,Pre-Engineering
+Matric,Pre-Engineering,Below Average,Biology,Writing,Research,Yes,No,Strongly Agree,Avoid,No,Exams,Not clear,Career,Confident,Pre-Medical
+Matric,Commerce,Good,Arts,Memorization,Business,No,No,Neutral,Avoid,Yes,Continuous,Somewhat,Career,Confident,Commerce
+Matric,Pre-Engineering,Good,Biology,Writing,Business,Somewhat,No,Strongly Agree,Avoid,No,Exams,Somewhat,Interest,Unsure,Pre-Medical
+Matric,Pre-Medical,Average,Physics,Science,Business,No,No,Disagree,Ask Help,No,Continuous,Clear,Career,Not confident,Pre-Engineering
+O-Level,Commerce,Below Average,Physics,Memorization,Creative,Somewhat,No,Disagree,Ask Help,Yes,Exams,Somewhat,Career,Not confident,Pre-Engineering
+Matric,Pre-Medical,Average,Biology,Science,Research,No,Yes,Strongly Agree,Keep Trying,No,Exams,Somewhat,Peer,Confident,Pre-Medical
+Matric,Pre-Engineering,Average,Math,Memorization,Research,Somewhat,Sometimes,Strongly Agree,Avoid,No,Exams,Not clear,Family,Unsure,Pre-Medical
+O-Level,Pre-Engineering,Excellent,Arts,Math,Creative,Somewhat,Yes,Neutral,Keep Trying,Limited,Continuous,Clear,Family,Unsure,Arts
+Matric,Commerce,Excellent,Arts,Math,Problem solving,Somewhat,No,Neutral,Keep Trying,Yes,Continuous,Clear,Interest,Not confident,Pre-Engineering
+Matric,Pre-Medical,Good,Arts,Math,Creative,Yes,Sometimes,Strongly Agree,Ask Help,No,Exams,Clear,Peer,Not confident,Arts
+Matric,Commerce,Good,Commerce,Memorization,Problem solving,Yes,Yes,Neutral,Keep Trying,Limited,Continuous,Not clear,Peer,Not confident,Pre-Engineering
+Matric,Commerce,Excellent,Physics,Science,Research,No,Sometimes,Strongly Agree,Keep Trying,Limited,Exams,Clear,Family,Unsure,Pre-Medical
+Matric,Pre-Medical,Below Average,Math,Science,Business,Somewhat,Sometimes,Agree,Avoid,Yes,Continuous,Not clear,Peer,Confident,Pre-Engineering
+O-Level,Arts,Below Average,Commerce,Writing,Business,Yes,Sometimes,Agree,Avoid,No,Exams,Somewhat,Career,Unsure,Commerce
+O-Level,Commerce,Average,Commerce,Science,Research,No,No,Strongly Agree,Ask Help,Limited,Exams,Somewhat,Family,Confident,Pre-Medical
+Matric,Arts,Good,Physics,Writing,Problem solving,No,Yes,Disagree,Keep Trying,Yes,Continuous,Clear,Interest,Confident,Pre-Engineering
+O-Level,Pre-Medical,Below Average,Commerce,Writing,Business,Somewhat,Sometimes,Strongly Agree,Ask Help,Yes,Continuous,Somewhat,Family,Unsure,Commerce
+O-Level,Commerce,Average,Biology,Science,Research,Yes,Sometimes,Disagree,Avoid,Yes,Continuous,Somewhat,Peer,Not confident,Pre-Medical
+Matric,Arts,Below Average,Commerce,Math,Problem solving,No,No,Agree,Avoid,Limited,Continuous,Not clear,Peer,Not confident,Pre-Engineering
+O-Level,Commerce,Below Average,Arts,Writing,Problem solving,Yes,Sometimes,Neutral,Ask Help,No,Continuous,Clear,Peer,Not confident,Pre-Engineering
+Matric,Commerce,Below Average,Biology,Memorization,Business,No,Yes,Neutral,Ask Help,No,Continuous,Somewhat,Peer,Unsure,Pre-Medical
+O-Level,Pre-Engineering,Excellent,Math,Writing,Business,Yes,No,Strongly Agree,Avoid,No,Exams,Somewhat,Family,Confident,Pre-Engineering
+Matric,Arts,Good,Commerce,Memorization,Business,No,No,Strongly Agree,Avoid,No,Exams,Not clear,Peer,Not confident,Commerce
+O-Level,Commerce,Average,Arts,Science,Research,Somewhat,Yes,Strongly Agree,Ask Help,Limited,Exams,Not clear,Family,Unsure,Pre-Medical
+Matric,Pre-Medical,Average,Commerce,Memorization,Problem solving,Yes,Sometimes,Disagree,Avoid,No,Exams,Clear,Career,Confident,Pre-Engineering
+O-Level,Pre-Engineering,Average,Math,Math,Creative,Yes,Sometimes,Neutral,Keep Trying,No,Exams,Clear,Interest,Confident,Pre-Engineering
+O-Level,Commerce,Excellent,Math,Science,Research,No,No,Disagree,Avoid,Limited,Continuous,Clear,Career,Not confident,Pre-Medical
+O-Level,Commerce,Average,Biology,Memorization,Research,Somewhat,No,Disagree,Keep Trying,Limited,Continuous,Not clear,Peer,Confident,Pre-Medical
+Matric,Pre-Medical,Below Average,Math,Memorization,Problem solving,Somewhat,No,Agree,Keep Trying,No,Exams,Clear,Family,Confident,Pre-Engineering
+Matric,Commerce,Good,Arts,Memorization,Research,Yes,Sometimes,Agree,Keep Trying,Limited,Continuous,Clear,Peer,Not confident,Pre-Medical
+O-Level,Arts,Below Average,Biology,Math,Business,Yes,Sometimes,Neutral,Keep Trying,Limited,Exams,Clear,Career,Confident,Pre-Medical
+O-Level,Arts,Below Average,Commerce,Math,Creative,No,Sometimes,Agree,Keep Trying,Limited,Exams,Somewhat,Interest,Not confident,Arts
+O-Level,Pre-Medical,Excellent,Commerce,Math,Business,Somewhat,No,Disagree,Ask Help,Limited,Exams,Clear,Career,Confident,Commerce
+O-Level,Pre-Engineering,Excellent,Commerce,Science,Problem solving,Yes,No,Agree,Avoid,Yes,Exams,Clear,Peer,Confident,Pre-Engineering
+O-Level,Commerce,Good,Physics,Memorization,Problem solving,Yes,No,Neutral,Keep Trying,No,Exams,Not clear,Career,Confident,Pre-Engineering
+Matric,Pre-Engineering,Excellent,Math,Math,Problem solving,Somewhat,Sometimes,Neutral,Ask Help,Yes,Continuous,Not clear,Family,Unsure,Pre-Engineering
+Matric,Commerce,Below Average,Biology,Science,Business,No,No,Strongly Agree,Keep Trying,Limited,Exams,Somewhat,Family,Confident,Pre-Medical
+O-Level,Commerce,Excellent,Biology,Math,Business,No,Yes,Neutral,Avoid,No,Exams,Clear,Career,Not confident,Pre-Medical
+O-Level,Commerce,Below Average,Physics,Memorization,Business,Somewhat,Yes,Strongly Agree,Keep Trying,No,Exams,Clear,Peer,Not confident,Pre-Engineering
+O-Level,Pre-Engineering,Below Average,Commerce,Memorization,Problem solving,Yes,Sometimes,Disagree,Avoid,No,Exams,Not clear,Career,Confident,Pre-Engineering
+O-Level,Pre-Engineering,Excellent,Commerce,Science,Research,No,No,Agree,Avoid,Limited,Exams,Somewhat,Career,Not confident,Pre-Medical
+Matric,Arts,Below Average,Physics,Writing,Business,No,Yes,Strongly Agree,Keep Trying,No,Exams,Clear,Family,Confident,Pre-Engineering
+Matric,Commerce,Below Average,Math,Memorization,Research,No,Yes,Strongly Agree,Ask Help,No,Continuous,Somewhat,Career,Not confident,Pre-Medical
+O-Level,Pre-Engineering,Good,Biology,Math,Business,No,Sometimes,Strongly Agree,Avoid,Yes,Continuous,Not clear,Peer,Confident,Pre-Medical
+O-Level,Commerce,Excellent,Biology,Science,Creative,No,Sometimes,Agree,Ask Help,Limited,Continuous,Not clear,Peer,Unsure,Pre-Medical
+O-Level,Pre-Engineering,Excellent,Math,Math,Creative,No,No,Agree,Keep Trying,Limited,Exams,Clear,Interest,Not confident,Pre-Engineering
+Matric,Pre-Engineering,Excellent,Math,Writing,Creative,Somewhat,Sometimes,Neutral,Ask Help,Limited,Continuous,Not clear,Family,Not confident,Pre-Engineering
+O-Level,Commerce,Below Average,Biology,Math,Creative,No,Yes,Disagree,Avoid,No,Continuous,Not clear,Family,Confident,Pre-Medical
+O-Level,Pre-Engineering,Good,Math,Memorization,Research,No,No,Agree,Ask Help,No,Continuous,Somewhat,Family,Unsure,Pre-Medical
+O-Level,Commerce,Average,Math,Memorization,Research,Somewhat,Yes,Strongly Agree,Avoid,Limited,Continuous,Somewhat,Interest,Confident,Pre-Medical
+O-Level,Pre-Engineering,Average,Math,Math,Research,Yes,Yes,Disagree,Ask Help,Yes,Continuous,Not clear,Peer,Confident,Pre-Medical
+Matric,Pre-Medical,Excellent,Math,Science,Creative,Somewhat,No,Neutral,Avoid,Yes,Exams,Somewhat,Peer,Not confident,Pre-Engineering
+Matric,Pre-Engineering,Below Average,Physics,Memorization,Research,No,Yes,Neutral,Ask Help,Limited,Continuous,Somewhat,Peer,Not confident,Pre-Medical
+O-Level,Pre-Engineering,Good,Physics,Memorization,Research,Somewhat,Sometimes,Disagree,Keep Trying,Limited,Exams,Clear,Career,Unsure,Pre-Medical
+O-Level,Commerce,Average,Arts,Writing,Problem solving,Yes,Sometimes,Agree,Keep Trying,No,Exams,Clear,Interest,Not confident,Pre-Engineering
+O-Level,Pre-Medical,Good,Math,Writing,Research,Yes,Sometimes,Disagree,Keep Trying,Yes,Continuous,Not clear,Peer,Unsure,Pre-Medical
+O-Level,Arts,Average,Math,Writing,Business,Yes,Yes,Agree,Keep Trying,No,Continuous,Somewhat,Interest,Confident,Pre-Engineering
+O-Level,Pre-Engineering,Below Average,Biology,Science,Creative,Yes,Sometimes,Disagree,Keep Trying,Limited,Continuous,Somewhat,Peer,Not confident,Pre-Medical
+O-Level,Arts,Excellent,Commerce,Math,Problem solving,No,Sometimes,Agree,Ask Help,Limited,Continuous,Somewhat,Family,Unsure,Pre-Engineering
+Matric,Pre-Engineering,Average,Biology,Science,Research,Yes,No,Disagree,Keep Trying,Limited,Continuous,Somewhat,Peer,Unsure,Pre-Medical
+O-Level,Arts,Average,Arts,Math,Business,Yes,No,Disagree,Keep Trying,Yes,Exams,Not clear,Career,Unsure,Commerce
+Matric,Pre-Medical,Average,Math,Science,Problem solving,Yes,Yes,Strongly Agree,Ask Help,No,Continuous,Clear,Career,Confident,Pre-Engineering
+O-Level,Commerce,Average,Math,Math,Business,No,No,Disagree,Ask Help,Yes,Exams,Somewhat,Peer,Confident,Pre-Engineering
+O-Level,Arts,Good,Biology,Writing,Problem solving,No,No,Neutral,Avoid,No,Continuous,Clear,Peer,Confident,Pre-Medical
+O-Level,Arts,Average,Math,Writing,Creative,Yes,No,Disagree,Avoid,Limited,Continuous,Clear,Interest,Not confident,Pre-Engineering
+Matric,Arts,Excellent,Math,Writing,Problem solving,No,No,Neutral,Avoid,Limited,Continuous,Not clear,Interest,Confident,Pre-Engineering
+O-Level,Pre-Medical,Average,Commerce,Memorization,Creative,Somewhat,Yes,Strongly Agree,Ask Help,Yes,Exams,Somewhat,Peer,Confident,Arts
+O-Level,Pre-Engineering,Excellent,Physics,Writing,Creative,Somewhat,Sometimes,Agree,Avoid,Yes,Exams,Clear,Career,Unsure,Pre-Engineering
+Matric,Commerce,Excellent,Physics,Science,Creative,No,Yes,Disagree,Ask Help,Yes,Continuous,Clear,Family,Unsure,Pre-Engineering
+Matric,Pre-Engineering,Excellent,Physics,Writing,Problem solving,No,Sometimes,Neutral,Keep Trying,Limited,Continuous,Not clear,Peer,Not confident,Pre-Engineering
+Matric,Pre-Medical,Excellent,Math,Science,Business,Yes,No,Agree,Ask Help,Yes,Continuous,Not clear,Family,Not confident,Pre-Engineering
+Matric,Pre-Medical,Good,Arts,Memorization,Problem solving,No,Sometimes,Strongly Agree,Avoid,Limited,Continuous,Not clear,Peer,Not confident,Pre-Engineering
+O-Level,Arts,Average,Math,Science,Research,Yes,No,Agree,Ask Help,No,Continuous,Somewhat,Family,Confident,Pre-Medical
+O-Level,Pre-Engineering,Average,Physics,Writing,Creative,Somewhat,No,Neutral,Ask Help,Yes,Exams,Somewhat,Family,Unsure,Pre-Engineering
+O-Level,Arts,Excellent,Commerce,Writing,Creative,No,Yes,Agree,Avoid,No,Continuous,Not clear,Peer,Not confident,Arts
+Matric,Commerce,Below Average,Commerce,Memorization,Creative,No,Yes,Disagree,Ask Help,No,Exams,Clear,Career,Unsure,Arts
+O-Level,Commerce,Good,Biology,Science,Problem solving,Yes,Yes,Agree,Keep Trying,Yes,Exams,Not clear,Interest,Unsure,Pre-Medical
+Matric,Commerce,Good,Biology,Math,Creative,No,Yes,Strongly Agree,Avoid,Yes,Continuous,Clear,Interest,Not confident,Pre-Medical
+Matric,Pre-Engineering,Good,Arts,Science,Problem solving,Yes,No,Neutral,Keep Trying,Limited,Exams,Clear,Interest,Not confident,Pre-Engineering
+Matric,Pre-Engineering,Below Average,Arts,Math,Creative,Yes,Sometimes,Strongly Agree,Ask Help,Yes,Continuous,Clear,Peer,Confident,Arts
+O-Level,Arts,Excellent,Math,Science,Creative,Yes,No,Neutral,Keep Trying,Yes,Exams,Somewhat,Family,Unsure,Pre-Engineering
+Matric,Pre-Medical,Good,Biology,Writing,Research,No,Yes,Neutral,Avoid,No,Continuous,Clear,Peer,Not confident,Pre-Medical
+Matric,Pre-Medical,Excellent,Biology,Writing,Business,Yes,Yes,Strongly Agree,Keep Trying,Limited,Continuous,Not clear,Family,Not confident,Pre-Medical
+O-Level,Pre-Medical,Excellent,Commerce,Writing,Business,No,Yes,Neutral,Ask Help,No,Continuous,Not clear,Interest,Confident,Commerce
+O-Level,Pre-Engineering,Below Average,Physics,Writing,Business,Somewhat,No,Neutral,Ask Help,No,Exams,Not clear,Peer,Confident,Pre-Engineering
+Matric,Pre-Medical,Good,Physics,Science,Problem solving,No,Sometimes,Strongly Agree,Keep Trying,Yes,Continuous,Clear,Family,Not confident,Pre-Engineering
+Matric,Commerce,Good,Arts,Memorization,Creative,No,Sometimes,Disagree,Ask Help,Limited,Continuous,Not clear,Peer,Not confident,Arts
+O-Level,Pre-Medical,Below Average,Commerce,Memorization,Creative,Yes,Yes,Disagree,Keep Trying,Limited,Continuous,Clear,Family,Confident,Arts
+Matric,Pre-Engineering,Below Average,Math,Writing,Business,Somewhat,No,Agree,Avoid,Limited,Exams,Somewhat,Interest,Confident,Pre-Engineering
+Matric,Arts,Excellent,Arts,Science,Problem solving,No,Sometimes,Disagree,Keep Trying,No,Continuous,Not clear,Career,Unsure,Pre-Engineering
+Matric,Pre-Medical,Below Average,Math,Math,Research,No,Yes,Strongly Agree,Ask Help,Limited,Exams,Somewhat,Peer,Unsure,Pre-Medical
+Matric,Commerce,Below Average,Physics,Writing,Creative,Yes,Yes,Neutral,Keep Trying,Limited,Continuous,Somewhat,Family,Confident,Pre-Engineering
+Matric,Pre-Engineering,Good,Physics,Writing,Problem solving,Somewhat,Yes,Neutral,Ask Help,No,Exams,Somewhat,Career,Confident,Pre-Engineering
+O-Level,Pre-Engineering,Good,Physics,Memorization,Research,Yes,Yes,Neutral,Keep Trying,Limited,Exams,Clear,Peer,Unsure,Pre-Medical
+Matric,Pre-Engineering,Below Average,Physics,Math,Creative,Yes,Yes,Disagree,Ask Help,Yes,Continuous,Clear,Career,Unsure,Pre-Engineering
+O-Level,Commerce,Excellent,Biology,Memorization,Creative,No,Sometimes,Disagree,Ask Help,No,Exams,Not clear,Peer,Unsure,Pre-Medical
+O-Level,Pre-Engineering,Below Average,Biology,Memorization,Problem solving,Somewhat,No,Neutral,Keep Trying,Limited,Continuous,Not clear,Peer,Unsure,Pre-Medical
+Matric,Arts,Good,Arts,Memorization,Problem solving,Somewhat,Sometimes,Agree,Avoid,No,Continuous,Clear,Interest,Not confident,Pre-Engineering
+Matric,Pre-Engineering,Average,Biology,Writing,Research,No,No,Neutral,Avoid,No,Continuous,Somewhat,Family,Unsure,Pre-Medical
+O-Level,Pre-Medical,Excellent,Biology,Memorization,Research,No,No,Disagree,Keep Trying,No,Exams,Not clear,Interest,Confident,Pre-Medical
+O-Level,Arts,Excellent,Arts,Memorization,Business,Somewhat,No,Strongly Agree,Ask Help,No,Continuous,Somewhat,Career,Not confident,Commerce
+O-Level,Commerce,Excellent,Physics,Memorization,Research,Yes,Yes,Disagree,Ask Help,Yes,Continuous,Clear,Peer,Unsure,Pre-Medical
+Matric,Pre-Medical,Good,Biology,Writing,Research,Yes,No,Disagree,Avoid,Limited,Exams,Clear,Interest,Not confident,Pre-Medical
+O-Level,Pre-Medical,Good,Math,Math,Problem solving,Somewhat,No,Disagree,Ask Help,No,Continuous,Clear,Family,Confident,Pre-Engineering
+O-Level,Pre-Engineering,Excellent,Physics,Math,Research,Yes,No,Strongly Agree,Ask Help,Limited,Continuous,Not clear,Interest,Confident,Pre-Medical
+Matric,Pre-Engineering,Below Average,Math,Writing,Research,Yes,Sometimes,Agree,Ask Help,Yes,Continuous,Somewhat,Interest,Not confident,Pre-Medical
+Matric,Commerce,Average,Math,Writing,Research,Yes,Sometimes,Strongly Agree,Ask Help,Yes,Continuous,Somewhat,Peer,Confident,Pre-Medical
+O-Level,Commerce,Below Average,Biology,Memorization,Business,Somewhat,Yes,Strongly Agree,Ask Help,Yes,Exams,Not clear,Family,Unsure,Pre-Medical
+Matric,Arts,Below Average,Biology,Memorization,Problem solving,Yes,No,Neutral,Avoid,Limited,Continuous,Not clear,Interest,Unsure,Pre-Medical
+O-Level,Pre-Medical,Average,Math,Math,Research,Somewhat,Sometimes,Disagree,Keep Trying,Yes,Exams,Clear,Peer,Unsure,Pre-Medical
+Matric,Arts,Average,Math,Memorization,Problem solving,Yes,Sometimes,Agree,Keep Trying,No,Continuous,Not clear,Interest,Not confident,Pre-Engineering
+O-Level,Commerce,Excellent,Arts,Science,Business,Somewhat,Sometimes,Neutral,Avoid,Limited,Continuous,Not clear,Peer,Confident,Commerce
+O-Level,Arts,Average,Arts,Math,Problem solving,No,Sometimes,Agree,Ask Help,Yes,Exams,Somewhat,Peer,Not confident,Pre-Engineering
+O-Level,Commerce,Good,Commerce,Math,Problem solving,Somewhat,No,Disagree,Ask Help,Yes,Continuous,Clear,Family,Unsure,Pre-Engineering
+Matric,Pre-Medical,Excellent,Arts,Science,Business,Yes,No,Agree,Avoid,Yes,Continuous,Somewhat,Interest,Unsure,Commerce
+Matric,Commerce,Good,Biology,Memorization,Creative,Somewhat,No,Agree,Avoid,Limited,Exams,Not clear,Career,Confident,Pre-Medical
+O-Level,Commerce,Good,Math,Science,Research,Somewhat,Yes,Neutral,Avoid,No,Continuous,Not clear,Career,Unsure,Pre-Medical
+Matric,Pre-Medical,Below Average,Biology,Writing,Creative,Yes,Sometimes,Neutral,Keep Trying,Yes,Exams,Not clear,Career,Unsure,Pre-Medical
+O-Level,Arts,Average,Math,Writing,Problem solving,Somewhat,Sometimes,Strongly Agree,Keep Trying,Limited,Exams,Somewhat,Peer,Confident,Pre-Engineering
+Matric,Arts,Average,Biology,Writing,Research,No,Yes,Disagree,Avoid,No,Exams,Not clear,Peer,Confident,Pre-Medical
+O-Level,Pre-Medical,Average,Commerce,Science,Business,No,No,Disagree,Ask Help,No,Exams,Not clear,Interest,Unsure,Commerce
+O-Level,Commerce,Average,Arts,Math,Research,No,No,Neutral,Keep Trying,Limited,Exams,Clear,Family,Unsure,Pre-Medical
+O-Level,Commerce,Average,Math,Writing,Business,Yes,Sometimes,Neutral,Keep Trying,Limited,Exams,Clear,Peer,Confident,Pre-Engineering
+Matric,Arts,Average,Arts,Math,Problem solving,Yes,Yes,Neutral,Keep Trying,Yes,Exams,Clear,Family,Confident,Pre-Engineering
+O-Level,Arts,Excellent,Arts,Math,Problem solving,Somewhat,Sometimes,Agree,Keep Trying,Limited,Continuous,Clear,Peer,Not confident,Pre-Engineering
+O-Level,Arts,Average,Arts,Science,Business,Somewhat,Yes,Strongly Agree,Avoid,Limited,Continuous,Not clear,Interest,Unsure,Commerce
+O-Level,Pre-Engineering,Excellent,Commerce,Memorization,Business,No,No,Disagree,Ask Help,Limited,Continuous,Not clear,Interest,Unsure,Commerce
+Matric,Commerce,Below Average,Biology,Writing,Creative,Yes,No,Strongly Agree,Ask Help,No,Continuous,Somewhat,Career,Unsure,Pre-Medical
+Matric,Pre-Engineering,Excellent,Commerce,Science,Business,Somewhat,Yes,Disagree,Avoid,No,Continuous,Clear,Family,Not confident,Commerce
+O-Level,Commerce,Good,Arts,Science,Problem solving,Yes,No,Neutral,Keep Trying,Limited,Exams,Not clear,Interest,Unsure,Pre-Engineering
+Matric,Pre-Medical,Excellent,Commerce,Science,Creative,Yes,Yes,Neutral,Ask Help,No,Continuous,Somewhat,Career,Unsure,Arts
+O-Level,Commerce,Below Average,Math,Math,Creative,No,Yes,Strongly Agree,Ask Help,Limited,Exams,Not clear,Interest,Not confident,Pre-Engineering
+O-Level,Arts,Average,Math,Science,Research,Somewhat,Sometimes,Strongly Agree,Keep Trying,Yes,Continuous,Clear,Family,Unsure,Pre-Medical
+O-Level,Pre-Medical,Good,Commerce,Science,Creative,Somewhat,Yes,Agree,Avoid,Yes,Continuous,Clear,Career,Unsure,Arts
+Matric,Pre-Engineering,Average,Physics,Science,Creative,No,Yes,Neutral,Keep Trying,Yes,Continuous,Clear,Interest,Not confident,Pre-Engineering
+O-Level,Pre-Medical,Good,Biology,Science,Problem solving,Yes,Yes,Disagree,Ask Help,No,Exams,Somewhat,Peer,Unsure,Pre-Medical
+Matric,Pre-Medical,Below Average,Physics,Memorization,Research,Yes,Sometimes,Neutral,Avoid,Limited,Exams,Clear,Career,Unsure,Pre-Medical
+Matric,Arts,Average,Arts,Memorization,Problem solving,Somewhat,No,Disagree,Keep Trying,No,Continuous,Not clear,Interest,Unsure,Pre-Engineering
+O-Level,Pre-Medical,Below Average,Commerce,Memorization,Creative,No,No,Neutral,Keep Trying,Limited,Exams,Not clear,Interest,Not confident,Arts
+Matric,Pre-Medical,Below Average,Commerce,Memorization,Problem solving,No,Sometimes,Neutral,Avoid,No,Exams,Clear,Career,Unsure,Pre-Engineering
+O-Level,Commerce,Below Average,Arts,Memorization,Business,Somewhat,No,Strongly Agree,Ask Help,Yes,Exams,Not clear,Family,Unsure,Commerce
+O-Level,Pre-Medical,Good,Physics,Writing,Problem solving,No,Sometimes,Neutral,Avoid,No,Continuous,Not clear,Career,Unsure,Pre-Engineering
+Matric,Pre-Medical,Below Average,Math,Math,Creative,Yes,Yes,Disagree,Keep Trying,Yes,Continuous,Not clear,Interest,Not confident,Pre-Engineering
+Matric,Commerce,Good,Physics,Writing,Creative,No,Yes,Agree,Keep Trying,Yes,Exams,Clear,Career,Unsure,Pre-Engineering
+Matric,Commerce,Good,Math,Math,Research,Yes,Yes,Agree,Ask Help,Limited,Continuous,Somewhat,Career,Not confident,Pre-Medical
+O-Level,Pre-Engineering,Average,Arts,Math,Problem solving,No,Yes,Agree,Keep Trying,Yes,Continuous,Clear,Interest,Confident,Pre-Engineering
+Matric,Arts,Good,Biology,Memorization,Business,Somewhat,Sometimes,Agree,Keep Trying,No,Exams,Clear,Career,Not confident,Pre-Medical
+O-Level,Pre-Engineering,Good,Physics,Memorization,Research,Somewhat,Yes,Agree,Avoid,Yes,Exams,Somewhat,Peer,Unsure,Pre-Medical
+O-Level,Pre-Medical,Good,Commerce,Science,Research,Yes,Sometimes,Disagree,Avoid,Limited,Continuous,Somewhat,Career,Confident,Pre-Medical
+Matric,Pre-Medical,Average,Arts,Science,Problem solving,Somewhat,Yes,Neutral,Avoid,No,Continuous,Somewhat,Interest,Not confident,Pre-Engineering
+O-Level,Pre-Medical,Below Average,Biology,Writing,Research,Somewhat,Sometimes,Strongly Agree,Ask Help,Limited,Exams,Somewhat,Peer,Unsure,Pre-Medical
+Matric,Arts,Excellent,Arts,Math,Problem solving,Somewhat,Sometimes,Agree,Ask Help,No,Continuous,Clear,Family,Confident,Pre-Engineering
+O-Level,Pre-Medical,Average,Arts,Science,Business,Somewhat,Sometimes,Disagree,Keep Trying,Yes,Exams,Clear,Family,Unsure,Commerce
+O-Level,Commerce,Excellent,Physics,Math,Creative,Yes,Sometimes,Disagree,Keep Trying,No,Continuous,Clear,Interest,Not confident,Pre-Engineering
+Matric,Pre-Engineering,Below Average,Arts,Writing,Problem solving,No,Yes,Strongly Agree,Ask Help,Limited,Continuous,Not clear,Peer,Confident,Pre-Engineering
+Matric,Arts,Good,Commerce,Writing,Creative,Somewhat,No,Neutral,Ask Help,Yes,Exams,Somewhat,Interest,Confident,Arts
+O-Level,Commerce,Good,Commerce,Writing,Research,No,No,Disagree,Keep Trying,Limited,Continuous,Clear,Peer,Confident,Pre-Medical
+Matric,Pre-Medical,Good,Physics,Math,Research,Somewhat,Sometimes,Agree,Avoid,Yes,Exams,Clear,Peer,Not confident,Pre-Medical
+Matric,Pre-Engineering,Excellent,Physics,Math,Research,Yes,No,Agree,Avoid,Limited,Exams,Clear,Career,Not confident,Pre-Medical
+Matric,Arts,Below Average,Biology,Writing,Research,No,Yes,Strongly Agree,Avoid,Limited,Exams,Somewhat,Peer,Unsure,Pre-Medical
+Matric,Pre-Medical,Below Average,Biology,Memorization,Problem solving,Somewhat,Yes,Agree,Avoid,No,Exams,Not clear,Interest,Not confident,Pre-Medical
+O-Level,Commerce,Average,Arts,Math,Problem solving,Somewhat,Sometimes,Strongly Agree,Avoid,No,Continuous,Not clear,Family,Confident,Pre-Engineering
+O-Level,Pre-Engineering,Excellent,Biology,Math,Research,No,Yes,Neutral,Ask Help,Yes,Continuous,Not clear,Peer,Unsure,Pre-Medical
+Matric,Arts,Below Average,Physics,Memorization,Business,No,Sometimes,Neutral,Keep Trying,Yes,Exams,Somewhat,Family,Not confident,Pre-Engineering
+Matric,Pre-Engineering,Excellent,Physics,Memorization,Problem solving,Somewhat,Yes,Agree,Ask Help,No,Continuous,Somewhat,Career,Unsure,Pre-Engineering
+Matric,Arts,Good,Physics,Writing,Business,Somewhat,Sometimes,Strongly Agree,Ask Help,Yes,Continuous,Clear,Family,Unsure,Pre-Engineering
+O-Level,Pre-Engineering,Good,Biology,Math,Business,Somewhat,No,Neutral,Keep Trying,Yes,Exams,Clear,Family,Confident,Pre-Medical
+Matric,Pre-Engineering,Average,Physics,Memorization,Creative,No,No,Strongly Agree,Avoid,Yes,Continuous,Clear,Interest,Confident,Pre-Engineering
+O-Level,Arts,Below Average,Physics,Science,Business,Somewhat,Sometimes,Neutral,Keep Trying,Yes,Exams,Not clear,Career,Not confident,Pre-Engineering
+Matric,Pre-Engineering,Excellent,Biology,Math,Business,Somewhat,No,Neutral,Keep Trying,Yes,Continuous,Somewhat,Family,Unsure,Pre-Medical
+O-Level,Pre-Medical,Good,Math,Science,Business,Somewhat,Sometimes,Strongly Agree,Avoid,Limited,Exams,Clear,Interest,Unsure,Pre-Engineering
+O-Level,Arts,Below Average,Physics,Science,Business,No,No,Neutral,Avoid,Limited,Continuous,Not clear,Peer,Unsure,Pre-Engineering
+Matric,Arts,Average,Math,Memorization,Creative,Somewhat,No,Agree,Avoid,No,Exams,Not clear,Peer,Unsure,Pre-Engineering
+Matric,Arts,Good,Physics,Memorization,Problem solving,Yes,Yes,Neutral,Keep Trying,Yes,Exams,Clear,Peer,Not confident,Pre-Engineering
+O-Level,Commerce,Average,Commerce,Science,Problem solving,Somewhat,No,Agree,Ask Help,Yes,Exams,Not clear,Career,Confident,Pre-Engineering
+O-Level,Commerce,Average,Math,Memorization,Problem solving,Somewhat,No,Disagree,Avoid,Yes,Exams,Somewhat,Family,Not confident,Pre-Engineering
+Matric,Arts,Excellent,Math,Writing,Creative,Yes,No,Disagree,Avoid,Yes,Exams,Clear,Interest,Not confident,Pre-Engineering
+Matric,Pre-Medical,Good,Math,Math,Creative,Somewhat,Sometimes,Strongly Agree,Ask Help,Yes,Continuous,Somewhat,Interest,Not confident,Pre-Engineering
+O-Level,Pre-Medical,Average,Commerce,Science,Business,Yes,Yes,Disagree,Ask Help,Yes,Continuous,Clear,Interest,Unsure,Commerce
+O-Level,Pre-Medical,Good,Commerce,Math,Research,Somewhat,No,Neutral,Ask Help,No,Continuous,Clear,Peer,Not confident,Pre-Medical
+O-Level,Arts,Excellent,Math,Math,Problem solving,No,Yes,Agree,Ask Help,Limited,Continuous,Somewhat,Career,Not confident,Pre-Engineering
+Matric,Pre-Engineering,Average,Physics,Writing,Business,No,Yes,Strongly Agree,Avoid,Yes,Exams,Somewhat,Family,Not confident,Pre-Engineering
+Matric,Commerce,Below Average,Math,Writing,Business,Yes,No,Agree,Keep Trying,Limited,Continuous,Somewhat,Family,Confident,Pre-Engineering
+Matric,Commerce,Below Average,Biology,Math,Research,Somewhat,Yes,Neutral,Avoid,No,Continuous,Somewhat,Interest,Unsure,Pre-Medical
+O-Level,Commerce,Good,Biology,Writing,Business,Somewhat,No,Neutral,Ask Help,No,Continuous,Clear,Family,Not confident,Pre-Medical
+Matric,Pre-Engineering,Good,Physics,Memorization,Problem solving,Somewhat,Sometimes,Disagree,Ask Help,Yes,Exams,Not clear,Family,Unsure,Pre-Engineering
+O-Level,Arts,Excellent,Biology,Memorization,Business,Yes,Sometimes,Strongly Agree,Avoid,Limited,Continuous,Clear,Peer,Confident,Pre-Medical
+Matric,Commerce,Good,Physics,Math,Business,Somewhat,Yes,Disagree,Keep Trying,Limited,Continuous,Somewhat,Family,Confident,Pre-Engineering
+O-Level,Pre-Medical,Good,Biology,Math,Problem solving,Somewhat,No,Neutral,Ask Help,Yes,Continuous,Not clear,Peer,Unsure,Pre-Medical
+O-Level,Pre-Engineering,Below Average,Biology,Writing,Research,Yes,Sometimes,Strongly Agree,Avoid,Yes,Exams,Not clear,Interest,Confident,Pre-Medical
+O-Level,Pre-Engineering,Good,Biology,Science,Creative,Yes,Yes,Neutral,Ask Help,Yes,Exams,Not clear,Peer,Unsure,Pre-Medical
+O-Level,Commerce,Below Average,Commerce,Memorization,Business,No,Sometimes,Agree,Keep Trying,Limited,Exams,Somewhat,Peer,Not confident,Commerce
+O-Level,Arts,Average,Arts,Memorization,Problem solving,Yes,Sometimes,Neutral,Keep Trying,Yes,Continuous,Somewhat,Career,Confident,Pre-Engineering
+Matric,Pre-Engineering,Good,Commerce,Math,Problem solving,Yes,No,Agree,Ask Help,Limited,Exams,Not clear,Family,Unsure,Pre-Engineering
+O-Level,Arts,Good,Arts,Science,Business,No,Sometimes,Strongly Agree,Keep Trying,Yes,Continuous,Somewhat,Peer,Not confident,Commerce
+Matric,Pre-Engineering,Good,Math,Math,Business,Yes,No,Agree,Ask Help,No,Continuous,Clear,Family,Confident,Pre-Engineering
+Matric,Pre-Medical,Average,Math,Science,Research,Yes,No,Agree,Keep Trying,Limited,Continuous,Not clear,Interest,Unsure,Pre-Medical
+Matric,Arts,Good,Biology,Science,Creative,No,Sometimes,Disagree,Avoid,No,Continuous,Somewhat,Peer,Not confident,Pre-Medical
+Matric,Pre-Engineering,Below Average,Arts,Writing,Problem solving,Somewhat,No,Agree,Ask Help,Yes,Continuous,Not clear,Career,Not confident,Pre-Engineering
+O-Level,Pre-Engineering,Good,Biology,Math,Research,Yes,No,Disagree,Ask Help,No,Exams,Clear,Peer,Confident,Pre-Medical
+Matric,Commerce,Average,Arts,Math,Business,No,Sometimes,Disagree,Avoid,Yes,Continuous,Somewhat,Career,Confident,Commerce
+O-Level,Pre-Engineering,Good,Arts,Memorization,Research,Somewhat,No,Disagree,Avoid,No,Continuous,Clear,Interest,Confident,Pre-Medical
+O-Level,Arts,Average,Physics,Memorization,Creative,No,Sometimes,Disagree,Keep Trying,Limited,Exams,Somewhat,Career,Confident,Pre-Engineering
+Matric,Commerce,Below Average,Arts,Science,Creative,Yes,Yes,Disagree,Keep Trying,No,Continuous,Somewhat,Peer,Not confident,Arts
+Matric,Arts,Excellent,Math,Math,Creative,No,Sometimes,Agree,Avoid,No,Exams,Somewhat,Peer,Not confident,Pre-Engineering
+Matric,Commerce,Average,Math,Math,Problem solving,Yes,Yes,Neutral,Keep Trying,Limited,Exams,Clear,Peer,Confident,Pre-Engineering
+O-Level,Pre-Engineering,Average,Arts,Writing,Creative,Yes,Yes,Disagree,Keep Trying,No,Exams,Not clear,Peer,Not confident,Arts
+Matric,Arts,Below Average,Biology,Math,Problem solving,Somewhat,No,Agree,Avoid,No,Continuous,Somewhat,Interest,Unsure,Pre-Medical
+Matric,Pre-Engineering,Good,Physics,Science,Research,Yes,No,Neutral,Ask Help,Limited,Exams,Clear,Interest,Unsure,Pre-Medical
+O-Level,Commerce,Average,Physics,Memorization,Business,Yes,Yes,Agree,Ask Help,No,Continuous,Somewhat,Peer,Confident,Pre-Engineering
+O-Level,Pre-Medical,Excellent,Physics,Science,Research,Yes,No,Disagree,Avoid,Limited,Exams,Somewhat,Interest,Unsure,Pre-Medical
+O-Level,Pre-Engineering,Below Average,Biology,Science,Research,Somewhat,No,Neutral,Keep Trying,Yes,Exams,Clear,Career,Confident,Pre-Medical
+O-Level,Pre-Medical,Good,Math,Science,Research,Yes,Yes,Agree,Keep Trying,Yes,Exams,Clear,Family,Unsure,Pre-Medical
+O-Level,Arts,Excellent,Arts,Memorization,Research,Somewhat,Sometimes,Neutral,Avoid,No,Exams,Not clear,Family,Not confident,Pre-Medical
+Matric,Arts,Below Average,Commerce,Science,Research,Somewhat,Yes,Strongly Agree,Ask Help,Limited,Exams,Somewhat,Peer,Unsure,Pre-Medical
+Matric,Arts,Below Average,Commerce,Memorization,Research,Yes,Sometimes,Agree,Keep Trying,No,Exams,Somewhat,Interest,Not confident,Pre-Medical
+Matric,Arts,Below Average,Math,Science,Research,Yes,No,Agree,Ask Help,No,Exams,Somewhat,Peer,Not confident,Pre-Medical
+O-Level,Pre-Engineering,Average,Physics,Science,Research,Somewhat,No,Agree,Keep Trying,No,Exams,Not clear,Interest,Unsure,Pre-Medical
+Matric,Arts,Below Average,Physics,Memorization,Research,Yes,Sometimes,Disagree,Avoid,No,Continuous,Not clear,Peer,Unsure,Pre-Medical
+O-Level,Commerce,Below Average,Biology,Science,Research,Yes,Sometimes,Agree,Keep Trying,Yes,Exams,Somewhat,Interest,Confident,Pre-Medical
+Matric,Pre-Engineering,Average,Math,Memorization,Problem solving,No,Sometimes,Disagree,Avoid,Yes,Continuous,Clear,Family,Not confident,Pre-Engineering
+O-Level,Arts,Excellent,Commerce,Science,Research,Yes,Yes,Agree,Ask Help,Limited,Exams,Somewhat,Family,Not confident,Pre-Medical
+O-Level,Arts,Below Average,Math,Memorization,Problem solving,Somewhat,Sometimes,Strongly Agree,Avoid,Limited,Exams,Clear,Family,Confident,Pre-Engineering
+Matric,Arts,Average,Commerce,Math,Business,Somewhat,Sometimes,Strongly Agree,Keep Trying,Yes,Exams,Not clear,Family,Not confident,Commerce
+Matric,Pre-Engineering,Good,Physics,Writing,Creative,No,Sometimes,Disagree,Avoid,No,Continuous,Somewhat,Interest,Unsure,Pre-Engineering
+O-Level,Pre-Medical,Good,Commerce,Math,Problem solving,No,Sometimes,Strongly Agree,Keep Trying,Limited,Exams,Clear,Family,Confident,Pre-Engineering
+Matric,Arts,Excellent,Math,Math,Creative,Yes,Sometimes,Agree,Keep Trying,Limited,Exams,Somewhat,Career,Unsure,Pre-Engineering
+O-Level,Pre-Medical,Average,Biology,Science,Business,Yes,No,Strongly Agree,Ask Help,Yes,Continuous,Clear,Family,Unsure,Pre-Medical
+O-Level,Commerce,Good,Physics,Science,Research,Yes,No,Neutral,Avoid,No,Exams,Somewhat,Peer,Not confident,Pre-Medical
+O-Level,Arts,Good,Biology,Writing,Problem solving,Somewhat,Yes,Neutral,Avoid,Yes,Exams,Somewhat,Family,Not confident,Pre-Medical
+O-Level,Pre-Medical,Below Average,Arts,Memorization,Research,Somewhat,Sometimes,Agree,Avoid,No,Exams,Not clear,Peer,Not confident,Pre-Medical
+O-Level,Arts,Good,Arts,Science,Business,No,Sometimes,Disagree,Avoid,Yes,Continuous,Somewhat,Family,Unsure,Commerce
+O-Level,Pre-Medical,Excellent,Commerce,Writing,Business,No,Yes,Disagree,Keep Trying,Limited,Exams,Clear,Peer,Unsure,Commerce
+O-Level,Commerce,Below Average,Math,Memorization,Creative,No,Sometimes,Neutral,Keep Trying,No,Continuous,Clear,Family,Confident,Pre-Engineering
+Matric,Pre-Engineering,Below Average,Biology,Memorization,Research,No,Yes,Disagree,Ask Help,No,Continuous,Clear,Career,Confident,Pre-Medical
+O-Level,Arts,Below Average,Commerce,Science,Research,Yes,Yes,Strongly Agree,Avoid,Limited,Exams,Somewhat,Interest,Not confident,Pre-Medical
+Matric,Commerce,Below Average,Math,Science,Creative,No,Yes,Strongly Agree,Avoid,Limited,Exams,Somewhat,Career,Unsure,Pre-Engineering
+Matric,Pre-Medical,Below Average,Physics,Writing,Business,Somewhat,Sometimes,Neutral,Keep Trying,Yes,Continuous,Clear,Career,Unsure,Pre-Engineering
+Matric,Pre-Medical,Below Average,Commerce,Math,Research,Yes,No,Agree,Avoid,No,Exams,Clear,Family,Confident,Pre-Medical
+O-Level,Commerce,Excellent,Physics,Math,Problem solving,Somewhat,Yes,Agree,Avoid,Limited,Continuous,Somewhat,Family,Not confident,Pre-Engineering
+Matric,Arts,Excellent,Arts,Writing,Creative,Somewhat,Yes,Disagree,Keep Trying,Limited,Exams,Not clear,Peer,Unsure,Arts
+Matric,Pre-Medical,Good,Physics,Memorization,Business,Somewhat,Yes,Agree,Avoid,Yes,Continuous,Clear,Peer,Confident,Pre-Engineering
+O-Level,Commerce,Good,Physics,Math,Business,Yes,Yes,Strongly Agree,Ask Help,Limited,Exams,Clear,Interest,Not confident,Pre-Engineering
+O-Level,Commerce,Below Average,Biology,Memorization,Research,No,Yes,Strongly Agree,Avoid,Yes,Exams,Somewhat,Interest,Confident,Pre-Medical
+O-Level,Arts,Good,Commerce,Science,Business,Yes,Sometimes,Agree,Keep Trying,Yes,Continuous,Clear,Family,Confident,Commerce
+Matric,Pre-Engineering,Excellent,Physics,Writing,Business,No,Yes,Agree,Keep Trying,Yes,Exams,Not clear,Peer,Unsure,Pre-Engineering
+O-Level,Arts,Average,Commerce,Memorization,Creative,Somewhat,No,Disagree,Ask Help,No,Exams,Not clear,Family,Confident,Arts
+O-Level,Pre-Engineering,Average,Biology,Memorization,Research,Yes,Sometimes,Neutral,Avoid,Limited,Continuous,Not clear,Family,Unsure,Pre-Medical
+Matric,Pre-Engineering,Average,Biology,Writing,Research,Somewhat,No,Agree,Avoid,Limited,Continuous,Somewhat,Family,Not confident,Pre-Medical
+Matric,Commerce,Average,Biology,Memorization,Creative,Somewhat,Yes,Agree,Ask Help,No,Exams,Somewhat,Peer,Unsure,Pre-Medical
+O-Level,Commerce,Excellent,Physics,Science,Problem solving,Yes,Sometimes,Neutral,Keep Trying,No,Continuous,Somewhat,Interest,Unsure,Pre-Engineering
+Matric,Commerce,Below Average,Math,Math,Business,No,Yes,Agree,Avoid,Yes,Exams,Clear,Interest,Confident,Pre-Engineering
+O-Level,Commerce,Below Average,Commerce,Writing,Creative,Somewhat,Yes,Strongly Agree,Keep Trying,No,Continuous,Clear,Family,Unsure,Arts
+O-Level,Commerce,Good,Physics,Science,Creative,No,Yes,Agree,Avoid,Limited,Continuous,Clear,Career,Confident,Pre-Engineering
+O-Level,Arts,Good,Biology,Memorization,Problem solving,Yes,Yes,Disagree,Ask Help,Limited,Exams,Not clear,Career,Unsure,Pre-Medical
+O-Level,Commerce,Average,Math,Writing,Business,Somewhat,Yes,Agree,Keep Trying,No,Exams,Not clear,Career,Confident,Pre-Engineering
+Matric,Arts,Average,Arts,Memorization,Research,Somewhat,Sometimes,Neutral,Keep Trying,Yes,Continuous,Somewhat,Peer,Confident,Pre-Medical
+O-Level,Pre-Engineering,Excellent,Arts,Writing,Creative,Yes,Yes,Strongly Agree,Ask Help,No,Exams,Clear,Career,Not confident,Arts
+O-Level,Pre-Engineering,Excellent,Math,Math,Research,No,No,Agree,Keep Trying,Yes,Continuous,Somewhat,Family,Confident,Pre-Medical
+O-Level,Pre-Medical,Average,Biology,Math,Business,Somewhat,Sometimes,Agree,Keep Trying,No,Exams,Somewhat,Career,Not confident,Pre-Medical
+Matric,Commerce,Excellent,Biology,Science,Business,Yes,Yes,Neutral,Ask Help,Yes,Exams,Clear,Family,Unsure,Pre-Medical
+O-Level,Pre-Engineering,Below Average,Commerce,Memorization,Problem solving,Somewhat,Yes,Strongly Agree,Keep Trying,No,Exams,Not clear,Interest,Unsure,Pre-Engineering
+Matric,Arts,Excellent,Math,Writing,Creative,No,No,Neutral,Avoid,No,Exams,Clear,Career,Unsure,Pre-Engineering
+Matric,Arts,Below Average,Arts,Writing,Creative,Somewhat,No,Neutral,Keep Trying,Yes,Continuous,Not clear,Career,Unsure,Arts
+Matric,Pre-Engineering,Good,Arts,Science,Research,Yes,Sometimes,Disagree,Keep Trying,Yes,Continuous,Not clear,Family,Not confident,Pre-Medical
+O-Level,Commerce,Average,Arts,Writing,Research,Yes,No,Neutral,Avoid,Limited,Continuous,Clear,Family,Confident,Pre-Medical
+Matric,Pre-Engineering,Good,Arts,Writing,Creative,No,Yes,Agree,Ask Help,Yes,Exams,Somewhat,Interest,Confident,Arts
+O-Level,Pre-Medical,Excellent,Math,Memorization,Creative,No,Yes,Disagree,Avoid,Yes,Exams,Not clear,Interest,Not confident,Pre-Engineering
+O-Level,Commerce,Average,Math,Writing,Research,No,No,Neutral,Keep Trying,Limited,Exams,Somewhat,Family,Unsure,Pre-Medical
+O-Level,Arts,Excellent,Commerce,Memorization,Creative,No,Sometimes,Disagree,Keep Trying,Yes,Exams,Clear,Peer,Unsure,Arts
+Matric,Pre-Engineering,Below Average,Math,Science,Business,Yes,Sometimes,Disagree,Avoid,Yes,Continuous,Not clear,Family,Confident,Pre-Engineering
+O-Level,Arts,Below Average,Arts,Writing,Problem solving,Somewhat,Yes,Strongly Agree,Keep Trying,No,Exams,Not clear,Peer,Unsure,Pre-Engineering
+Matric,Arts,Average,Math,Writing,Problem solving,Yes,Yes,Agree,Ask Help,No,Exams,Somewhat,Career,Not confident,Pre-Engineering
+Matric,Pre-Medical,Excellent,Commerce,Writing,Creative,No,No,Neutral,Keep Trying,No,Exams,Clear,Career,Unsure,Arts
+Matric,Commerce,Excellent,Physics,Memorization,Business,Somewhat,Yes,Disagree,Avoid,Limited,Continuous,Clear,Peer,Not confident,Pre-Engineering
+Matric,Arts,Excellent,Arts,Math,Business,Yes,Sometimes,Neutral,Avoid,No,Exams,Not clear,Peer,Unsure,Commerce
+Matric,Arts,Average,Physics,Memorization,Problem solving,Somewhat,Sometimes,Agree,Ask Help,No,Exams,Clear,Family,Not confident,Pre-Engineering
+Matric,Pre-Engineering,Good,Biology,Science,Research,Somewhat,No,Disagree,Avoid,Limited,Exams,Somewhat,Interest,Not confident,Pre-Medical
+Matric,Commerce,Good,Biology,Science,Problem solving,Yes,No,Agree,Keep Trying,No,Continuous,Not clear,Peer,Not confident,Pre-Medical
+Matric,Arts,Good,Math,Memorization,Business,No,Yes,Agree,Ask Help,Yes,Continuous,Not clear,Peer,Not confident,Pre-Engineering
+Matric,Commerce,Excellent,Commerce,Writing,Creative,Yes,No,Neutral,Keep Trying,No,Exams,Clear,Interest,Unsure,Arts
+Matric,Pre-Medical,Below Average,Physics,Writing,Business,Somewhat,No,Strongly Agree,Ask Help,No,Continuous,Clear,Interest,Unsure,Pre-Engineering
+Matric,Pre-Engineering,Good,Biology,Writing,Creative,Somewhat,Sometimes,Strongly Agree,Keep Trying,No,Continuous,Clear,Interest,Not confident,Pre-Medical
+O-Level,Pre-Engineering,Excellent,Physics,Science,Business,No,No,Disagree,Ask Help,Yes,Exams,Not clear,Career,Confident,Pre-Engineering
+O-Level,Pre-Engineering,Excellent,Math,Math,Creative,Yes,Sometimes,Neutral,Ask Help,Yes,Continuous,Not clear,Interest,Not confident,Pre-Engineering
+Matric,Pre-Engineering,Excellent,Math,Memorization,Business,Somewhat,Sometimes,Disagree,Ask Help,No,Exams,Somewhat,Peer,Unsure,Pre-Engineering
+Matric,Arts,Excellent,Commerce,Memorization,Business,No,Sometimes,Strongly Agree,Avoid,Limited,Continuous,Somewhat,Interest,Not confident,Commerce
+O-Level,Arts,Below Average,Commerce,Writing,Creative,Somewhat,Sometimes,Agree,Avoid,Yes,Exams,Somewhat,Peer,Not confident,Arts
+O-Level,Commerce,Below Average,Arts,Memorization,Business,Yes,Yes,Strongly Agree,Keep Trying,No,Exams,Not clear,Peer,Unsure,Commerce
+Matric,Commerce,Average,Arts,Writing,Research,No,Sometimes,Strongly Agree,Avoid,No,Exams,Somewhat,Family,Unsure,Pre-Medical
+Matric,Arts,Good,Math,Math,Business,Yes,Sometimes,Disagree,Keep Trying,Yes,Exams,Clear,Family,Unsure,Pre-Engineering
+O-Level,Arts,Average,Arts,Memorization,Business,Somewhat,Yes,Neutral,Avoid,Yes,Continuous,Somewhat,Peer,Unsure,Commerce
+O-Level,Pre-Medical,Excellent,Physics,Science,Business,Somewhat,Yes,Disagree,Keep Trying,Yes,Exams,Not clear,Interest,Confident,Pre-Engineering
+O-Level,Commerce,Excellent,Math,Math,Business,Somewhat,No,Neutral,Ask Help,Limited,Continuous,Not clear,Career,Unsure,Pre-Engineering
+O-Level,Pre-Engineering,Excellent,Commerce,Science,Creative,No,Sometimes,Neutral,Keep Trying,Limited,Exams,Somewhat,Career,Confident,Arts
+O-Level,Pre-Medical,Below Average,Physics,Memorization,Business,Yes,No,Disagree,Ask Help,No,Exams,Clear,Interest,Confident,Pre-Engineering
+Matric,Pre-Engineering,Excellent,Math,Memorization,Research,Somewhat,No,Strongly Agree,Ask Help,No,Exams,Not clear,Family,Confident,Pre-Medical
+Matric,Pre-Medical,Good,Biology,Memorization,Business,No,Sometimes,Strongly Agree,Ask Help,No,Continuous,Clear,Career,Not confident,Pre-Medical
+O-Level,Pre-Medical,Good,Biology,Math,Problem solving,Somewhat,Sometimes,Agree,Keep Trying,Limited,Exams,Not clear,Family,Confident,Pre-Medical
+Matric,Commerce,Below Average,Physics,Math,Business,Yes,Sometimes,Disagree,Avoid,No,Continuous,Clear,Family,Unsure,Pre-Engineering
+Matric,Pre-Medical,Below Average,Commerce,Math,Research,Yes,No,Neutral,Ask Help,No,Continuous,Clear,Career,Unsure,Pre-Medical
+Matric,Pre-Engineering,Good,Commerce,Math,Problem solving,Somewhat,Sometimes,Neutral,Keep Trying,No,Exams,Somewhat,Career,Not confident,Pre-Engineering
+O-Level,Pre-Engineering,Below Average,Math,Writing,Creative,Yes,Sometimes,Neutral,Ask Help,Yes,Continuous,Somewhat,Peer,Unsure,Pre-Engineering
+O-Level,Commerce,Good,Physics,Memorization,Creative,No,Sometimes,Strongly Agree,Avoid,Limited,Continuous,Not clear,Peer,Unsure,Pre-Engineering
+Matric,Pre-Medical,Excellent,Math,Memorization,Creative,No,No,Disagree,Keep Trying,Yes,Continuous,Somewhat,Family,Confident,Pre-Engineering
+Matric,Arts,Average,Math,Science,Creative,Somewhat,No,Disagree,Ask Help,Limited,Continuous,Clear,Family,Not confident,Pre-Engineering
+O-Level,Arts,Average,Biology,Science,Business,No,Sometimes,Agree,Ask Help,Yes,Exams,Somewhat,Peer,Confident,Pre-Medical
+Matric,Pre-Engineering,Average,Math,Writing,Problem solving,No,Sometimes,Strongly Agree,Ask Help,Limited,Continuous,Not clear,Family,Confident,Pre-Engineering

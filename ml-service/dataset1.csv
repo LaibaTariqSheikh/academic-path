@@ -1,0 +1,556 @@
+academic_performance,math_level,science_level,english_level,interest_type,study_consistency,problem_solving,focus_time,learning_style,english_comfort,computer_usage,financial_status,target_stream,education_system
+Above 75%,Strong,Strong,Average,Technology,Always,Keep Trying,>1hr,Visual,Yes,Regular,High,Science,O-Level
+61–75%,Average,Average,Strong,Reading,Sometimes,Ask Help,30-60,Reading,Yes,Occasional,Medium,Commerce,Matric
+Below 50%,Weak,Weak,Average,Creative,Rarely,Avoid,<30,Hands-on,No,Rare,Low,Arts,Matric
+Above 75%,Strong,Strong,Strong,Technology,Always,Keep Trying,>1hr,Hands-on,Yes,Regular,High,Science,O-Level
+61–75%,Average,Strong,Average,Leadership,Sometimes,Ask Help,30-60,Visual,Somewhat,Occasional,Medium,Commerce,Matric
+Above 75%,Strong,Strong,Average,Technology,Always,Keep Trying,>1hr,Visual,Yes,Regular,High,Science,O-Level
+61–75%,Average,Average,Strong,Reading,Sometimes,Ask Help,30-60,Reading,Yes,Occasional,Medium,Commerce,Matric
+Below 50%,Weak,Weak,Average,Creative,Rarely,Avoid,<30,Hands-on,No,Rare,Low,Arts,Matric
+Above 75%,Strong,Strong,Strong,Technology,Always,Keep Trying,>1hr,Hands-on,Yes,Regular,High,Science,O-Level
+61–75%,Average,Strong,Average,Leadership,Sometimes,Ask Help,30-60,Visual,Somewhat,Occasional,Medium,Commerce,Matric
+Above 75%,Strong,Strong,Average,Technology,Always,Keep Trying,>1hr,Visual,Yes,Regular,High,Science,O-Level
+Below 50%,Weak,Average,Weak,Creative,Rarely,Avoid,<30,Hands-on,No,Rare,Low,Arts,Matric
+61–75%,Average,Average,Strong,Reading,Sometimes,Ask Help,30-60,Reading,Yes,Occasional,Medium,Commerce,Matric
+Above 75%,Strong,Strong,Strong,Technology,Always,Keep Trying,>1hr,Visual,Yes,Regular,High,Science,O-Level
+61–75%,Average,Average,Average,Leadership,Sometimes,Ask Help,30-60,Hands-on,Somewhat,Occasional,Medium,Commerce,Matric
+Below 50%,Weak,Weak,Average,Creative,Rarely,Avoid,<30,Hands-on,No,Rare,Low,Arts,Matric
+Above 75%,Strong,Strong,Strong,Technology,Always,Keep Trying,>1hr,Visual,Yes,Regular,High,Science,O-Level
+61–75%,Average,Average,Strong,Reading,Sometimes,Ask Help,30-60,Reading,Yes,Occasional,Medium,Commerce,Matric
+Below 50%,Weak,Weak,Weak,Creative,Rarely,Avoid,<30,Hands-on,No,Rare,Low,Arts,Matric
+Above 75%,Strong,Strong,Average,Technology,Always,Keep Trying,>1hr,Visual,Yes,Regular,High,Science,O-Level
+Above 75%,Strong,Strong,Strong,Technology,Always,Keep Trying,>1hr,Visual,Yes,Regular,High,Science,O-Level
+61–75%,Average,Strong,Average,Leadership,Sometimes,Ask Help,30-60,Hands-on,Somewhat,Occasional,Medium,Commerce,Matric
+Below 50%,Weak,Average,Weak,Creative,Rarely,Avoid,<30,Hands-on,No,Rare,Low,Arts,Matric
+61–75%,Average,Average,Average,Reading,Sometimes,Ask Help,30-60,Reading,Yes,Occasional,Medium,Commerce,Matric
+Above 75%,Strong,Strong,Average,Technology,Always,Keep Trying,>1hr,Visual,Yes,Regular,High,Science,O-Level
+Below 50%,Weak,Weak,Average,Creative,Rarely,Avoid,<30,Hands-on,No,Rare,Low,Arts,Matric
+61–75%,Average,Strong,Strong,Leadership,Sometimes,Ask Help,30-60,Visual,Yes,Occasional,Medium,Commerce,O-Level
+Above 75%,Strong,Strong,Strong,Technology,Always,Keep Trying,>1hr,Hands-on,Yes,Regular,High,Science,O-Level
+61–75%,Average,Average,Strong,Reading,Sometimes,Ask Help,30-60,Reading,Yes,Occasional,Medium,Commerce,Matric
+Below 50%,Weak,Weak,Weak,Creative,Rarely,Avoid,<30,Hands-on,No,Rare,Low,Arts,Matric
+Above 75%,Strong,Strong,Average,Technology,Always,Keep Trying,>1hr,Visual,Yes,Regular,High,Science,O-Level
+61–75%,Average,Average,Average,Leadership,Sometimes,Ask Help,30-60,Hands-on,Somewhat,Occasional,Medium,Commerce,Matric
+Below 50%,Weak,Average,Weak,Creative,Rarely,Avoid,<30,Hands-on,No,Rare,Low,Arts,Matric
+Above 75%,Strong,Strong,Strong,Technology,Always,Keep Trying,>1hr,Visual,Yes,Regular,High,Science,O-Level
+61–75%,Average,Strong,Average,Reading,Sometimes,Ask Help,30-60,Reading,Yes,Occasional,Medium,Commerce,O-Level
+Below 50%,Weak,Weak,Average,Creative,Rarely,Avoid,<30,Hands-on,No,Rare,Low,Arts,Matric
+Above 75%,Strong,Strong,Strong,Technology,Always,Keep Trying,>1hr,Hands-on,Yes,Regular,High,Science,O-Level
+61–75%,Average,Average,Strong,Leadership,Sometimes,Ask Help,30-60,Visual,Somewhat,Occasional,Medium,Commerce,Matric
+Below 50%,Weak,Weak,Weak,Creative,Rarely,Avoid,<30,Hands-on,No,Rare,Low,Arts,Matric
+Above 75%,Strong,Strong,Average,Technology,Always,Keep Trying,>1hr,Visual,Yes,Regular,High,Science,O-Level
+Above 75%,Strong,Strong,Strong,Technology,Almost always,Keep trying,>1 hour,Visual,Yes,Regularly,Can afford tuition,Science,O-Level
+61–75%,Average,Average,Strong,Reading/writing,Sometimes,Ask for help,30–60 minutes,Reading,Yes,Occasionally,Limited budget,Commerce,Matric
+Below 50%,Weak,Weak,Average,Creative work,Rarely,Avoid it,<30 minutes,Hands-on,No,Rarely,Prefer government system,Arts,Matric
+Above 75%,Strong,Strong,Average,Technology,Almost always,Keep trying,>1 hour,Hands-on,Yes,Regularly,Can afford tuition,Science,O-Level
+50–60%,Average,Average,Strong,Leadership activities,Sometimes,Ask for help,30–60 minutes,Visual,Somewhat,Occasionally,Limited budget,Commerce,Matric
+61–75%,Strong,Strong,Average,Logical games,Almost always,Keep trying,>1 hour,Visual,Yes,Regularly,Can afford tuition,Science,O-Level
+Below 50%,Weak,Average,Weak,Creative work,Rarely,Avoid it,<30 minutes,Hands-on,No,Rarely,Prefer government system,Arts,Matric
+50–60%,Average,Average,Strong,Reading/writing,Sometimes,Ask for help,30–60 minutes,Reading,Yes,Occasionally,Limited budget,Commerce,Matric
+Above 75%,Strong,Strong,Strong,Technology,Almost always,Keep trying,>1 hour,Visual,Yes,Regularly,Can afford tuition,Science,O-Level
+61–75%,Average,Average,Average,Leadership activities,Sometimes,Ask for help,30–60 minutes,Hands-on,Somewhat,Occasionally,Limited budget,Commerce,Matric
+Below 50%,Weak,Weak,Average,Creative work,Rarely,Avoid it,<30 minutes,Hands-on,No,Rarely,Prefer government system,Arts,Matric
+Above 75%,Strong,Strong,Strong,Technology,Almost always,Keep trying,>1 hour,Visual,Yes,Regularly,Can afford tuition,Science,O-Level
+61–75%,Average,Average,Strong,Reading/writing,Sometimes,Ask for help,30–60 minutes,Reading,Yes,Occasionally,Limited budget,Commerce,Matric
+50–60%,Weak,Weak,Weak,Creative work,Rarely,Avoid it,<30 minutes,Hands-on,No,Rarely,Prefer government system,Arts,Matric
+Above 75%,Strong,Strong,Average,Technology,Almost always,Keep trying,>1 hour,Visual,Yes,Regularly,Can afford tuition,Science,O-Level
+Below 50%,Average,Average,Strong,Technology,Rarely,Ask for help,<30 minutes,Visual,Somewhat,Occasionally,Can afford tuition,Arts,Matric
+61–75%,Weak,Weak,Weak,Technology,Sometimes,Keep trying,30–60 minutes,Hands-on,Yes,Regularly,Can afford tuition,Arts,O-Level
+Below 50%,Strong,Strong,Weak,Reading/writing,Sometimes,Ask for help,30–60 minutes,Reading,No,Rarely,Limited budget,Science,Matric
+61–75%,Average,Average,Average,Leadership activities,Rarely,Avoid it,>1 hour,Reading,No,Rarely,Limited budget,Commerce,Matric
+61–75%,Average,Average,Average,Technology,Almost always,Keep trying,<30 minutes,Visual,Yes,Regularly,Limited budget,Science,Matric
+61–75%,Weak,Weak,Weak,Creative work,Sometimes,Keep trying,>1 hour,Reading,Somewhat,Rarely,Limited budget,Arts,Matric
+50–60%,Average,Average,Weak,Leadership activities,Rarely,Ask for help,30–60 minutes,Reading,Somewhat,Occasionally,Prefer government system,Commerce,Matric
+Above 75%,Strong,Weak,Average,Logical games,Almost always,Keep trying,30–60 minutes,Reading,No,Occasionally,Limited budget,Arts,Matric
+61–75%,Weak,Weak,Weak,Technology,Almost always,Avoid it,30–60 minutes,Visual,Yes,Rarely,Can afford tuition,Science,O-Level
+Above 75%,Average,Weak,Weak,Reading/writing,Rarely,Avoid it,30–60 minutes,Hands-on,Yes,Rarely,Limited budget,Commerce,Matric
+50–60%,Strong,Weak,Weak,Logical games,Almost always,Ask for help,30–60 minutes,Hands-on,Somewhat,Occasionally,Can afford tuition,Arts,Matric
+Below 50%,Weak,Strong,Strong,Technology,Almost always,Keep trying,30–60 minutes,Visual,No,Regularly,Limited budget,Arts,Matric
+Above 75%,Weak,Average,Weak,Technology,Almost always,Keep trying,>1 hour,Hands-on,Yes,Regularly,Can afford tuition,Arts,O-Level
+Above 75%,Average,Weak,Strong,Logical games,Almost always,Ask for help,>1 hour,Hands-on,No,Rarely,Limited budget,Science,Matric
+Below 50%,Strong,Weak,Average,Logical games,Almost always,Avoid it,>1 hour,Reading,Somewhat,Regularly,Can afford tuition,Science,Matric
+50–60%,Average,Weak,Strong,Leadership activities,Rarely,Keep trying,<30 minutes,Visual,Somewhat,Regularly,Can afford tuition,Commerce,Matric
+61–75%,Weak,Weak,Weak,Creative work,Rarely,Avoid it,>1 hour,Hands-on,No,Regularly,Can afford tuition,Arts,Matric
+50–60%,Strong,Weak,Strong,Creative work,Almost always,Ask for help,>1 hour,Visual,Yes,Rarely,Can afford tuition,Arts,O-Level
+Below 50%,Weak,Average,Strong,Reading/writing,Rarely,Avoid it,30–60 minutes,Visual,No,Regularly,Prefer government system,Commerce,Matric
+50–60%,Average,Weak,Average,Creative work,Rarely,Keep trying,>1 hour,Reading,Yes,Rarely,Can afford tuition,Arts,O-Level
+Below 50%,Average,Weak,Weak,Logical games,Almost always,Keep trying,>1 hour,Visual,Somewhat,Rarely,Can afford tuition,Commerce,Matric
+50–60%,Strong,Average,Average,Leadership activities,Almost always,Avoid it,<30 minutes,Reading,Yes,Regularly,Limited budget,Commerce,Matric
+Above 75%,Strong,Strong,Average,Technology,Almost always,Ask for help,<30 minutes,Visual,Yes,Rarely,Limited budget,Science,Matric
+Above 75%,Weak,Weak,Strong,Technology,Rarely,Avoid it,<30 minutes,Visual,No,Occasionally,Prefer government system,Science,Matric
+61–75%,Weak,Strong,Average,Logical games,Sometimes,Avoid it,<30 minutes,Visual,Somewhat,Occasionally,Can afford tuition,Commerce,Matric
+Below 50%,Average,Weak,Strong,Leadership activities,Sometimes,Ask for help,<30 minutes,Hands-on,Somewhat,Occasionally,Can afford tuition,Commerce,Matric
+Below 50%,Weak,Strong,Weak,Creative work,Sometimes,Keep trying,>1 hour,Reading,Yes,Occasionally,Limited budget,Arts,Matric
+Below 50%,Strong,Weak,Strong,Logical games,Rarely,Keep trying,30–60 minutes,Hands-on,Yes,Rarely,Can afford tuition,Arts,O-Level
+Below 50%,Strong,Weak,Average,Creative work,Almost always,Ask for help,<30 minutes,Visual,No,Regularly,Can afford tuition,Arts,Matric
+61–75%,Average,Average,Average,Reading/writing,Rarely,Keep trying,<30 minutes,Visual,No,Rarely,Prefer government system,Commerce,Matric
+50–60%,Strong,Average,Weak,Creative work,Almost always,Keep trying,30–60 minutes,Reading,No,Regularly,Limited budget,Arts,Matric
+50–60%,Weak,Strong,Average,Logical games,Sometimes,Avoid it,30–60 minutes,Hands-on,Yes,Rarely,Limited budget,Science,Matric
+Below 50%,Weak,Weak,Strong,Creative work,Almost always,Avoid it,<30 minutes,Reading,Yes,Rarely,Limited budget,Arts,Matric
+61–75%,Strong,Strong,Strong,Reading/writing,Almost always,Avoid it,30–60 minutes,Hands-on,Somewhat,Rarely,Limited budget,Science,Matric
+61–75%,Strong,Weak,Strong,Leadership activities,Rarely,Ask for help,<30 minutes,Hands-on,Somewhat,Rarely,Prefer government system,Commerce,Matric
+50–60%,Average,Average,Weak,Reading/writing,Almost always,Avoid it,>1 hour,Hands-on,No,Regularly,Prefer government system,Commerce,Matric
+Below 50%,Average,Weak,Strong,Leadership activities,Sometimes,Avoid it,>1 hour,Reading,Somewhat,Rarely,Prefer government system,Commerce,Matric
+Below 50%,Strong,Strong,Strong,Technology,Almost always,Keep trying,>1 hour,Hands-on,Somewhat,Occasionally,Can afford tuition,Science,Matric
+Below 50%,Strong,Strong,Weak,Logical games,Sometimes,Ask for help,<30 minutes,Reading,Somewhat,Occasionally,Limited budget,Science,Matric
+Below 50%,Weak,Strong,Average,Reading/writing,Sometimes,Keep trying,>1 hour,Reading,Yes,Regularly,Prefer government system,Commerce,Matric
+Above 75%,Weak,Strong,Weak,Creative work,Sometimes,Avoid it,>1 hour,Reading,No,Occasionally,Limited budget,Arts,Matric
+50–60%,Weak,Weak,Strong,Logical games,Sometimes,Keep trying,<30 minutes,Reading,Yes,Occasionally,Prefer government system,Commerce,Matric
+Above 75%,Weak,Average,Strong,Reading/writing,Sometimes,Avoid it,<30 minutes,Hands-on,Yes,Regularly,Can afford tuition,Commerce,O-Level
+Above 75%,Strong,Weak,Strong,Logical games,Sometimes,Avoid it,30–60 minutes,Hands-on,Yes,Occasionally,Can afford tuition,Commerce,O-Level
+Above 75%,Strong,Strong,Strong,Leadership activities,Almost always,Keep trying,>1 hour,Visual,No,Rarely,Limited budget,Science,Matric
+61–75%,Average,Strong,Weak,Logical games,Rarely,Keep trying,>1 hour,Hands-on,Yes,Regularly,Prefer government system,Science,Matric
+Below 50%,Weak,Average,Average,Logical games,Sometimes,Keep trying,30–60 minutes,Reading,Somewhat,Occasionally,Can afford tuition,Commerce,Matric
+Above 75%,Weak,Average,Average,Logical games,Rarely,Ask for help,<30 minutes,Reading,Somewhat,Occasionally,Limited budget,Commerce,Matric
+61–75%,Weak,Average,Average,Reading/writing,Rarely,Keep trying,<30 minutes,Reading,Yes,Rarely,Limited budget,Commerce,Matric
+50–60%,Strong,Average,Weak,Leadership activities,Almost always,Avoid it,>1 hour,Reading,Yes,Rarely,Can afford tuition,Commerce,O-Level
+Below 50%,Average,Strong,Average,Technology,Almost always,Avoid it,30–60 minutes,Visual,Yes,Regularly,Limited budget,Arts,Matric
+61–75%,Weak,Strong,Weak,Reading/writing,Almost always,Keep trying,30–60 minutes,Hands-on,Somewhat,Occasionally,Limited budget,Commerce,Matric
+Above 75%,Strong,Average,Weak,Reading/writing,Almost always,Avoid it,30–60 minutes,Visual,Yes,Regularly,Limited budget,Commerce,Matric
+Above 75%,Strong,Weak,Strong,Creative work,Sometimes,Ask for help,30–60 minutes,Visual,No,Regularly,Limited budget,Arts,Matric
+50–60%,Weak,Strong,Weak,Technology,Rarely,Ask for help,<30 minutes,Visual,No,Rarely,Prefer government system,Commerce,Matric
+50–60%,Strong,Weak,Strong,Leadership activities,Rarely,Avoid it,30–60 minutes,Hands-on,No,Rarely,Can afford tuition,Commerce,Matric
+61–75%,Average,Average,Strong,Technology,Rarely,Ask for help,30–60 minutes,Hands-on,Somewhat,Occasionally,Limited budget,Science,Matric
+61–75%,Strong,Strong,Strong,Leadership activities,Sometimes,Ask for help,30–60 minutes,Visual,Somewhat,Occasionally,Limited budget,Science,Matric
+Above 75%,Strong,Strong,Strong,Creative work,Almost always,Avoid it,<30 minutes,Hands-on,Somewhat,Regularly,Prefer government system,Science,Matric
+Below 50%,Strong,Average,Strong,Technology,Almost always,Ask for help,<30 minutes,Reading,No,Rarely,Prefer government system,Commerce,Matric
+Above 75%,Weak,Strong,Strong,Leadership activities,Almost always,Ask for help,30–60 minutes,Visual,No,Occasionally,Limited budget,Commerce,Matric
+61–75%,Weak,Average,Strong,Technology,Sometimes,Keep trying,<30 minutes,Visual,Somewhat,Regularly,Prefer government system,Arts,Matric
+50–60%,Strong,Strong,Average,Logical games,Sometimes,Avoid it,>1 hour,Reading,Yes,Regularly,Limited budget,Science,Matric
+Above 75%,Strong,Average,Weak,Logical games,Sometimes,Ask for help,<30 minutes,Reading,Yes,Occasionally,Prefer government system,Science,Matric
+50–60%,Strong,Average,Average,Logical games,Almost always,Keep trying,>1 hour,Visual,Somewhat,Rarely,Can afford tuition,Science,Matric
+Below 50%,Average,Strong,Weak,Logical games,Sometimes,Avoid it,<30 minutes,Reading,Yes,Occasionally,Limited budget,Commerce,Matric
+61–75%,Average,Weak,Weak,Leadership activities,Sometimes,Avoid it,<30 minutes,Visual,Somewhat,Regularly,Can afford tuition,Commerce,Matric
+Above 75%,Strong,Strong,Average,Leadership activities,Rarely,Avoid it,<30 minutes,Visual,No,Regularly,Can afford tuition,Science,Matric
+Below 50%,Weak,Strong,Strong,Creative work,Sometimes,Avoid it,>1 hour,Reading,Somewhat,Occasionally,Can afford tuition,Arts,Matric
+61–75%,Strong,Strong,Strong,Leadership activities,Rarely,Keep trying,>1 hour,Reading,Yes,Occasionally,Prefer government system,Science,Matric
+Below 50%,Strong,Average,Weak,Creative work,Almost always,Ask for help,>1 hour,Visual,No,Regularly,Limited budget,Arts,Matric
+50–60%,Average,Strong,Strong,Technology,Almost always,Ask for help,>1 hour,Hands-on,No,Regularly,Limited budget,Arts,Matric
+Above 75%,Strong,Average,Strong,Creative work,Sometimes,Ask for help,30–60 minutes,Visual,Yes,Rarely,Limited budget,Arts,Matric
+Above 75%,Strong,Weak,Strong,Leadership activities,Sometimes,Keep trying,>1 hour,Reading,No,Rarely,Can afford tuition,Commerce,Matric
+Below 50%,Weak,Strong,Strong,Leadership activities,Rarely,Keep trying,30–60 minutes,Visual,No,Regularly,Limited budget,Commerce,Matric
+Below 50%,Weak,Weak,Weak,Reading/writing,Almost always,Ask for help,>1 hour,Hands-on,Somewhat,Regularly,Can afford tuition,Commerce,Matric
+50–60%,Weak,Strong,Strong,Logical games,Sometimes,Keep trying,<30 minutes,Hands-on,No,Regularly,Can afford tuition,Science,Matric
+50–60%,Strong,Average,Average,Creative work,Sometimes,Keep trying,30–60 minutes,Hands-on,No,Rarely,Prefer government system,Arts,Matric
+Above 75%,Average,Average,Average,Logical games,Sometimes,Ask for help,<30 minutes,Reading,Yes,Regularly,Can afford tuition,Commerce,O-Level
+Above 75%,Weak,Weak,Average,Reading/writing,Sometimes,Avoid it,30–60 minutes,Reading,No,Rarely,Can afford tuition,Commerce,Matric
+Above 75%,Weak,Strong,Strong,Leadership activities,Rarely,Ask for help,<30 minutes,Visual,Yes,Occasionally,Limited budget,Commerce,Matric
+Above 75%,Strong,Average,Weak,Leadership activities,Sometimes,Avoid it,30–60 minutes,Reading,No,Regularly,Can afford tuition,Commerce,Matric
+50–60%,Strong,Average,Strong,Technology,Almost always,Ask for help,30–60 minutes,Visual,No,Rarely,Limited budget,Commerce,Matric
+Above 75%,Weak,Weak,Average,Creative work,Rarely,Ask for help,30–60 minutes,Visual,Somewhat,Rarely,Limited budget,Arts,Matric
+Below 50%,Weak,Weak,Weak,Reading/writing,Sometimes,Avoid it,>1 hour,Hands-on,Somewhat,Occasionally,Can afford tuition,Commerce,Matric
+50–60%,Average,Average,Weak,Reading/writing,Sometimes,Keep trying,30–60 minutes,Visual,No,Occasionally,Can afford tuition,Commerce,Matric
+Below 50%,Strong,Weak,Average,Technology,Sometimes,Keep trying,>1 hour,Hands-on,Somewhat,Regularly,Limited budget,Commerce,Matric
+50–60%,Weak,Average,Strong,Logical games,Almost always,Keep trying,<30 minutes,Hands-on,No,Regularly,Prefer government system,Science,Matric
+50–60%,Weak,Strong,Average,Technology,Almost always,Ask for help,30–60 minutes,Reading,Somewhat,Rarely,Can afford tuition,Science,Matric
+50–60%,Weak,Weak,Strong,Logical games,Rarely,Keep trying,<30 minutes,Visual,Yes,Rarely,Limited budget,Science,Matric
+Above 75%,Strong,Average,Strong,Technology,Sometimes,Keep trying,<30 minutes,Reading,No,Rarely,Limited budget,Science,Matric
+50–60%,Weak,Average,Strong,Logical games,Almost always,Keep trying,<30 minutes,Reading,Yes,Occasionally,Can afford tuition,Arts,O-Level
+Above 75%,Strong,Weak,Average,Technology,Rarely,Ask for help,>1 hour,Hands-on,No,Occasionally,Prefer government system,Science,Matric
+Above 75%,Weak,Weak,Weak,Creative work,Rarely,Ask for help,30–60 minutes,Visual,Somewhat,Occasionally,Limited budget,Arts,Matric
+Above 75%,Weak,Average,Strong,Leadership activities,Sometimes,Avoid it,30–60 minutes,Reading,No,Regularly,Prefer government system,Commerce,Matric
+61–75%,Weak,Weak,Strong,Creative work,Almost always,Avoid it,>1 hour,Visual,Somewhat,Occasionally,Can afford tuition,Arts,Matric
+61–75%,Strong,Average,Average,Logical games,Rarely,Avoid it,>1 hour,Reading,Somewhat,Rarely,Prefer government system,Commerce,Matric
+50–60%,Average,Strong,Average,Technology,Rarely,Ask for help,>1 hour,Hands-on,Yes,Rarely,Prefer government system,Science,Matric
+61–75%,Weak,Average,Weak,Logical games,Rarely,Ask for help,<30 minutes,Visual,Yes,Regularly,Prefer government system,Arts,Matric
+61–75%,Weak,Average,Weak,Creative work,Almost always,Keep trying,>1 hour,Hands-on,Yes,Occasionally,Prefer government system,Arts,Matric
+Below 50%,Average,Weak,Average,Reading/writing,Rarely,Avoid it,>1 hour,Reading,Yes,Regularly,Limited budget,Commerce,Matric
+61–75%,Average,Average,Average,Creative work,Sometimes,Avoid it,>1 hour,Reading,Somewhat,Regularly,Prefer government system,Arts,Matric
+50–60%,Strong,Weak,Weak,Leadership activities,Sometimes,Avoid it,30–60 minutes,Reading,No,Rarely,Limited budget,Commerce,Matric
+Below 50%,Strong,Weak,Average,Technology,Almost always,Keep trying,30–60 minutes,Hands-on,Somewhat,Rarely,Limited budget,Arts,Matric
+50–60%,Strong,Weak,Weak,Reading/writing,Sometimes,Ask for help,<30 minutes,Hands-on,No,Rarely,Prefer government system,Commerce,Matric
+61–75%,Average,Weak,Strong,Logical games,Rarely,Keep trying,<30 minutes,Visual,No,Rarely,Prefer government system,Arts,Matric
+50–60%,Strong,Average,Average,Logical games,Almost always,Ask for help,<30 minutes,Hands-on,Yes,Rarely,Prefer government system,Science,Matric
+Below 50%,Average,Average,Weak,Technology,Rarely,Ask for help,30–60 minutes,Reading,No,Regularly,Can afford tuition,Arts,Matric
+50–60%,Average,Average,Weak,Logical games,Sometimes,Keep trying,>1 hour,Visual,Yes,Occasionally,Can afford tuition,Science,O-Level
+50–60%,Average,Strong,Average,Logical games,Rarely,Keep trying,30–60 minutes,Reading,No,Regularly,Can afford tuition,Arts,Matric
+61–75%,Strong,Strong,Strong,Technology,Rarely,Avoid it,<30 minutes,Hands-on,Somewhat,Rarely,Limited budget,Science,Matric
+50–60%,Strong,Strong,Strong,Creative work,Rarely,Avoid it,<30 minutes,Hands-on,No,Regularly,Can afford tuition,Science,Matric
+50–60%,Average,Strong,Weak,Reading/writing,Rarely,Keep trying,30–60 minutes,Visual,No,Occasionally,Limited budget,Commerce,Matric
+Below 50%,Average,Weak,Average,Leadership activities,Almost always,Ask for help,<30 minutes,Visual,No,Regularly,Limited budget,Commerce,Matric
+Above 75%,Average,Average,Strong,Logical games,Sometimes,Keep trying,>1 hour,Reading,No,Occasionally,Limited budget,Science,Matric
+Above 75%,Weak,Average,Strong,Logical games,Almost always,Avoid it,<30 minutes,Visual,No,Rarely,Limited budget,Science,Matric
+61–75%,Strong,Strong,Strong,Technology,Sometimes,Avoid it,>1 hour,Visual,No,Rarely,Limited budget,Science,Matric
+Above 75%,Strong,Average,Average,Reading/writing,Sometimes,Ask for help,30–60 minutes,Hands-on,Yes,Occasionally,Limited budget,Commerce,Matric
+61–75%,Average,Average,Average,Reading/writing,Sometimes,Avoid it,>1 hour,Visual,Somewhat,Occasionally,Prefer government system,Commerce,Matric
+61–75%,Average,Weak,Average,Leadership activities,Rarely,Ask for help,<30 minutes,Reading,Somewhat,Occasionally,Prefer government system,Commerce,Matric
+Below 50%,Weak,Strong,Weak,Leadership activities,Rarely,Ask for help,<30 minutes,Visual,Somewhat,Occasionally,Can afford tuition,Commerce,Matric
+Above 75%,Strong,Strong,Strong,Creative work,Sometimes,Avoid it,30–60 minutes,Hands-on,Yes,Regularly,Can afford tuition,Science,O-Level
+50–60%,Strong,Average,Average,Logical games,Rarely,Ask for help,>1 hour,Hands-on,Somewhat,Regularly,Can afford tuition,Science,Matric
+Above 75%,Weak,Weak,Average,Technology,Almost always,Avoid it,30–60 minutes,Reading,Yes,Rarely,Can afford tuition,Science,O-Level
+Above 75%,Strong,Strong,Average,Technology,Almost always,Keep trying,30–60 minutes,Reading,Somewhat,Rarely,Prefer government system,Science,Matric
+50–60%,Weak,Average,Average,Leadership activities,Sometimes,Keep trying,30–60 minutes,Reading,Yes,Occasionally,Prefer government system,Commerce,Matric
+61–75%,Weak,Average,Average,Reading/writing,Almost always,Ask for help,>1 hour,Hands-on,Somewhat,Regularly,Can afford tuition,Commerce,Matric
+50–60%,Weak,Weak,Strong,Technology,Almost always,Keep trying,30–60 minutes,Visual,No,Rarely,Prefer government system,Commerce,Matric
+61–75%,Average,Weak,Average,Creative work,Almost always,Ask for help,30–60 minutes,Visual,Somewhat,Occasionally,Limited budget,Arts,Matric
+Above 75%,Strong,Strong,Strong,Creative work,Rarely,Keep trying,<30 minutes,Reading,Somewhat,Rarely,Prefer government system,Science,Matric
+Above 75%,Strong,Strong,Weak,Reading/writing,Almost always,Avoid it,30–60 minutes,Visual,Somewhat,Rarely,Prefer government system,Science,Matric
+Above 75%,Strong,Strong,Average,Leadership activities,Sometimes,Avoid it,<30 minutes,Hands-on,No,Regularly,Can afford tuition,Science,Matric
+Below 50%,Weak,Strong,Strong,Technology,Rarely,Avoid it,>1 hour,Visual,Somewhat,Occasionally,Can afford tuition,Arts,Matric
+Above 75%,Weak,Average,Weak,Leadership activities,Almost always,Ask for help,<30 minutes,Reading,Yes,Rarely,Can afford tuition,Commerce,O-Level
+Above 75%,Weak,Strong,Weak,Creative work,Almost always,Keep trying,>1 hour,Visual,Yes,Rarely,Prefer government system,Arts,Matric
+Above 75%,Weak,Strong,Weak,Creative work,Rarely,Ask for help,>1 hour,Visual,No,Rarely,Prefer government system,Arts,Matric
+50–60%,Strong,Weak,Average,Leadership activities,Rarely,Keep trying,30–60 minutes,Visual,Yes,Rarely,Limited budget,Commerce,Matric
+Above 75%,Weak,Weak,Strong,Technology,Sometimes,Ask for help,30–60 minutes,Visual,Yes,Rarely,Limited budget,Commerce,Matric
+Above 75%,Average,Weak,Strong,Logical games,Rarely,Ask for help,>1 hour,Reading,Somewhat,Regularly,Prefer government system,Science,Matric
+Below 50%,Average,Average,Average,Logical games,Almost always,Ask for help,<30 minutes,Visual,Somewhat,Occasionally,Can afford tuition,Science,Matric
+Below 50%,Strong,Average,Strong,Technology,Rarely,Avoid it,30–60 minutes,Visual,Yes,Rarely,Limited budget,Science,Matric
+Above 75%,Average,Weak,Strong,Technology,Almost always,Keep trying,30–60 minutes,Reading,Somewhat,Occasionally,Can afford tuition,Commerce,Matric
+50–60%,Strong,Weak,Average,Logical games,Almost always,Avoid it,>1 hour,Reading,No,Occasionally,Limited budget,Arts,Matric
+Above 75%,Weak,Average,Strong,Creative work,Sometimes,Ask for help,>1 hour,Reading,Somewhat,Rarely,Limited budget,Arts,Matric
+Below 50%,Strong,Strong,Strong,Creative work,Rarely,Avoid it,30–60 minutes,Visual,Yes,Occasionally,Prefer government system,Science,Matric
+Above 75%,Average,Strong,Strong,Creative work,Almost always,Keep trying,<30 minutes,Visual,No,Rarely,Prefer government system,Arts,Matric
+61–75%,Average,Average,Average,Technology,Almost always,Ask for help,30–60 minutes,Reading,Yes,Occasionally,Limited budget,Arts,Matric
+61–75%,Average,Strong,Weak,Creative work,Almost always,Avoid it,<30 minutes,Hands-on,Somewhat,Occasionally,Can afford tuition,Arts,Matric
+Above 75%,Weak,Strong,Strong,Leadership activities,Rarely,Avoid it,>1 hour,Hands-on,Yes,Rarely,Limited budget,Commerce,Matric
+Above 75%,Weak,Weak,Strong,Leadership activities,Almost always,Ask for help,>1 hour,Visual,Somewhat,Occasionally,Prefer government system,Commerce,Matric
+61–75%,Strong,Average,Weak,Leadership activities,Rarely,Keep trying,30–60 minutes,Hands-on,Somewhat,Rarely,Limited budget,Commerce,Matric
+Above 75%,Average,Strong,Average,Technology,Sometimes,Keep trying,<30 minutes,Visual,Somewhat,Regularly,Prefer government system,Commerce,Matric
+Above 75%,Strong,Average,Average,Logical games,Almost always,Avoid it,30–60 minutes,Hands-on,No,Occasionally,Prefer government system,Commerce,Matric
+Below 50%,Strong,Weak,Weak,Leadership activities,Sometimes,Ask for help,<30 minutes,Reading,Yes,Rarely,Can afford tuition,Commerce,O-Level
+Below 50%,Strong,Weak,Strong,Technology,Rarely,Ask for help,<30 minutes,Visual,No,Regularly,Limited budget,Arts,Matric
+61–75%,Strong,Average,Weak,Technology,Rarely,Avoid it,>1 hour,Hands-on,Yes,Occasionally,Prefer government system,Science,Matric
+Below 50%,Weak,Weak,Strong,Technology,Rarely,Ask for help,30–60 minutes,Reading,No,Occasionally,Prefer government system,Science,Matric
+61–75%,Weak,Weak,Weak,Logical games,Almost always,Keep trying,<30 minutes,Visual,Somewhat,Rarely,Limited budget,Commerce,Matric
+61–75%,Average,Weak,Weak,Leadership activities,Sometimes,Avoid it,30–60 minutes,Reading,Yes,Rarely,Can afford tuition,Commerce,O-Level
+Below 50%,Average,Average,Average,Leadership activities,Sometimes,Avoid it,>1 hour,Reading,Somewhat,Occasionally,Can afford tuition,Commerce,Matric
+50–60%,Average,Strong,Strong,Leadership activities,Sometimes,Keep trying,30–60 minutes,Reading,No,Rarely,Limited budget,Commerce,Matric
+61–75%,Weak,Strong,Strong,Reading/writing,Rarely,Ask for help,30–60 minutes,Reading,Yes,Rarely,Limited budget,Commerce,Matric
+50–60%,Weak,Strong,Strong,Logical games,Sometimes,Keep trying,>1 hour,Hands-on,Yes,Regularly,Prefer government system,Commerce,Matric
+50–60%,Weak,Weak,Strong,Logical games,Almost always,Ask for help,<30 minutes,Hands-on,Yes,Occasionally,Prefer government system,Science,Matric
+Above 75%,Average,Average,Weak,Leadership activities,Sometimes,Ask for help,<30 minutes,Reading,No,Regularly,Prefer government system,Commerce,Matric
+61–75%,Strong,Average,Weak,Creative work,Almost always,Ask for help,>1 hour,Visual,Somewhat,Regularly,Limited budget,Arts,Matric
+Below 50%,Weak,Strong,Strong,Creative work,Rarely,Keep trying,30–60 minutes,Reading,No,Rarely,Limited budget,Arts,Matric
+Above 75%,Strong,Average,Strong,Technology,Sometimes,Avoid it,<30 minutes,Visual,Yes,Occasionally,Prefer government system,Arts,Matric
+Below 50%,Weak,Average,Weak,Leadership activities,Rarely,Keep trying,30–60 minutes,Reading,No,Regularly,Prefer government system,Commerce,Matric
+Below 50%,Average,Average,Average,Technology,Rarely,Keep trying,>1 hour,Visual,Somewhat,Regularly,Limited budget,Commerce,Matric
+50–60%,Strong,Average,Average,Leadership activities,Sometimes,Keep trying,>1 hour,Visual,Yes,Rarely,Prefer government system,Commerce,Matric
+61–75%,Weak,Strong,Strong,Reading/writing,Rarely,Keep trying,<30 minutes,Hands-on,Yes,Occasionally,Can afford tuition,Commerce,O-Level
+Below 50%,Weak,Weak,Strong,Leadership activities,Sometimes,Keep trying,<30 minutes,Hands-on,Somewhat,Rarely,Limited budget,Commerce,Matric
+Above 75%,Average,Strong,Weak,Technology,Rarely,Ask for help,>1 hour,Reading,Yes,Regularly,Limited budget,Science,Matric
+Below 50%,Strong,Weak,Strong,Leadership activities,Sometimes,Avoid it,>1 hour,Visual,No,Rarely,Prefer government system,Commerce,Matric
+50–60%,Strong,Average,Weak,Reading/writing,Almost always,Avoid it,<30 minutes,Hands-on,Yes,Regularly,Can afford tuition,Commerce,O-Level
+61–75%,Average,Strong,Average,Creative work,Almost always,Avoid it,30–60 minutes,Visual,Somewhat,Regularly,Prefer government system,Arts,Matric
+50–60%,Average,Weak,Average,Reading/writing,Rarely,Ask for help,30–60 minutes,Visual,Somewhat,Occasionally,Prefer government system,Commerce,Matric
+Below 50%,Average,Strong,Weak,Leadership activities,Sometimes,Keep trying,>1 hour,Visual,No,Rarely,Prefer government system,Commerce,Matric
+Above 75%,Strong,Average,Average,Creative work,Sometimes,Keep trying,30–60 minutes,Reading,Yes,Regularly,Prefer government system,Arts,Matric
+Above 75%,Weak,Average,Average,Reading/writing,Sometimes,Avoid it,30–60 minutes,Reading,No,Rarely,Can afford tuition,Commerce,Matric
+Above 75%,Weak,Weak,Weak,Logical games,Almost always,Ask for help,30–60 minutes,Reading,Somewhat,Regularly,Prefer government system,Science,Matric
+Above 75%,Weak,Average,Average,Logical games,Sometimes,Keep trying,<30 minutes,Visual,Yes,Rarely,Limited budget,Arts,Matric
+61–75%,Weak,Strong,Strong,Technology,Almost always,Keep trying,30–60 minutes,Reading,No,Regularly,Can afford tuition,Science,Matric
+Above 75%,Average,Weak,Weak,Creative work,Almost always,Keep trying,>1 hour,Hands-on,No,Occasionally,Prefer government system,Arts,Matric
+Below 50%,Strong,Average,Average,Reading/writing,Rarely,Avoid it,>1 hour,Visual,Yes,Regularly,Limited budget,Commerce,Matric
+Below 50%,Average,Weak,Weak,Logical games,Sometimes,Keep trying,30–60 minutes,Reading,No,Occasionally,Limited budget,Science,Matric
+61–75%,Strong,Weak,Weak,Leadership activities,Almost always,Ask for help,30–60 minutes,Hands-on,No,Regularly,Can afford tuition,Commerce,Matric
+61–75%,Average,Strong,Average,Reading/writing,Sometimes,Keep trying,<30 minutes,Reading,No,Rarely,Limited budget,Commerce,Matric
+50–60%,Weak,Weak,Strong,Logical games,Almost always,Avoid it,<30 minutes,Hands-on,Yes,Regularly,Prefer government system,Commerce,Matric
+50–60%,Weak,Strong,Strong,Technology,Almost always,Ask for help,30–60 minutes,Reading,Somewhat,Rarely,Limited budget,Commerce,Matric
+Above 75%,Strong,Strong,Strong,Creative work,Sometimes,Keep trying,<30 minutes,Visual,Somewhat,Rarely,Limited budget,Science,Matric
+Below 50%,Strong,Weak,Strong,Reading/writing,Almost always,Avoid it,>1 hour,Hands-on,Yes,Occasionally,Can afford tuition,Commerce,O-Level
+Above 75%,Strong,Strong,Average,Reading/writing,Rarely,Avoid it,>1 hour,Visual,Yes,Regularly,Prefer government system,Science,Matric
+50–60%,Strong,Weak,Strong,Logical games,Almost always,Avoid it,<30 minutes,Visual,Yes,Rarely,Can afford tuition,Arts,O-Level
+Above 75%,Average,Average,Weak,Creative work,Rarely,Ask for help,30–60 minutes,Visual,No,Regularly,Can afford tuition,Arts,Matric
+50–60%,Average,Average,Weak,Leadership activities,Rarely,Avoid it,>1 hour,Hands-on,Somewhat,Occasionally,Can afford tuition,Commerce,Matric
+61–75%,Strong,Weak,Average,Logical games,Sometimes,Keep trying,>1 hour,Visual,Yes,Rarely,Prefer government system,Arts,Matric
+50–60%,Weak,Strong,Average,Reading/writing,Sometimes,Keep trying,30–60 minutes,Hands-on,No,Regularly,Can afford tuition,Commerce,Matric
+Above 75%,Average,Weak,Average,Leadership activities,Rarely,Keep trying,>1 hour,Reading,No,Occasionally,Limited budget,Commerce,Matric
+50–60%,Weak,Strong,Weak,Reading/writing,Almost always,Keep trying,<30 minutes,Visual,Somewhat,Rarely,Prefer government system,Commerce,Matric
+Below 50%,Average,Strong,Strong,Reading/writing,Rarely,Avoid it,<30 minutes,Reading,Yes,Occasionally,Can afford tuition,Commerce,O-Level
+Above 75%,Average,Average,Weak,Creative work,Almost always,Avoid it,30–60 minutes,Reading,Somewhat,Occasionally,Can afford tuition,Arts,Matric
+61–75%,Average,Average,Average,Reading/writing,Rarely,Avoid it,<30 minutes,Hands-on,Somewhat,Regularly,Can afford tuition,Commerce,Matric
+50–60%,Average,Strong,Weak,Logical games,Sometimes,Ask for help,<30 minutes,Hands-on,Yes,Rarely,Prefer government system,Science,Matric
+Above 75%,Strong,Average,Strong,Technology,Almost always,Keep trying,<30 minutes,Hands-on,Somewhat,Rarely,Can afford tuition,Commerce,Matric
+Above 75%,Weak,Weak,Weak,Technology,Almost always,Keep trying,30–60 minutes,Reading,Somewhat,Occasionally,Can afford tuition,Arts,Matric
+61–75%,Average,Weak,Strong,Reading/writing,Sometimes,Avoid it,30–60 minutes,Hands-on,Yes,Occasionally,Can afford tuition,Commerce,O-Level
+Above 75%,Weak,Average,Average,Reading/writing,Sometimes,Ask for help,30–60 minutes,Reading,No,Regularly,Can afford tuition,Commerce,Matric
+50–60%,Weak,Weak,Weak,Logical games,Almost always,Keep trying,<30 minutes,Hands-on,No,Rarely,Prefer government system,Commerce,Matric
+Above 75%,Average,Strong,Strong,Leadership activities,Sometimes,Ask for help,30–60 minutes,Hands-on,Yes,Occasionally,Can afford tuition,Commerce,O-Level
+Below 50%,Strong,Average,Strong,Technology,Rarely,Keep trying,<30 minutes,Hands-on,Somewhat,Occasionally,Can afford tuition,Science,Matric
+61–75%,Weak,Weak,Weak,Reading/writing,Sometimes,Keep trying,<30 minutes,Visual,Yes,Occasionally,Can afford tuition,Commerce,O-Level
+50–60%,Weak,Weak,Strong,Technology,Almost always,Keep trying,30–60 minutes,Hands-on,Yes,Occasionally,Can afford tuition,Arts,O-Level
+Above 75%,Strong,Strong,Average,Logical games,Sometimes,Ask for help,30–60 minutes,Visual,Yes,Occasionally,Can afford tuition,Science,O-Level
+50–60%,Weak,Average,Strong,Logical games,Sometimes,Ask for help,<30 minutes,Visual,Somewhat,Occasionally,Limited budget,Science,Matric
+Below 50%,Average,Weak,Average,Leadership activities,Rarely,Keep trying,>1 hour,Hands-on,No,Regularly,Limited budget,Commerce,Matric
+50–60%,Weak,Weak,Weak,Reading/writing,Almost always,Keep trying,<30 minutes,Hands-on,Yes,Regularly,Can afford tuition,Commerce,O-Level
+Below 50%,Strong,Weak,Weak,Logical games,Rarely,Avoid it,30–60 minutes,Hands-on,No,Regularly,Limited budget,Arts,Matric
+Below 50%,Strong,Strong,Strong,Technology,Sometimes,Avoid it,>1 hour,Reading,Yes,Regularly,Limited budget,Science,Matric
+Below 50%,Average,Strong,Strong,Creative work,Almost always,Ask for help,>1 hour,Hands-on,Yes,Rarely,Can afford tuition,Arts,O-Level
+61–75%,Weak,Weak,Average,Logical games,Sometimes,Avoid it,<30 minutes,Reading,Yes,Rarely,Can afford tuition,Commerce,O-Level
+Above 75%,Strong,Strong,Strong,Logical games,Sometimes,Keep trying,30–60 minutes,Reading,Somewhat,Occasionally,Can afford tuition,Science,Matric
+61–75%,Average,Average,Weak,Reading/writing,Sometimes,Ask for help,>1 hour,Hands-on,No,Regularly,Limited budget,Commerce,Matric
+Below 50%,Average,Average,Average,Logical games,Almost always,Ask for help,>1 hour,Reading,Somewhat,Regularly,Limited budget,Science,Matric
+50–60%,Strong,Average,Strong,Reading/writing,Rarely,Keep trying,30–60 minutes,Visual,Somewhat,Occasionally,Can afford tuition,Commerce,Matric
+61–75%,Strong,Average,Strong,Creative work,Almost always,Keep trying,30–60 minutes,Reading,Yes,Regularly,Can afford tuition,Arts,O-Level
+61–75%,Weak,Weak,Strong,Reading/writing,Rarely,Ask for help,>1 hour,Reading,Somewhat,Regularly,Limited budget,Commerce,Matric
+50–60%,Weak,Strong,Weak,Logical games,Sometimes,Avoid it,<30 minutes,Reading,No,Occasionally,Limited budget,Commerce,Matric
+Below 50%,Strong,Weak,Average,Leadership activities,Sometimes,Ask for help,>1 hour,Visual,Yes,Rarely,Can afford tuition,Commerce,O-Level
+61–75%,Strong,Strong,Strong,Technology,Sometimes,Keep trying,30–60 minutes,Hands-on,Somewhat,Occasionally,Can afford tuition,Science,Matric
+Below 50%,Average,Strong,Strong,Logical games,Rarely,Avoid it,<30 minutes,Reading,Somewhat,Occasionally,Limited budget,Arts,Matric
+50–60%,Strong,Weak,Strong,Reading/writing,Sometimes,Ask for help,<30 minutes,Hands-on,Yes,Occasionally,Can afford tuition,Commerce,O-Level
+Above 75%,Strong,Average,Weak,Leadership activities,Almost always,Ask for help,<30 minutes,Visual,Yes,Rarely,Limited budget,Commerce,Matric
+61–75%,Average,Weak,Weak,Technology,Rarely,Ask for help,<30 minutes,Visual,Yes,Rarely,Prefer government system,Science,Matric
+50–60%,Weak,Weak,Weak,Technology,Sometimes,Ask for help,>1 hour,Reading,Yes,Rarely,Prefer government system,Commerce,Matric
+50–60%,Average,Weak,Strong,Reading/writing,Almost always,Avoid it,>1 hour,Hands-on,No,Rarely,Prefer government system,Commerce,Matric
+Above 75%,Strong,Average,Strong,Reading/writing,Sometimes,Keep trying,<30 minutes,Hands-on,Yes,Occasionally,Limited budget,Commerce,Matric
+Above 75%,Weak,Weak,Weak,Technology,Sometimes,Avoid it,<30 minutes,Hands-on,Yes,Occasionally,Prefer government system,Science,Matric
+61–75%,Strong,Weak,Average,Creative work,Rarely,Ask for help,<30 minutes,Reading,Yes,Rarely,Limited budget,Arts,Matric
+Above 75%,Weak,Average,Strong,Logical games,Sometimes,Avoid it,<30 minutes,Hands-on,Yes,Rarely,Limited budget,Science,Matric
+61–75%,Average,Weak,Strong,Reading/writing,Almost always,Keep trying,<30 minutes,Hands-on,Somewhat,Regularly,Prefer government system,Commerce,Matric
+Below 50%,Strong,Average,Strong,Logical games,Almost always,Ask for help,30–60 minutes,Reading,Yes,Rarely,Can afford tuition,Arts,O-Level
+Below 50%,Strong,Strong,Average,Reading/writing,Sometimes,Avoid it,<30 minutes,Reading,Yes,Regularly,Prefer government system,Science,Matric
+61–75%,Strong,Average,Weak,Technology,Rarely,Ask for help,<30 minutes,Hands-on,Yes,Occasionally,Prefer government system,Commerce,Matric
+50–60%,Strong,Average,Weak,Leadership activities,Rarely,Ask for help,30–60 minutes,Reading,Yes,Regularly,Can afford tuition,Commerce,O-Level
+Below 50%,Average,Strong,Strong,Logical games,Rarely,Avoid it,30–60 minutes,Hands-on,No,Regularly,Limited budget,Arts,Matric
+61–75%,Strong,Weak,Weak,Reading/writing,Almost always,Ask for help,>1 hour,Hands-on,Yes,Regularly,Prefer government system,Commerce,Matric
+Below 50%,Weak,Strong,Weak,Technology,Sometimes,Keep trying,<30 minutes,Visual,Yes,Regularly,Can afford tuition,Arts,O-Level
+61–75%,Average,Strong,Average,Reading/writing,Almost always,Keep trying,30–60 minutes,Reading,No,Regularly,Limited budget,Commerce,Matric
+Above 75%,Average,Strong,Strong,Creative work,Almost always,Ask for help,30–60 minutes,Visual,No,Occasionally,Prefer government system,Arts,Matric
+61–75%,Strong,Weak,Weak,Leadership activities,Rarely,Ask for help,30–60 minutes,Hands-on,Yes,Rarely,Prefer government system,Commerce,Matric
+50–60%,Strong,Average,Average,Leadership activities,Sometimes,Ask for help,>1 hour,Hands-on,No,Occasionally,Prefer government system,Commerce,Matric
+61–75%,Weak,Weak,Average,Creative work,Rarely,Avoid it,30–60 minutes,Hands-on,Yes,Regularly,Can afford tuition,Arts,O-Level
+50–60%,Average,Weak,Weak,Reading/writing,Rarely,Avoid it,30–60 minutes,Visual,Somewhat,Regularly,Can afford tuition,Commerce,Matric
+Below 50%,Weak,Average,Weak,Logical games,Rarely,Ask for help,>1 hour,Reading,Somewhat,Occasionally,Prefer government system,Commerce,Matric
+Above 75%,Strong,Strong,Average,Logical games,Rarely,Avoid it,30–60 minutes,Visual,Yes,Rarely,Limited budget,Science,Matric
+Above 75%,Average,Weak,Weak,Leadership activities,Rarely,Avoid it,30–60 minutes,Reading,No,Regularly,Limited budget,Commerce,Matric
+61–75%,Weak,Average,Weak,Logical games,Sometimes,Ask for help,<30 minutes,Reading,Somewhat,Regularly,Prefer government system,Science,Matric
+50–60%,Strong,Average,Strong,Technology,Almost always,Ask for help,30–60 minutes,Hands-on,No,Occasionally,Can afford tuition,Commerce,Matric
+61–75%,Average,Average,Strong,Creative work,Almost always,Avoid it,<30 minutes,Hands-on,No,Rarely,Limited budget,Arts,Matric
+50–60%,Average,Average,Average,Creative work,Sometimes,Avoid it,30–60 minutes,Hands-on,Somewhat,Regularly,Limited budget,Arts,Matric
+Below 50%,Weak,Strong,Strong,Leadership activities,Rarely,Avoid it,30–60 minutes,Visual,No,Regularly,Limited budget,Commerce,Matric
+50–60%,Weak,Strong,Average,Leadership activities,Almost always,Ask for help,<30 minutes,Hands-on,No,Rarely,Prefer government system,Commerce,Matric
+Below 50%,Weak,Weak,Weak,Creative work,Almost always,Avoid it,<30 minutes,Hands-on,No,Regularly,Can afford tuition,Arts,Matric
+Below 50%,Strong,Average,Strong,Technology,Sometimes,Avoid it,>1 hour,Hands-on,Yes,Regularly,Limited budget,Arts,Matric
+61–75%,Strong,Weak,Average,Creative work,Almost always,Avoid it,30–60 minutes,Reading,Yes,Regularly,Limited budget,Arts,Matric
+61–75%,Strong,Weak,Weak,Leadership activities,Sometimes,Ask for help,>1 hour,Hands-on,No,Occasionally,Can afford tuition,Commerce,Matric
+Above 75%,Weak,Weak,Average,Technology,Sometimes,Ask for help,<30 minutes,Hands-on,No,Regularly,Prefer government system,Arts,Matric
+50–60%,Average,Average,Strong,Leadership activities,Almost always,Avoid it,30–60 minutes,Visual,No,Occasionally,Can afford tuition,Commerce,Matric
+50–60%,Strong,Strong,Strong,Leadership activities,Almost always,Keep trying,<30 minutes,Visual,Somewhat,Regularly,Can afford tuition,Science,Matric
+50–60%,Average,Average,Strong,Creative work,Rarely,Avoid it,<30 minutes,Hands-on,No,Regularly,Can afford tuition,Arts,Matric
+Above 75%,Strong,Weak,Weak,Technology,Sometimes,Keep trying,<30 minutes,Visual,No,Regularly,Limited budget,Commerce,Matric
+50–60%,Average,Average,Strong,Logical games,Sometimes,Keep trying,<30 minutes,Visual,Yes,Occasionally,Can afford tuition,Arts,O-Level
+Above 75%,Average,Average,Average,Technology,Almost always,Avoid it,>1 hour,Reading,Yes,Rarely,Limited budget,Commerce,Matric
+61–75%,Strong,Average,Strong,Logical games,Sometimes,Ask for help,>1 hour,Hands-on,Yes,Regularly,Prefer government system,Arts,Matric
+50–60%,Strong,Weak,Weak,Creative work,Almost always,Keep trying,<30 minutes,Reading,Somewhat,Occasionally,Limited budget,Arts,Matric
+61–75%,Average,Strong,Average,Leadership activities,Sometimes,Keep trying,<30 minutes,Reading,No,Occasionally,Prefer government system,Commerce,Matric
+Below 50%,Weak,Strong,Average,Technology,Almost always,Ask for help,30–60 minutes,Reading,No,Regularly,Can afford tuition,Science,Matric
+Below 50%,Average,Strong,Weak,Logical games,Sometimes,Ask for help,>1 hour,Visual,Yes,Occasionally,Limited budget,Arts,Matric
+Below 50%,Strong,Strong,Average,Reading/writing,Rarely,Keep trying,<30 minutes,Hands-on,Somewhat,Regularly,Prefer government system,Science,Matric
+61–75%,Weak,Strong,Average,Reading/writing,Rarely,Keep trying,30–60 minutes,Visual,Somewhat,Regularly,Prefer government system,Commerce,Matric
+Below 50%,Strong,Weak,Strong,Leadership activities,Sometimes,Keep trying,<30 minutes,Reading,Yes,Occasionally,Limited budget,Commerce,Matric
+50–60%,Strong,Average,Average,Leadership activities,Rarely,Avoid it,30–60 minutes,Reading,Yes,Regularly,Limited budget,Commerce,Matric
+Above 75%,Strong,Strong,Average,Creative work,Almost always,Keep trying,30–60 minutes,Reading,Somewhat,Regularly,Prefer government system,Science,Matric
+Above 75%,Strong,Average,Average,Creative work,Almost always,Ask for help,<30 minutes,Hands-on,Somewhat,Occasionally,Prefer government system,Arts,Matric
+Above 75%,Weak,Average,Weak,Logical games,Rarely,Ask for help,30–60 minutes,Visual,Yes,Occasionally,Limited budget,Arts,Matric
+Below 50%,Weak,Weak,Strong,Technology,Almost always,Ask for help,<30 minutes,Reading,Somewhat,Occasionally,Can afford tuition,Commerce,Matric
+Above 75%,Average,Weak,Strong,Creative work,Sometimes,Avoid it,>1 hour,Reading,No,Rarely,Prefer government system,Arts,Matric
+50–60%,Strong,Average,Weak,Leadership activities,Sometimes,Avoid it,30–60 minutes,Visual,Yes,Occasionally,Prefer government system,Commerce,Matric
+50–60%,Strong,Average,Average,Reading/writing,Rarely,Avoid it,30–60 minutes,Reading,No,Regularly,Can afford tuition,Commerce,Matric
+Above 75%,Average,Strong,Strong,Logical games,Rarely,Avoid it,>1 hour,Hands-on,Somewhat,Occasionally,Prefer government system,Science,Matric
+50–60%,Weak,Average,Weak,Creative work,Rarely,Ask for help,<30 minutes,Reading,Somewhat,Regularly,Limited budget,Arts,Matric
+Above 75%,Strong,Strong,Strong,Reading/writing,Sometimes,Keep trying,>1 hour,Visual,Yes,Occasionally,Limited budget,Science,Matric
+Above 75%,Strong,Weak,Average,Creative work,Sometimes,Keep trying,30–60 minutes,Hands-on,Somewhat,Rarely,Prefer government system,Arts,Matric
+Below 50%,Weak,Average,Average,Leadership activities,Rarely,Keep trying,>1 hour,Reading,Somewhat,Rarely,Can afford tuition,Commerce,Matric
+61–75%,Strong,Strong,Strong,Creative work,Sometimes,Ask for help,30–60 minutes,Visual,Somewhat,Rarely,Can afford tuition,Science,Matric
+Above 75%,Weak,Average,Average,Reading/writing,Rarely,Avoid it,<30 minutes,Hands-on,Yes,Rarely,Prefer government system,Commerce,Matric
+Below 50%,Weak,Strong,Weak,Logical games,Sometimes,Ask for help,30–60 minutes,Visual,Somewhat,Occasionally,Limited budget,Arts,Matric
+50–60%,Strong,Weak,Strong,Reading/writing,Rarely,Ask for help,>1 hour,Visual,Yes,Regularly,Can afford tuition,Commerce,O-Level
+Below 50%,Average,Average,Average,Technology,Sometimes,Ask for help,>1 hour,Visual,Yes,Occasionally,Can afford tuition,Science,O-Level
+61–75%,Strong,Strong,Weak,Technology,Sometimes,Keep trying,<30 minutes,Hands-on,Yes,Regularly,Prefer government system,Science,Matric
+Below 50%,Average,Weak,Strong,Logical games,Rarely,Avoid it,>1 hour,Hands-on,Yes,Occasionally,Can afford tuition,Commerce,O-Level
+50–60%,Strong,Average,Strong,Technology,Sometimes,Ask for help,30–60 minutes,Hands-on,Somewhat,Regularly,Prefer government system,Science,Matric
+Above 75%,Strong,Weak,Weak,Technology,Rarely,Avoid it,30–60 minutes,Hands-on,No,Regularly,Limited budget,Commerce,Matric
+61–75%,Average,Weak,Average,Logical games,Rarely,Keep trying,30–60 minutes,Visual,Yes,Occasionally,Can afford tuition,Science,O-Level
+61–75%,Weak,Weak,Weak,Leadership activities,Rarely,Keep trying,<30 minutes,Reading,Somewhat,Rarely,Can afford tuition,Commerce,Matric
+Above 75%,Average,Average,Strong,Reading/writing,Almost always,Keep trying,30–60 minutes,Visual,Yes,Occasionally,Limited budget,Commerce,Matric
+50–60%,Strong,Average,Strong,Creative work,Sometimes,Ask for help,>1 hour,Reading,No,Regularly,Prefer government system,Arts,Matric
+Above 75%,Average,Average,Weak,Technology,Rarely,Keep trying,30–60 minutes,Reading,Yes,Regularly,Limited budget,Commerce,Matric
+61–75%,Strong,Strong,Weak,Technology,Rarely,Avoid it,>1 hour,Visual,No,Rarely,Limited budget,Science,Matric
+Below 50%,Strong,Weak,Average,Logical games,Rarely,Ask for help,30–60 minutes,Reading,No,Occasionally,Can afford tuition,Science,Matric
+Below 50%,Strong,Average,Strong,Technology,Almost always,Keep trying,>1 hour,Visual,Somewhat,Occasionally,Limited budget,Science,Matric
+50–60%,Strong,Average,Strong,Reading/writing,Rarely,Avoid it,30–60 minutes,Hands-on,Yes,Occasionally,Limited budget,Commerce,Matric
+Below 50%,Strong,Weak,Strong,Reading/writing,Almost always,Keep trying,30–60 minutes,Visual,Somewhat,Occasionally,Can afford tuition,Commerce,Matric
+50–60%,Strong,Average,Average,Technology,Rarely,Avoid it,30–60 minutes,Reading,Yes,Occasionally,Limited budget,Science,Matric
+Below 50%,Average,Average,Weak,Technology,Sometimes,Avoid it,>1 hour,Hands-on,Somewhat,Rarely,Limited budget,Science,Matric
+Above 75%,Average,Strong,Strong,Technology,Rarely,Avoid it,30–60 minutes,Hands-on,No,Occasionally,Prefer government system,Science,Matric
+Below 50%,Weak,Average,Weak,Leadership activities,Rarely,Keep trying,>1 hour,Hands-on,Yes,Rarely,Can afford tuition,Commerce,O-Level
+Below 50%,Average,Weak,Average,Reading/writing,Sometimes,Keep trying,>1 hour,Visual,Somewhat,Occasionally,Limited budget,Commerce,Matric
+61–75%,Weak,Weak,Strong,Logical games,Rarely,Keep trying,>1 hour,Reading,Yes,Regularly,Limited budget,Commerce,Matric
+Above 75%,Strong,Strong,Strong,Leadership activities,Rarely,Avoid it,30–60 minutes,Reading,Yes,Rarely,Prefer government system,Science,Matric
+Below 50%,Weak,Average,Weak,Technology,Sometimes,Ask for help,>1 hour,Reading,Yes,Regularly,Can afford tuition,Commerce,O-Level
+Below 50%,Average,Weak,Average,Technology,Rarely,Keep trying,30–60 minutes,Reading,Somewhat,Occasionally,Can afford tuition,Science,Matric
+Above 75%,Average,Strong,Weak,Technology,Rarely,Avoid it,30–60 minutes,Reading,Somewhat,Occasionally,Can afford tuition,Commerce,Matric
+Above 75%,Weak,Average,Average,Creative work,Sometimes,Keep trying,>1 hour,Hands-on,Yes,Occasionally,Limited budget,Arts,Matric
+61–75%,Average,Strong,Weak,Creative work,Rarely,Keep trying,>1 hour,Hands-on,Yes,Rarely,Limited budget,Arts,Matric
+61–75%,Strong,Weak,Strong,Reading/writing,Sometimes,Avoid it,<30 minutes,Hands-on,Yes,Occasionally,Limited budget,Commerce,Matric
+61–75%,Weak,Strong,Weak,Logical games,Rarely,Ask for help,<30 minutes,Hands-on,Somewhat,Occasionally,Prefer government system,Arts,Matric
+61–75%,Strong,Strong,Strong,Reading/writing,Rarely,Ask for help,<30 minutes,Visual,Somewhat,Regularly,Prefer government system,Science,Matric
+Above 75%,Average,Average,Average,Logical games,Sometimes,Avoid it,30–60 minutes,Reading,Yes,Rarely,Limited budget,Commerce,Matric
+50–60%,Strong,Strong,Weak,Logical games,Sometimes,Ask for help,>1 hour,Reading,Somewhat,Rarely,Limited budget,Science,Matric
+Above 75%,Strong,Weak,Strong,Logical games,Rarely,Ask for help,<30 minutes,Visual,Somewhat,Regularly,Limited budget,Science,Matric
+Above 75%,Average,Weak,Average,Reading/writing,Sometimes,Keep trying,>1 hour,Visual,Yes,Regularly,Prefer government system,Commerce,Matric
+61–75%,Strong,Average,Strong,Logical games,Sometimes,Keep trying,<30 minutes,Reading,No,Regularly,Can afford tuition,Commerce,Matric
+Above 75%,Weak,Strong,Average,Creative work,Sometimes,Ask for help,>1 hour,Hands-on,Yes,Rarely,Limited budget,Arts,Matric
+50–60%,Weak,Average,Average,Creative work,Almost always,Keep trying,>1 hour,Hands-on,Yes,Occasionally,Can afford tuition,Arts,O-Level
+61–75%,Strong,Weak,Average,Logical games,Rarely,Ask for help,30–60 minutes,Hands-on,No,Occasionally,Limited budget,Arts,Matric
+Below 50%,Strong,Strong,Weak,Technology,Almost always,Ask for help,>1 hour,Visual,Yes,Rarely,Limited budget,Science,Matric
+50–60%,Average,Average,Average,Technology,Almost always,Ask for help,<30 minutes,Hands-on,Yes,Rarely,Limited budget,Science,Matric
+Below 50%,Weak,Average,Average,Technology,Almost always,Keep trying,>1 hour,Hands-on,No,Regularly,Limited budget,Arts,Matric
+Above 75%,Average,Strong,Average,Logical games,Sometimes,Keep trying,>1 hour,Hands-on,Yes,Occasionally,Prefer government system,Commerce,Matric
+Above 75%,Average,Average,Weak,Creative work,Almost always,Ask for help,30–60 minutes,Visual,Somewhat,Occasionally,Prefer government system,Arts,Matric
+61–75%,Strong,Strong,Average,Reading/writing,Almost always,Avoid it,<30 minutes,Visual,Somewhat,Regularly,Can afford tuition,Science,Matric
+Below 50%,Weak,Weak,Strong,Technology,Almost always,Ask for help,<30 minutes,Hands-on,Yes,Rarely,Can afford tuition,Science,O-Level
+50–60%,Average,Average,Strong,Technology,Rarely,Ask for help,<30 minutes,Visual,Yes,Rarely,Can afford tuition,Arts,O-Level
+Below 50%,Average,Weak,Average,Creative work,Almost always,Ask for help,<30 minutes,Visual,Somewhat,Regularly,Prefer government system,Arts,Matric
+61–75%,Strong,Average,Strong,Reading/writing,Almost always,Keep trying,30–60 minutes,Reading,No,Rarely,Can afford tuition,Commerce,Matric
+Below 50%,Average,Strong,Average,Logical games,Rarely,Keep trying,<30 minutes,Visual,No,Regularly,Prefer government system,Arts,Matric
+Above 75%,Weak,Strong,Weak,Creative work,Rarely,Ask for help,30–60 minutes,Hands-on,No,Occasionally,Prefer government system,Arts,Matric
+50–60%,Strong,Average,Weak,Leadership activities,Almost always,Ask for help,>1 hour,Visual,Somewhat,Regularly,Can afford tuition,Commerce,Matric
+61–75%,Average,Weak,Average,Logical games,Almost always,Avoid it,>1 hour,Reading,No,Rarely,Can afford tuition,Arts,Matric
+Below 50%,Weak,Average,Weak,Logical games,Almost always,Avoid it,30–60 minutes,Hands-on,Somewhat,Rarely,Limited budget,Science,Matric
+50–60%,Average,Strong,Weak,Technology,Rarely,Avoid it,30–60 minutes,Reading,Yes,Regularly,Can afford tuition,Science,O-Level
+Below 50%,Weak,Weak,Strong,Reading/writing,Sometimes,Ask for help,<30 minutes,Reading,No,Regularly,Prefer government system,Commerce,Matric
+Above 75%,Average,Weak,Strong,Logical games,Rarely,Ask for help,<30 minutes,Hands-on,Yes,Rarely,Limited budget,Science,Matric
+61–75%,Average,Average,Weak,Logical games,Almost always,Avoid it,>1 hour,Visual,Yes,Occasionally,Can afford tuition,Science,O-Level
+Below 50%,Strong,Strong,Weak,Logical games,Sometimes,Ask for help,>1 hour,Visual,No,Occasionally,Limited budget,Science,Matric
+Above 75%,Average,Average,Weak,Reading/writing,Rarely,Keep trying,<30 minutes,Reading,Yes,Regularly,Prefer government system,Commerce,Matric
+Above 75%,Weak,Strong,Strong,Technology,Almost always,Keep trying,>1 hour,Reading,Somewhat,Rarely,Can afford tuition,Arts,Matric
+Below 50%,Average,Weak,Strong,Logical games,Sometimes,Keep trying,30–60 minutes,Visual,No,Rarely,Can afford tuition,Science,Matric
+Below 50%,Average,Strong,Weak,Logical games,Rarely,Avoid it,>1 hour,Visual,Somewhat,Regularly,Limited budget,Arts,Matric
+50–60%,Average,Strong,Average,Logical games,Rarely,Keep trying,30–60 minutes,Visual,Somewhat,Regularly,Limited budget,Arts,Matric
+61–75%,Strong,Average,Average,Leadership activities,Rarely,Keep trying,<30 minutes,Visual,Yes,Regularly,Can afford tuition,Commerce,O-Level
+Above 75%,Strong,Average,Strong,Creative work,Rarely,Keep trying,>1 hour,Hands-on,No,Regularly,Can afford tuition,Arts,Matric
+Below 50%,Strong,Average,Weak,Creative work,Sometimes,Ask for help,>1 hour,Hands-on,No,Occasionally,Prefer government system,Arts,Matric
+Below 50%,Average,Strong,Average,Leadership activities,Rarely,Avoid it,<30 minutes,Hands-on,Somewhat,Regularly,Can afford tuition,Commerce,Matric
+Below 50%,Average,Weak,Strong,Creative work,Almost always,Keep trying,30–60 minutes,Visual,Yes,Rarely,Can afford tuition,Arts,O-Level
+50–60%,Average,Weak,Weak,Logical games,Almost always,Avoid it,30–60 minutes,Visual,Yes,Rarely,Limited budget,Arts,Matric
+50–60%,Weak,Weak,Average,Creative work,Almost always,Ask for help,<30 minutes,Visual,Somewhat,Regularly,Limited budget,Arts,Matric
+Above 75%,Weak,Weak,Strong,Reading/writing,Rarely,Ask for help,<30 minutes,Reading,Yes,Rarely,Limited budget,Commerce,Matric
+61–75%,Weak,Average,Weak,Creative work,Almost always,Keep trying,<30 minutes,Hands-on,No,Occasionally,Can afford tuition,Arts,Matric
+61–75%,Weak,Weak,Weak,Leadership activities,Almost always,Keep trying,<30 minutes,Hands-on,No,Regularly,Prefer government system,Commerce,Matric
+61–75%,Average,Weak,Weak,Reading/writing,Almost always,Avoid it,>1 hour,Reading,Yes,Occasionally,Limited budget,Commerce,Matric
+Above 75%,Weak,Strong,Weak,Logical games,Almost always,Avoid it,>1 hour,Hands-on,No,Occasionally,Can afford tuition,Arts,Matric
+Below 50%,Weak,Average,Average,Creative work,Almost always,Keep trying,<30 minutes,Hands-on,Yes,Regularly,Can afford tuition,Arts,O-Level
+61–75%,Average,Strong,Average,Creative work,Sometimes,Keep trying,<30 minutes,Visual,No,Regularly,Can afford tuition,Arts,Matric
+61–75%,Average,Strong,Strong,Technology,Rarely,Avoid it,>1 hour,Reading,No,Regularly,Can afford tuition,Science,Matric
+Above 75%,Strong,Strong,Weak,Technology,Sometimes,Keep trying,<30 minutes,Reading,Somewhat,Regularly,Limited budget,Science,Matric
+Below 50%,Average,Average,Weak,Leadership activities,Sometimes,Avoid it,<30 minutes,Visual,Somewhat,Occasionally,Limited budget,Commerce,Matric
+50–60%,Strong,Strong,Strong,Logical games,Rarely,Ask for help,>1 hour,Visual,No,Regularly,Prefer government system,Science,Matric
+61–75%,Strong,Average,Strong,Reading/writing,Rarely,Ask for help,>1 hour,Hands-on,No,Occasionally,Prefer government system,Commerce,Matric
+Above 75%,Average,Weak,Weak,Creative work,Rarely,Avoid it,30–60 minutes,Visual,No,Occasionally,Can afford tuition,Arts,Matric
+50–60%,Strong,Average,Weak,Leadership activities,Sometimes,Keep trying,>1 hour,Visual,Yes,Occasionally,Prefer government system,Commerce,Matric
+50–60%,Average,Weak,Average,Technology,Almost always,Avoid it,<30 minutes,Reading,No,Rarely,Prefer government system,Science,Matric
+Above 75%,Average,Strong,Weak,Leadership activities,Sometimes,Avoid it,30–60 minutes,Reading,Yes,Regularly,Prefer government system,Commerce,Matric
+Below 50%,Strong,Weak,Average,Creative work,Almost always,Ask for help,<30 minutes,Hands-on,No,Occasionally,Prefer government system,Arts,Matric
+Below 50%,Weak,Strong,Weak,Logical games,Rarely,Keep trying,30–60 minutes,Reading,Somewhat,Regularly,Can afford tuition,Arts,Matric
+50–60%,Weak,Weak,Average,Technology,Sometimes,Ask for help,30–60 minutes,Hands-on,Yes,Occasionally,Prefer government system,Science,Matric
+Above 75%,Weak,Strong,Average,Leadership activities,Rarely,Keep trying,30–60 minutes,Reading,No,Regularly,Prefer government system,Commerce,Matric
+Below 50%,Strong,Average,Strong,Technology,Almost always,Ask for help,>1 hour,Visual,Yes,Regularly,Prefer government system,Arts,Matric
+50–60%,Average,Weak,Weak,Technology,Sometimes,Ask for help,>1 hour,Reading,No,Occasionally,Limited budget,Arts,Matric
+Above 75%,Average,Strong,Average,Logical games,Almost always,Keep trying,<30 minutes,Reading,No,Regularly,Can afford tuition,Arts,Matric
+Above 75%,Weak,Average,Weak,Creative work,Rarely,Avoid it,>1 hour,Visual,Somewhat,Regularly,Prefer government system,Arts,Matric
+50–60%,Strong,Weak,Average,Leadership activities,Rarely,Avoid it,>1 hour,Reading,Somewhat,Regularly,Prefer government system,Commerce,Matric
+Below 50%,Strong,Strong,Average,Reading/writing,Almost always,Keep trying,30–60 minutes,Visual,Yes,Rarely,Can afford tuition,Science,O-Level
+50–60%,Weak,Average,Strong,Leadership activities,Sometimes,Keep trying,>1 hour,Reading,Somewhat,Rarely,Can afford tuition,Commerce,Matric
+Below 50%,Average,Strong,Strong,Creative work,Sometimes,Avoid it,>1 hour,Hands-on,Somewhat,Regularly,Limited budget,Arts,Matric
+Below 50%,Strong,Strong,Weak,Reading/writing,Rarely,Ask for help,30–60 minutes,Reading,Somewhat,Rarely,Can afford tuition,Science,Matric
+Below 50%,Strong,Strong,Weak,Logical games,Sometimes,Avoid it,>1 hour,Visual,No,Rarely,Limited budget,Science,Matric
+61–75%,Strong,Average,Weak,Logical games,Almost always,Keep trying,>1 hour,Hands-on,No,Rarely,Limited budget,Science,Matric
+61–75%,Average,Weak,Weak,Creative work,Sometimes,Ask for help,<30 minutes,Visual,Yes,Rarely,Prefer government system,Arts,Matric
+61–75%,Strong,Strong,Average,Logical games,Rarely,Keep trying,30–60 minutes,Reading,No,Rarely,Prefer government system,Science,Matric
+50–60%,Weak,Weak,Strong,Technology,Sometimes,Keep trying,>1 hour,Visual,Somewhat,Rarely,Limited budget,Commerce,Matric
+50–60%,Strong,Weak,Weak,Logical games,Almost always,Keep trying,<30 minutes,Reading,Yes,Rarely,Prefer government system,Arts,Matric
+Above 75%,Strong,Average,Weak,Creative work,Almost always,Avoid it,<30 minutes,Visual,Yes,Regularly,Limited budget,Arts,Matric
+Above 75%,Weak,Strong,Average,Creative work,Rarely,Keep trying,>1 hour,Reading,Somewhat,Rarely,Can afford tuition,Arts,Matric
+Above 75%,Strong,Strong,Strong,Reading/writing,Almost always,Avoid it,>1 hour,Hands-on,Yes,Occasionally,Limited budget,Science,Matric
+50–60%,Average,Average,Strong,Logical games,Almost always,Ask for help,30–60 minutes,Reading,No,Occasionally,Prefer government system,Science,Matric
+Below 50%,Average,Average,Strong,Leadership activities,Almost always,Avoid it,>1 hour,Visual,No,Regularly,Limited budget,Commerce,Matric
+Above 75%,Strong,Weak,Average,Logical games,Sometimes,Ask for help,<30 minutes,Hands-on,Somewhat,Occasionally,Prefer government system,Commerce,Matric
+Above 75%,Average,Weak,Weak,Logical games,Almost always,Ask for help,<30 minutes,Visual,Yes,Occasionally,Prefer government system,Commerce,Matric
+Above 75%,Average,Average,Weak,Technology,Sometimes,Avoid it,<30 minutes,Reading,No,Occasionally,Can afford tuition,Arts,Matric
+50–60%,Strong,Average,Strong,Leadership activities,Rarely,Avoid it,30–60 minutes,Reading,Yes,Regularly,Limited budget,Commerce,Matric
+61–75%,Strong,Weak,Strong,Leadership activities,Rarely,Keep trying,<30 minutes,Visual,Yes,Regularly,Limited budget,Commerce,Matric
+61–75%,Average,Weak,Average,Logical games,Sometimes,Ask for help,30–60 minutes,Hands-on,Somewhat,Rarely,Limited budget,Commerce,Matric
+Below 50%,Strong,Strong,Strong,Technology,Almost always,Keep trying,<30 minutes,Hands-on,No,Occasionally,Limited budget,Science,Matric
+Above 75%,Average,Strong,Strong,Creative work,Rarely,Ask for help,30–60 minutes,Reading,Yes,Occasionally,Can afford tuition,Arts,O-Level
+61–75%,Weak,Strong,Average,Creative work,Almost always,Avoid it,<30 minutes,Hands-on,No,Regularly,Limited budget,Arts,Matric
+Above 75%,Average,Strong,Average,Leadership activities,Almost always,Keep trying,30–60 minutes,Reading,Somewhat,Regularly,Can afford tuition,Commerce,Matric
+61–75%,Strong,Average,Strong,Logical games,Almost always,Keep trying,<30 minutes,Reading,Yes,Regularly,Prefer government system,Arts,Matric
+50–60%,Average,Weak,Average,Technology,Sometimes,Ask for help,<30 minutes,Visual,Somewhat,Occasionally,Limited budget,Commerce,Matric
+Below 50%,Strong,Average,Strong,Creative work,Sometimes,Ask for help,<30 minutes,Visual,Somewhat,Regularly,Prefer government system,Arts,Matric
+61–75%,Weak,Strong,Weak,Creative work,Almost always,Keep trying,30–60 minutes,Reading,Yes,Rarely,Can afford tuition,Arts,O-Level
+50–60%,Average,Strong,Average,Reading/writing,Rarely,Keep trying,<30 minutes,Hands-on,Yes,Occasionally,Prefer government system,Commerce,Matric
+Above 75%,Average,Average,Weak,Leadership activities,Rarely,Avoid it,30–60 minutes,Visual,No,Occasionally,Can afford tuition,Commerce,Matric
+Below 50%,Weak,Strong,Weak,Leadership activities,Almost always,Avoid it,<30 minutes,Hands-on,No,Regularly,Can afford tuition,Commerce,Matric
+Below 50%,Weak,Weak,Weak,Technology,Rarely,Avoid it,30–60 minutes,Visual,Yes,Regularly,Limited budget,Arts,Matric
+Above 75%,Average,Weak,Weak,Creative work,Rarely,Ask for help,30–60 minutes,Visual,Yes,Occasionally,Limited budget,Arts,Matric
+Above 75%,Strong,Average,Average,Technology,Almost always,Keep trying,<30 minutes,Visual,No,Regularly,Prefer government system,Science,Matric
+Below 50%,Average,Average,Strong,Leadership activities,Almost always,Avoid it,30–60 minutes,Hands-on,Yes,Regularly,Can afford tuition,Commerce,O-Level
+Above 75%,Strong,Weak,Weak,Reading/writing,Almost always,Avoid it,30–60 minutes,Hands-on,No,Regularly,Limited budget,Commerce,Matric
+50–60%,Average,Weak,Weak,Technology,Sometimes,Avoid it,<30 minutes,Hands-on,Yes,Rarely,Can afford tuition,Commerce,O-Level
+Below 50%,Weak,Strong,Weak,Reading/writing,Rarely,Keep trying,30–60 minutes,Hands-on,Yes,Regularly,Can afford tuition,Commerce,O-Level
+Above 75%,Average,Weak,Average,Logical games,Sometimes,Keep trying,>1 hour,Reading,Somewhat,Rarely,Prefer government system,Arts,Matric
+Below 50%,Average,Average,Strong,Leadership activities,Rarely,Keep trying,<30 minutes,Reading,No,Rarely,Limited budget,Commerce,Matric
+50–60%,Weak,Weak,Strong,Technology,Almost always,Avoid it,<30 minutes,Visual,No,Regularly,Can afford tuition,Science,Matric
+61–75%,Strong,Strong,Strong,Leadership activities,Almost always,Avoid it,>1 hour,Visual,No,Regularly,Can afford tuition,Science,Matric
+Above 75%,Weak,Weak,Weak,Creative work,Rarely,Keep trying,>1 hour,Hands-on,Somewhat,Occasionally,Can afford tuition,Arts,Matric
+61–75%,Strong,Strong,Strong,Technology,Rarely,Avoid it,<30 minutes,Reading,Yes,Rarely,Limited budget,Science,Matric
+61–75%,Weak,Average,Weak,Technology,Sometimes,Keep trying,30–60 minutes,Visual,No,Occasionally,Prefer government system,Arts,Matric
+50–60%,Strong,Strong,Weak,Leadership activities,Rarely,Ask for help,>1 hour,Hands-on,Somewhat,Rarely,Limited budget,Science,Matric
+Above 75%,Weak,Strong,Weak,Leadership activities,Rarely,Ask for help,>1 hour,Visual,No,Regularly,Limited budget,Commerce,Matric
+61–75%,Strong,Average,Strong,Leadership activities,Rarely,Keep trying,<30 minutes,Hands-on,Yes,Rarely,Prefer government system,Commerce,Matric
+61–75%,Average,Weak,Weak,Reading/writing,Rarely,Keep trying,<30 minutes,Hands-on,Somewhat,Regularly,Prefer government system,Commerce,Matric
+61–75%,Weak,Average,Weak,Creative work,Almost always,Keep trying,<30 minutes,Visual,Yes,Occasionally,Limited budget,Arts,Matric
+Above 75%,Strong,Strong,Weak,Logical games,Rarely,Avoid it,30–60 minutes,Visual,No,Rarely,Limited budget,Science,Matric
+50–60%,Average,Weak,Strong,Logical games,Almost always,Avoid it,>1 hour,Reading,Somewhat,Rarely,Limited budget,Commerce,Matric
+Above 75%,Strong,Strong,Strong,Logical games,Almost always,Ask for help,30–60 minutes,Visual,Yes,Regularly,Limited budget,Science,Matric
+Above 75%,Strong,Strong,Weak,Creative work,Sometimes,Avoid it,30–60 minutes,Visual,No,Occasionally,Prefer government system,Science,Matric
+Above 75%,Strong,Weak,Average,Reading/writing,Rarely,Ask for help,>1 hour,Reading,Somewhat,Occasionally,Can afford tuition,Commerce,Matric
+50–60%,Strong,Strong,Average,Creative work,Sometimes,Keep trying,<30 minutes,Reading,No,Occasionally,Prefer government system,Science,Matric
+50–60%,Strong,Average,Weak,Technology,Rarely,Keep trying,>1 hour,Hands-on,No,Occasionally,Prefer government system,Science,Matric
+61–75%,Weak,Weak,Weak,Reading/writing,Sometimes,Keep trying,30–60 minutes,Hands-on,Somewhat,Rarely,Prefer government system,Commerce,Matric
+61–75%,Weak,Average,Strong,Logical games,Sometimes,Avoid it,<30 minutes,Hands-on,Somewhat,Regularly,Limited budget,Commerce,Matric
+Above 75%,Average,Average,Strong,Reading/writing,Almost always,Avoid it,<30 minutes,Reading,Yes,Regularly,Can afford tuition,Commerce,O-Level
+Above 75%,Average,Average,Average,Reading/writing,Rarely,Keep trying,30–60 minutes,Reading,No,Occasionally,Can afford tuition,Commerce,Matric
+61–75%,Average,Average,Average,Reading/writing,Sometimes,Avoid it,>1 hour,Visual,No,Rarely,Prefer government system,Commerce,Matric
+50–60%,Average,Strong,Average,Reading/writing,Rarely,Keep trying,30–60 minutes,Reading,Yes,Regularly,Prefer government system,Commerce,Matric
+Above 75%,Weak,Average,Weak,Leadership activities,Rarely,Ask for help,>1 hour,Visual,Somewhat,Rarely,Can afford tuition,Commerce,Matric
+50–60%,Strong,Weak,Average,Logical games,Sometimes,Avoid it,<30 minutes,Visual,Yes,Occasionally,Can afford tuition,Arts,O-Level
+Above 75%,Average,Average,Strong,Logical games,Rarely,Keep trying,>1 hour,Reading,Yes,Occasionally,Limited budget,Commerce,Matric
+50–60%,Weak,Strong,Weak,Leadership activities,Almost always,Ask for help,30–60 minutes,Hands-on,Somewhat,Rarely,Prefer government system,Commerce,Matric
+61–75%,Average,Strong,Average,Technology,Sometimes,Avoid it,>1 hour,Hands-on,Yes,Occasionally,Prefer government system,Science,Matric
+Above 75%,Strong,Average,Average,Technology,Almost always,Avoid it,<30 minutes,Reading,Yes,Rarely,Prefer government system,Science,Matric
+50–60%,Weak,Average,Average,Leadership activities,Almost always,Ask for help,>1 hour,Visual,Yes,Rarely,Limited budget,Commerce,Matric
+Below 50%,Average,Strong,Average,Logical games,Almost always,Avoid it,>1 hour,Hands-on,Somewhat,Occasionally,Can afford tuition,Arts,Matric
+61–75%,Strong,Average,Strong,Creative work,Rarely,Keep trying,30–60 minutes,Hands-on,Somewhat,Occasionally,Can afford tuition,Arts,Matric
+Below 50%,Weak,Weak,Average,Reading/writing,Rarely,Keep trying,>1 hour,Hands-on,Yes,Rarely,Prefer government system,Commerce,Matric
+Below 50%,Weak,Strong,Weak,Reading/writing,Rarely,Keep trying,30–60 minutes,Reading,No,Occasionally,Limited budget,Commerce,Matric
+50–60%,Strong,Average,Average,Creative work,Sometimes,Avoid it,>1 hour,Reading,Yes,Occasionally,Limited budget,Arts,Matric
+Below 50%,Average,Weak,Weak,Technology,Rarely,Ask for help,>1 hour,Visual,Yes,Regularly,Limited budget,Commerce,Matric
+Above 75%,Strong,Strong,Weak,Leadership activities,Almost always,Ask for help,<30 minutes,Hands-on,Somewhat,Occasionally,Can afford tuition,Science,Matric
+Above 75%,Weak,Average,Weak,Creative work,Sometimes,Ask for help,<30 minutes,Visual,Somewhat,Regularly,Limited budget,Arts,Matric
+61–75%,Strong,Average,Strong,Creative work,Sometimes,Avoid it,30–60 minutes,Hands-on,Somewhat,Occasionally,Can afford tuition,Arts,Matric
+50–60%,Strong,Average,Strong,Creative work,Almost always,Avoid it,>1 hour,Visual,Yes,Rarely,Can afford tuition,Arts,O-Level
+Below 50%,Average,Weak,Weak,Technology,Almost always,Avoid it,>1 hour,Reading,No,Occasionally,Prefer government system,Arts,Matric
+50–60%,Strong,Weak,Strong,Leadership activities,Rarely,Avoid it,>1 hour,Visual,Yes,Regularly,Prefer government system,Commerce,Matric
+50–60%,Weak,Average,Weak,Reading/writing,Rarely,Keep trying,30–60 minutes,Reading,No,Rarely,Prefer government system,Commerce,Matric
+50–60%,Average,Strong,Weak,Creative work,Almost always,Keep trying,>1 hour,Reading,No,Occasionally,Prefer government system,Arts,Matric
+Below 50%,Weak,Strong,Strong,Leadership activities,Rarely,Keep trying,>1 hour,Hands-on,No,Rarely,Limited budget,Commerce,Matric
+Above 75%,Strong,Strong,Strong,Logical games,Rarely,Ask for help,<30 minutes,Reading,No,Regularly,Prefer government system,Science,Matric
+61–75%,Average,Weak,Average,Reading/writing,Sometimes,Keep trying,<30 minutes,Reading,Somewhat,Rarely,Can afford tuition,Commerce,Matric
+61–75%,Weak,Strong,Weak,Technology,Rarely,Keep trying,>1 hour,Visual,Yes,Rarely,Can afford tuition,Commerce,O-Level
+Above 75%,Strong,Average,Strong,Logical games,Almost always,Keep trying,<30 minutes,Hands-on,Yes,Occasionally,Prefer government system,Commerce,Matric
+Below 50%,Average,Average,Strong,Leadership activities,Sometimes,Keep trying,>1 hour,Hands-on,No,Regularly,Can afford tuition,Commerce,Matric
+61–75%,Average,Average,Strong,Creative work,Sometimes,Keep trying,30–60 minutes,Reading,Somewhat,Regularly,Prefer government system,Arts,Matric
+Below 50%,Average,Average,Strong,Logical games,Rarely,Keep trying,<30 minutes,Hands-on,Somewhat,Occasionally,Prefer government system,Arts,Matric
+50–60%,Weak,Strong,Weak,Reading/writing,Almost always,Avoid it,<30 minutes,Visual,No,Occasionally,Can afford tuition,Commerce,Matric
+Above 75%,Strong,Weak,Strong,Reading/writing,Sometimes,Avoid it,30–60 minutes,Visual,No,Occasionally,Prefer government system,Commerce,Matric
+50–60%,Average,Weak,Weak,Technology,Almost always,Keep trying,30–60 minutes,Hands-on,No,Rarely,Limited budget,Arts,Matric
+61–75%,Strong,Strong,Average,Technology,Rarely,Keep trying,<30 minutes,Visual,Yes,Rarely,Can afford tuition,Science,O-Level
+61–75%,Weak,Average,Strong,Creative work,Sometimes,Avoid it,>1 hour,Reading,Somewhat,Regularly,Prefer government system,Arts,Matric
+Above 75%,Strong,Strong,Strong,Reading/writing,Sometimes,Ask for help,>1 hour,Visual,No,Occasionally,Limited budget,Science,Matric
+50–60%,Weak,Average,Strong,Reading/writing,Almost always,Avoid it,<30 minutes,Reading,Yes,Regularly,Can afford tuition,Commerce,O-Level
+61–75%,Weak,Average,Strong,Technology,Rarely,Ask for help,<30 minutes,Hands-on,Somewhat,Occasionally,Prefer government system,Arts,Matric
+61–75%,Average,Average,Strong,Technology,Sometimes,Ask for help,>1 hour,Reading,No,Regularly,Can afford tuition,Arts,Matric
+50–60%,Strong,Weak,Weak,Leadership activities,Sometimes,Keep trying,>1 hour,Hands-on,Somewhat,Occasionally,Can afford tuition,Commerce,Matric
+Below 50%,Weak,Weak,Strong,Technology,Almost always,Ask for help,>1 hour,Hands-on,No,Rarely,Can afford tuition,Commerce,Matric
+Above 75%,Strong,Average,Average,Logical games,Sometimes,Ask for help,>1 hour,Hands-on,Yes,Rarely,Prefer government system,Science,Matric
