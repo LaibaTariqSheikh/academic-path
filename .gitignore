@@ -15,7 +15,7 @@ __pycache__/
 *.pyc
 
 # ML models
-*.pkl
+!ml-service/*.pkl
 
 # logs
 npm-debug.log*
