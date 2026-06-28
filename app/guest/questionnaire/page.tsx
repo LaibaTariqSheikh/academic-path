@@ -1,7 +1,7 @@
 "use client";
 
 import { useSearchParams, useRouter } from "next/navigation";
-import { useState } from "react";
+import { Suspense, useState } from "react";
 import { useToast } from "@/components/ui/toast-provider";
 import { apiUrl } from "@/lib/api";
 
@@ -59,7 +59,7 @@ const pakistanCities = [
   "Quetta",
 ];
 
-export default function GuestQuestionnairePage() {
+function GuestQuestionnaireContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const { showToast } = useToast();
@@ -703,5 +703,12 @@ function SelectBox({
         ))}
       </select>
     </div>
+  );
+}
+export default function GuestQuestionnairePage() {
+  return (
+    <Suspense fallback={<div className="p-10 text-center">Loading questionnaire...</div>}>
+      <GuestQuestionnaireContent />
+    </Suspense>
   );
 }
