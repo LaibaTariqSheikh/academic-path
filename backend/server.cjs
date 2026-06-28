@@ -5,6 +5,7 @@ const cors = require("cors");
 
 const app = express();
 
+// Middleware
 app.use(
   cors({
     origin: [
@@ -19,10 +20,12 @@ app.use(
 
 app.use(express.json());
 
+// Test Route
 app.get("/", (req, res) => {
   res.status(200).send("Backend running 🚀");
 });
 
+// Routes
 const authRoutes = require("./routes/auth.cjs");
 const questionnaireRoutes = require("./routes/questionnaire.cjs");
 const guideRoutes = require("./routes/guide.cjs");
@@ -35,13 +38,15 @@ app.use("/api/guide", guideRoutes);
 app.use("/api/admin", adminRoutes);
 app.use("/api/notifications", notificationRoutes);
 
+// Error Handler
 app.use((err, req, res, next) => {
   console.error("Unhandled server error:", err);
   res.status(500).json({ error: "Internal server error" });
 });
 
+// Start Server
 const PORT = process.env.PORT || 5001;
 
-app.listen(PORT, "127.0.0.1", () => {
-  console.log(`Server running on http://127.0.0.1:${PORT}`);
+app.listen(PORT, "0.0.0.0", () => {
+  console.log(`🚀 Backend running on port ${PORT}`);
 });
