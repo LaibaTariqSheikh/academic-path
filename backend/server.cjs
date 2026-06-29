@@ -48,6 +48,25 @@ app.use("/api/guide", guideRoutes);
 app.use("/api/admin", adminRoutes);
 app.use("/api/notifications", notificationRoutes);
 
+const db = require("./config/db.cjs");
+
+app.get("/db-test", async (req, res) => {
+  try {
+    const [dbRows] = await db.promise().query("SELECT DATABASE() AS db");
+    const [tables] = await db.promise().query(
+      "SHOW TABLES LIKE 'questionnaire1_responses'"
+    );
+
+    res.json({
+      database: dbRows[0].db,
+      tableExists: tables.length > 0,
+      tables,
+    });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 app.use((req, res) => {
   res.status(404).json({
     error: "Route not found",
