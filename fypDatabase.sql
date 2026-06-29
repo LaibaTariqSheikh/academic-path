@@ -1,5 +1,4 @@
-CREATE DATABASE ai_academic_path;
-USE ai_academic_path;
+
 
 CREATE TABLE users (
   id INT AUTO_INCREMENT PRIMARY KEY,

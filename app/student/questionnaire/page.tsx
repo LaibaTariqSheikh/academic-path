@@ -215,7 +215,7 @@ export default function QuestionnairePage() {
                 <select name="interest_type" value={formData.interest_type} onChange={handleChange} className="w-full rounded-lg border border-gray-300 px-4 py-3" required>
                   <option value="">Select</option>
                   <option value="Logical games">Logical games</option>
-                  <option value="Technology use">Technology use</option>
+                  <option value="Technology">Technology use</option>
                   <option value="Reading/writing">Reading/writing</option>
                   <option value="Creative work">Creative work</option>
                   <option value="Leadership activities">Leadership activities</option>
