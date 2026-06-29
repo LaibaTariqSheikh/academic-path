@@ -43,6 +43,19 @@ function cleanBaseField(field) {
   return field.trim();
 }
 
+function parseJsonArray(value) {
+  if (!value) return [];
+
+  if (Array.isArray(value)) return value;
+
+  try {
+    const parsed = JSON.parse(value);
+    return Array.isArray(parsed) ? parsed : [String(parsed)];
+  } catch {
+    return [String(value)];
+  }
+}
+
 function chooseGrade8System(data) {
   const englishComfort = data.english_comfort;
   const financialStatus = data.financial_status;
@@ -414,9 +427,9 @@ router.get(
     res.json({
       id: item.id,
       field: item.field,
-      skills: item.skills ? JSON.parse(item.skills) : [],
-      cityInstitutes: item.city_institutes ? JSON.parse(item.city_institutes) : [],
-      countryInstitutes: item.country_institutes ? JSON.parse(item.country_institutes) : [],
+      skills: parseJsonArray(item.skills),
+      cityInstitutes: parseJsonArray(item.city_institutes),
+      countryInstitutes: parseJsonArray(item.country_institutes),
       created_at: item.created_at,
     });
   } catch (error) {
