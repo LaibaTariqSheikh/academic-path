@@ -336,7 +336,7 @@ export default function Questionnaire2Page() {
                 <select name="career_clarity" value={formData.career_clarity} onChange={handleChange} className="w-full rounded-lg border border-gray-300 px-4 py-3" required>
                   <option value="">Select</option>
                   <option value="Clear">Clear</option>
-                  <option value="Somewhat clear">Somewhat clear</option>
+                  <option value="Somewhat">Somewhat clear</option>
                   <option value="Not clear">Not clear</option>
                 </select>
               </div>
