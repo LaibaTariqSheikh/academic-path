@@ -325,7 +325,7 @@ export default function StudentDashboardPage() {
                           </div>
 
                           <div className="flex flex-wrap gap-2">
-                            {item.skills.slice(0, 3).map((skill) => (
+                              {(Array.isArray(item.skills) ? item.skills : []).slice(0, 3).map((skill) => (
                               <span
                                 key={skill}
                                 className="rounded-full bg-neutral-200 px-3 py-1 text-xs text-neutral-800"
@@ -357,6 +357,18 @@ function RecommendationBlock({
   assignedGuide: AssignedGuide;
   showGuide: boolean;
 }) {
+  const skills = Array.isArray(recommendation.skills)
+    ? recommendation.skills
+    : [];
+
+  const cityInstitutes = Array.isArray(recommendation.cityInstitutes)
+    ? recommendation.cityInstitutes
+    : [];
+
+  const countryInstitutes = Array.isArray(recommendation.countryInstitutes)
+    ? recommendation.countryInstitutes
+    : [];
+
   return (
     <div className="space-y-8">
       <div className="rounded-xl border border-neutral-300 bg-neutral-50 p-5">
@@ -391,16 +403,21 @@ function RecommendationBlock({
         <h3 className="mb-3 text-xl font-semibold text-neutral-950">
           Suggested Skills
         </h3>
-        <div className="flex flex-wrap gap-3">
-          {recommendation.skills.map((skill, index) => (
-            <span
-              key={index}
-              className="rounded-full bg-neutral-200 px-4 py-2 text-sm text-neutral-900"
-            >
-              {skill}
-            </span>
-          ))}
-        </div>
+
+        {skills.length === 0 ? (
+          <p className="text-neutral-600">No skills available yet.</p>
+        ) : (
+          <div className="flex flex-wrap gap-3">
+            {skills.map((skill, index) => (
+              <span
+                key={index}
+                className="rounded-full bg-neutral-200 px-4 py-2 text-sm text-neutral-900"
+              >
+                {skill}
+              </span>
+            ))}
+          </div>
+        )}
       </div>
 
       <div className="grid gap-6 md:grid-cols-2">
@@ -409,14 +426,18 @@ function RecommendationBlock({
             Recommended Institutes in Your City
           </h3>
           <div className="space-y-3">
-            {recommendation.cityInstitutes.map((institute, index) => (
-              <div
-                key={index}
-                className="rounded-xl border border-neutral-300 bg-neutral-50 p-4 text-neutral-800"
-              >
-                {institute}
-              </div>
-            ))}
+            {cityInstitutes.length === 0 ? (
+              <p className="text-neutral-600">No city institutes available yet.</p>
+            ) : (
+              cityInstitutes.map((institute, index) => (
+                <div
+                  key={index}
+                  className="rounded-xl border border-neutral-300 bg-neutral-50 p-4 text-neutral-800"
+                >
+                  {institute}
+                </div>
+              ))
+            )}
           </div>
         </div>
 
@@ -425,14 +446,20 @@ function RecommendationBlock({
             Recommended Institutes in Pakistan
           </h3>
           <div className="space-y-3">
-            {recommendation.countryInstitutes.map((institute, index) => (
-              <div
-                key={index}
-                className="rounded-xl border border-neutral-300 bg-neutral-50 p-4 text-neutral-800"
-              >
-                {institute}
-              </div>
-            ))}
+            {countryInstitutes.length === 0 ? (
+              <p className="text-neutral-600">
+                No Pakistan institutes available yet.
+              </p>
+            ) : (
+              countryInstitutes.map((institute, index) => (
+                <div
+                  key={index}
+                  className="rounded-xl border border-neutral-300 bg-neutral-50 p-4 text-neutral-800"
+                >
+                  {institute}
+                </div>
+              ))
+            )}
           </div>
         </div>
       </div>
