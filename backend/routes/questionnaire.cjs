@@ -487,22 +487,7 @@ router.post("/q1", async (req, res) => {
 
     const insertedId = result.insertId;
 
-console.log("======================================");
-console.log("Calling ML Service");
-console.log("URL:", `${ML_SERVICE_URL}/predict1`);
-console.log("Payload:", data);
-
-const mlResponse = await axios.post(
-  `${ML_SERVICE_URL}/predict1`,
-  data,
-  {
-    timeout: 10000,
-  }
-);
-
-console.log("ML Response:", mlResponse.data);
-console.log("======================================");
-
+    const mlResponse = await axios.post(`${ML_SERVICE_URL}/predict1`, data);
     const predictedStream = mlResponse.data.prediction;
 
     const recommendedSystem = chooseGrade8System(data);
@@ -545,27 +530,17 @@ console.log("======================================");
     }
 
     res.json(buildRecommendationResponse(finalPrediction, "grade8", city));
-} catch (err) {
-  console.error("======================================");
-  console.error("Q1 BACKEND ERROR");
-  console.error("Message:", err.message);
-  console.error("Code:", err.code);
-
-  if (err.response) {
-    console.error("Status:", err.response.status);
-    console.error("Response:", err.response.data);
+  } catch (err) {
+    console.error("Q1 backend error:", err.response?.data || err.message || err);
+    return res.status(500).json({
+      error:
+        err.response?.data?.detail ||
+        err.response?.data?.error ||
+        err.message ||
+        "Server error in Q1",
+    });
   }
-
-  console.error("======================================");
-
-  return res.status(500).json({
-    error:
-      err.response?.data?.detail ||
-      err.response?.data?.error ||
-      err.message ||
-      "Server error in Q1",
-  });
-}
+});
 
 router.post("/q2", async (req, res) => {
   try {
