@@ -622,13 +622,17 @@ function GuestQuestionnaireContent() {
                       onChange={handleQ2Change}
                       options={["Continuous", "Exams"]}
                     />
-                    <SelectBox
-                      label="Career clarity"
-                      name="career_clarity"
-                      value={q2.career_clarity}
-                      onChange={handleQ2Change}
-                      options={["Clear", "Somewhat clear", "Not clear"]}
-                    />
+<SelectBox
+  label="Career clarity"
+  name="career_clarity"
+  value={q2.career_clarity}
+  onChange={handleQ2Change}
+  options={[
+    "Clear",
+    "Somewhat",
+    "Not clear",
+  ]}
+/>
                     <SelectBox
                       label="Decision factor"
                       name="decision_factor"
