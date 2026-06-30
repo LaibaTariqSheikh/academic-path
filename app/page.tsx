@@ -355,7 +355,6 @@ export default function HomePage() {
 
       <footer className="border-t border-white/10 px-6 py-8 text-center text-sm text-neutral-500">
         EduPath — Academic Recommendation Platform
-        platform.
       </footer>
     </main>
   );
