@@ -1,20 +1,19 @@
 import { Brain, GraduationCap, ShieldCheck } from "lucide-react";
 
 export default function SiteFooter() {
+  const linkClass =
+    "font-semibold text-white transition duration-300 hover:text-[#0A66C2] hover:underline";
+
   return (
     <footer className="border-t border-neutral-200 bg-neutral-950 text-neutral-300 dark:border-neutral-800">
       <div className="mx-auto grid max-w-7xl gap-10 px-6 py-14 md:grid-cols-3">
-
-        {/* Brand */}
         <div>
           <div className="flex items-center gap-3">
             <span className="flex h-10 w-10 items-center justify-center rounded-2xl bg-white text-neutral-950">
               <GraduationCap size={18} />
             </span>
 
-            <h3 className="text-xl font-bold text-white">
-              EduPath
-            </h3>
+            <h3 className="text-xl font-bold text-white">EduPath</h3>
           </div>
 
           <p className="mt-4 max-w-sm text-sm leading-7 text-neutral-400">
@@ -25,14 +24,12 @@ export default function SiteFooter() {
           </p>
         </div>
 
-        {/* Features */}
         <div>
           <h4 className="text-lg font-semibold text-white">
             Platform Features
           </h4>
 
           <div className="mt-4 space-y-3 text-sm text-neutral-400">
-
             <div className="flex items-center gap-3">
               <Brain size={16} />
               AI-powered academic recommendations
@@ -47,15 +44,11 @@ export default function SiteFooter() {
               <GraduationCap size={16} />
               Institute management & career guidance
             </div>
-
           </div>
         </div>
 
-        {/* About */}
         <div>
-          <h4 className="text-lg font-semibold text-white">
-            About EduPath
-          </h4>
+          <h4 className="text-lg font-semibold text-white">About EduPath</h4>
 
           <ul className="mt-4 space-y-2 text-sm leading-7 text-neutral-400">
             <li>AI-based academic path prediction</li>
@@ -67,48 +60,38 @@ export default function SiteFooter() {
         </div>
       </div>
 
-      {/* Bottom */}
       <div className="border-t border-neutral-800 px-6 py-5 text-center text-sm text-neutral-500">
-
         <p>
           © {new Date().getFullYear()}{" "}
-          <span className="font-semibold text-white">
-            EduPath
-          </span>
-          . Developed by{" "}
-
+          <span className="font-semibold text-white">EduPath</span>. Developed
+          by{" "}
           <a
-            href="http://www.linkedin.com/in/laiba-tariq-"
+            href="https://www.linkedin.com/in/laiba-tariq-"
             target="_blank"
             rel="noopener noreferrer"
-            className="font-semibold text-white transition hover:text-blue-400 hover:underline"
+            className={linkClass}
           >
             Laiba Tariq
           </a>
-
           {", "}
-
           <a
             href="https://linkedin.com/in/urooj-asim-1b1a33200"
             target="_blank"
             rel="noopener noreferrer"
-            className="font-semibold text-white transition hover:text-blue-400 hover:underline"
+            className={linkClass}
           >
             Urooj Asim
           </a>
-
           {" and "}
-
           <a
             href="https://www.linkedin.com/in/huzaifa-yousuf-b333b9235"
             target="_blank"
             rel="noopener noreferrer"
-            className="font-semibold text-white transition hover:text-blue-400 hover:underline"
+            className={linkClass}
           >
             M. Huzaifa
           </a>
         </p>
-
       </div>
     </footer>
   );

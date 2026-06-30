@@ -84,11 +84,11 @@ export default function HomePage() {
           >
             <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-2 text-sm text-neutral-300 backdrop-blur">
               <Sparkles size={16} />
-              Dual-mode academic recommendation platform
+              Dual-mode Academic Recommendation Platform
             </div>
 
             <h1 className="max-w-4xl text-5xl font-black leading-tight tracking-[-0.06em] md:text-7xl">
-              Smarter academic decisions for students and institutes.
+              Smarter Academic Decisions for students
             </h1>
 
             <p className="mt-6 max-w-2xl text-lg leading-8 text-neutral-300">
@@ -181,10 +181,10 @@ export default function HomePage() {
         <div className="mx-auto max-w-7xl">
           <div className="mb-10 text-center">
             <p className="text-sm font-semibold uppercase tracking-[0.25em] text-neutral-400">
-              Two entry paths
+              Two Entry Paths
             </p>
             <h2 className="mt-3 text-4xl font-black tracking-[-0.04em]">
-              One system, Two use cases
+              One System, Two Use Cases
             </h2>
           </div>
 
@@ -230,10 +230,10 @@ export default function HomePage() {
         <div className="mx-auto max-w-7xl">
           <div className="mb-10">
             <p className="text-sm font-semibold uppercase tracking-[0.25em] text-neutral-400">
-              How it works
+              How it Works
             </p>
             <h2 className="mt-3 max-w-3xl text-4xl font-black tracking-[-0.04em]">
-              From questionnaire to recommendation to mentorship.
+              From Questionnaire to Recommendation to Mentorship.
             </h2>
           </div>
 
@@ -288,10 +288,10 @@ export default function HomePage() {
         <div className="mx-auto grid max-w-7xl gap-8 lg:grid-cols-[0.9fr_1.1fr] lg:items-center">
           <div>
             <p className="text-sm font-semibold uppercase tracking-[0.25em] text-neutral-400">
-              Why it matters
+              Why it Matters
             </p>
             <h2 className="mt-3 text-4xl font-black tracking-[-0.04em]">
-              AI alone is not enough. Guidance matters.
+              AI Alone is not Enough. Guidance Matters!
             </h2>
             <p className="mt-5 leading-8 text-neutral-300">
               Students often choose academic paths without structured support.
@@ -329,7 +329,7 @@ export default function HomePage() {
       <section className="px-6 pb-20">
         <div className="mx-auto max-w-5xl rounded-4xl border border-white/10 bg-white/6 p-8 text-center shadow-2xl">
           <h2 className="text-4xl font-black tracking-[-0.04em]">
-            Ready to try the system?
+            Ready to try the System?
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-neutral-300">
             Start as a guest or create an account to save your recommendations, track your history, and access personalized dashboards.
