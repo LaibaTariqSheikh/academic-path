@@ -230,7 +230,7 @@ export default function HomePage() {
         <div className="mx-auto max-w-7xl">
           <div className="mb-10">
             <p className="text-sm font-semibold uppercase tracking-[0.25em] text-neutral-400">
-              How it Works
+              How it Works?
             </p>
             <h2 className="mt-3 max-w-3xl text-4xl font-black tracking-[-0.04em]">
               From Questionnaire to Recommendation to Mentorship.
@@ -288,7 +288,7 @@ export default function HomePage() {
         <div className="mx-auto grid max-w-7xl gap-8 lg:grid-cols-[0.9fr_1.1fr] lg:items-center">
           <div>
             <p className="text-sm font-semibold uppercase tracking-[0.25em] text-neutral-400">
-              Why it Matters
+              Why it Matters?
             </p>
             <h2 className="mt-3 text-4xl font-black tracking-[-0.04em]">
               AI Alone is not Enough. Guidance Matters!
