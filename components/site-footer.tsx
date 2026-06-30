@@ -10,7 +10,7 @@ export default function SiteFooter() {
         <div>
           <div className="flex items-center gap-3">
             <span className="flex h-10 w-10 items-center justify-center rounded-2xl bg-white text-neutral-950">
-              <GraduationCap size={18} />
+              <GraduationCap size={20} />
             </span>
 
             <h3 className="text-xl font-bold text-white">BeGuided</h3>

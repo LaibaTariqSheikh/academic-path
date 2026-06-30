@@ -36,7 +36,7 @@ export default function HomePage() {
         <nav className="relative z-10 mx-auto flex max-w-7xl items-center justify-between px-6 py-6">
           <div className="flex items-center gap-3">
             <div className="flex h-11 w-11 items-center justify-center rounded-2xl bg-white text-neutral-950 shadow-xl">
-              <Brain size={22} />
+              <GraduationCap size={20} />
             </div>
             <div>
               <p className="text-lg font-black tracking-[-0.03em]">
