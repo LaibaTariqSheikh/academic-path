@@ -69,9 +69,14 @@ export default function LoginPage() {
   return (
     <main className="min-h-screen bg-gray-50 px-4 py-10">
       <div className="mx-auto max-w-md rounded-2xl bg-white p-8 shadow-lg">
-        <h1 className="mb-6 text-center text-3xl font-bold text-gray-900">
-          Login
-        </h1>
+        <div className="mb-8 text-center">
+  <h1 className="text-3xl font-bold text-gray-900">
+    Welcome to EduPath
+  </h1>
+  <p className="mt-2 text-sm text-gray-600">
+    Sign in to access your personalized academic guidance dashboard.
+  </p>
+</div>
 
         <form onSubmit={handleLogin} className="space-y-4">
           <div>
@@ -81,7 +86,7 @@ export default function LoginPage() {
             <input
               type="email"
               name="email"
-              placeholder="Enter email"
+              placeholder="Enter your email address"
               value={formData.email}
               onChange={handleChange}
               className="w-full rounded-lg border border-gray-300 bg-white px-4 py-3 text-gray-900 placeholder-gray-500 outline-none focus:border-black"
@@ -96,7 +101,7 @@ export default function LoginPage() {
             <input
               type="password"
               name="password"
-              placeholder="Enter password"
+              placeholder="Enter your password"
               value={formData.password}
               onChange={handleChange}
               className="w-full rounded-lg border border-gray-300 bg-white px-4 py-3 text-gray-900 placeholder-gray-500 outline-none focus:border-black"
@@ -112,6 +117,17 @@ export default function LoginPage() {
             {loading ? "Logging in..." : "Login"}
           </button>
         </form>
+        
+        <div className="mt-6 text-center text-sm text-gray-600">
+  Don't have an account?{" "}
+  <button
+    onClick={() => router.push("/auth/signup")}
+    className="font-semibold text-black hover:underline"
+  >
+    Create one here
+  </button>
+</div>
+
       </div>
     </main>
   );

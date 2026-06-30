@@ -40,10 +40,10 @@ export default function HomePage() {
             </div>
             <div>
               <p className="text-lg font-black tracking-[-0.03em]">
-                AI Academic Path
+                EduPath
               </p>
               <p className="text-xs text-neutral-400">
-                AI + human academic guidance
+                Academic Recommendation & Guidance
               </p>
             </div>
           </div>
@@ -184,7 +184,7 @@ export default function HomePage() {
               Two entry paths
             </p>
             <h2 className="mt-3 text-4xl font-black tracking-[-0.04em]">
-              One system, two use cases
+              One system, Two use cases
             </h2>
           </div>
 
@@ -332,8 +332,7 @@ export default function HomePage() {
             Ready to try the system?
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-neutral-300">
-            Start instantly as a guest or create an account to save your
-            recommendation history and access role-based dashboards.
+            Start as a guest or create an account to save your recommendations, track your history, and access personalized dashboards.
           </p>
 
           <div className="mt-8 flex flex-col justify-center gap-4 sm:flex-row">
@@ -355,7 +354,7 @@ export default function HomePage() {
       </section>
 
       <footer className="border-t border-white/10 px-6 py-8 text-center text-sm text-neutral-500">
-        AI Academic Path — dual-mode academic recommendation and guidance
+        EduPath — Academic Recommendation Platform
         platform.
       </footer>
     </main>

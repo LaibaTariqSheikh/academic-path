@@ -151,8 +151,8 @@ export default function StudentDashboardPage() {
 
                 <p className="mt-3 text-neutral-600">
                   {isIndividualStudent
-                    ? "You are using the system independently. You can generate recommendations without institute approval."
-                    : "You are connected with an institute. Your admin can assign a guide to support your academic journey."}
+                    ? "You are using EduPath independently to generate and save personalized academic recommendations."
+                    : "You are connected with an institute on EduPath. Your admin can assign a guide to support your academic journey."}
                 </p>
               </section>
 
@@ -162,7 +162,7 @@ export default function StudentDashboardPage() {
                     Recommendation Form
                   </h2>
                   <p className="mb-4 text-neutral-600">
-                    Fill the questionnaire to get your academic recommendation.
+                    Complete your questionnaire to receive an academic recommendation.
                   </p>
                   <button
                     onClick={openQuestionnaire}
@@ -263,12 +263,10 @@ export default function StudentDashboardPage() {
               {isIndividualStudent && (
                 <section className="mb-6 rounded-2xl border border-neutral-300 bg-neutral-50 p-6">
                   <h2 className="text-xl font-semibold text-neutral-950">
-                    Independent Recommendation Mode
+                    Independent EduPath Mode
                   </h2>
                   <p className="mt-2 text-neutral-600">
-                    Guide assignment and institutional feedback are available only
-                    for students connected with an institute. You can still use AI
-                    recommendations independently.
+                    Guide assignment and institutional feedback are available for institute-linked students. As an individual student, you can still generate and save EduPath recommendations independently.
                   </p>
                 </section>
               )}
@@ -281,7 +279,7 @@ export default function StudentDashboardPage() {
                 {!recommendation ? (
                   <EmptyState
                     title="No recommendation yet"
-                    description="Complete your questionnaire to see your recommendation."
+                    description="Complete your EduPath questionnaire to view your latest recommendation."
                   />
                 ) : (
                   <RecommendationBlock
@@ -300,7 +298,7 @@ export default function StudentDashboardPage() {
                 {recommendationHistory.length === 0 ? (
                   <EmptyState
                     title="No history yet"
-                    description="Your previous recommendations will appear here after you submit questionnaires."
+                    description="Your previous EduPath recommendations will appear here after you submit questionnaires."
                   />
                 ) : (
                   <div className="space-y-4">

@@ -135,7 +135,7 @@ export default function Questionnaire2Page() {
       }
 
       if (!response.ok) {
-        showToast("Submission failed", data.error || "Failed to get prediction.", "error");
+        showToast("Submission failed", data.error || "Unable to generate your recommendation.", "error");
         throw new Error(data.error || "Failed to get prediction");
       }
 
@@ -157,7 +157,12 @@ export default function Questionnaire2Page() {
         );
       }
 
-      showToast("Recommendation ready", "Your recommendation was generated successfully.", "success");
+      showToast(
+       "Assessment Complete",
+       "Your EduPath recommendation has been generated successfully.",
+       "success"
+      );
+      
     } catch (err: unknown) {
       if (err instanceof Error) setError(err.message);
       else setError("Something went wrong");
@@ -171,10 +176,10 @@ export default function Questionnaire2Page() {
     <main className="min-h-screen bg-gray-50 px-4 py-10">
       <div className="mx-auto max-w-4xl rounded-2xl bg-white p-8 shadow-lg">
         <h1 className="mb-2 text-3xl font-bold text-gray-900">
-          O-Level / Matric Questionnaire
+          O-Level / Matric Academic Assessment
         </h1>
         <p className="mb-8 text-gray-600">
-          Fill out the form below to get your next academic path recommendation.
+          Complete this assessment to receive a personalized college stream recommendation from EduPath.
         </p>
 
         <form onSubmit={handleSubmit} className="space-y-8">
@@ -366,7 +371,7 @@ export default function Questionnaire2Page() {
 
           <div className="flex gap-4">
             <button type="submit" disabled={loading} className="flex-1 rounded-lg bg-black px-4 py-3 text-white transition hover:opacity-90 disabled:opacity-60">
-              {loading ? "Generating Recommendation..." : "Submit Questionnaire"}
+              {loading ? "Generating your Recommendation..." : "Generate Recommendation"}
             </button>
 
             <button type="button" onClick={() => router.push("/student/dashboard")} className="rounded-lg border border-gray-300 px-4 py-3 text-gray-800 hover:bg-gray-100">
@@ -383,7 +388,7 @@ export default function Questionnaire2Page() {
 
         {prediction && (
           <div className="mt-8 rounded-xl border border-green-200 bg-green-50 p-6">
-            <h2 className="mb-2 text-2xl font-bold text-green-800">Recommended Path</h2>
+            <h2 className="mb-2 text-2xl font-bold text-green-800">Your Recommended Academic Path</h2>
             <p className="text-lg text-green-700">{prediction}</p>
 
 <button
@@ -391,7 +396,7 @@ export default function Questionnaire2Page() {
   onClick={() => router.replace("/student/dashboard")}
   className="mt-4 rounded-lg bg-green-700 px-4 py-3 text-white hover:opacity-90"
 >
-  View on Dashboard
+  View Recommendation Dashboard
 </button>
 
           </div>

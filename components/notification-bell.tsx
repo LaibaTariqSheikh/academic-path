@@ -80,7 +80,7 @@ export default function NotificationBell({ userId }: { userId: number }) {
 
           {items.length === 0 ? (
             <p className="text-sm text-neutral-600 dark:text-neutral-400">
-              No notifications yet.
+              You're all caught up. No new notifications.
             </p>
           ) : (
             <div className="max-h-96 space-y-3 overflow-y-auto">
@@ -102,7 +102,7 @@ export default function NotificationBell({ userId }: { userId: number }) {
                       onClick={() => markAsRead(item.id)}
                       className="mt-3 rounded-lg bg-neutral-900 px-3 py-2 text-xs text-white dark:bg-neutral-100 dark:text-neutral-900"
                     >
-                      Mark as read
+                      Mark as Read
                     </button>
                   )}
                 </div>

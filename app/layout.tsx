@@ -1,10 +1,11 @@
 import "./globals.css";
 import { AuthProvider } from "@/context/AuthContext";
 import { ToastProvider } from "@/components/ui/toast-provider";
+import SiteFooter from "@/components/site-footer";
 
 export const metadata = {
-  title: "AI Academic Path",
-  description: "AI-based academic recommendation platform",
+  title: "EduPath",
+  description: "Academic Recommendation Platform",
 };
 
 export default function RootLayout({
@@ -16,7 +17,12 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <AuthProvider>
-          <ToastProvider>{children}</ToastProvider>
+          <ToastProvider>
+  <div className="flex min-h-screen flex-col">
+    <div className="flex-1">{children}</div>
+    <SiteFooter />
+  </div>
+</ToastProvider>
         </AuthProvider>
       </body>
     </html>

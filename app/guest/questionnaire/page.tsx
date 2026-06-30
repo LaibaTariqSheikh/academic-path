@@ -235,15 +235,15 @@ function GuestQuestionnaireContent() {
         <div className="mx-auto max-w-5xl">
           <div className="rounded-3xl bg-white p-8 shadow-xl">
             <p className="text-sm font-semibold uppercase tracking-[0.25em] text-neutral-500">
-              Guest Result
+              EduPath Recommendation
             </p>
 
             <h1 className="mt-2 text-4xl font-bold">
-              Your Academic Recommendation
+              Your Personalized Academic Recommendation
             </h1>
 
             <p className="mt-3 text-neutral-600">
-              Based on your questionnaire and selected city:{" "}
+              Based on your responses and selected city:{" "}
               <strong>{guestCity}</strong>
             </p>
 
@@ -303,8 +303,7 @@ function GuestQuestionnaireContent() {
             <div className="mt-8 rounded-3xl border border-dashed border-neutral-300 bg-neutral-50 p-6">
               <h3 className="text-xl font-bold">Want to save your result?</h3>
               <p className="mt-2 text-neutral-600">
-                Create an individual student account to save your recommendation
-                history and access your dashboard.
+                Create an individual student account to save your recommendation history and access your personalized EduPath dashboard.
               </p>
 
               <div className="mt-5 flex flex-col gap-3 sm:flex-row">
@@ -351,7 +350,7 @@ function GuestQuestionnaireContent() {
           </h1>
 
           <p className="mt-3 text-neutral-600">
-            Fill the questionnaire to receive an instant AI-based recommendation.
+            Complete the questionnaire to receive an instant Academic recommendation.
             Guest results are not permanently saved.
           </p>
 
@@ -666,7 +665,7 @@ function GuestQuestionnaireContent() {
                 onClick={() => router.push("/guest")}
                 className="rounded-xl border border-neutral-300 px-5 py-3 font-semibold hover:bg-neutral-100"
               >
-                Back
+                ← Back
               </button>
             </div>
           </form>

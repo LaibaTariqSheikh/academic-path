@@ -122,12 +122,11 @@ export default function SignupPage() {
     <main className="min-h-screen bg-gray-50 px-4 py-10">
       <div className="mx-auto w-full max-w-xl rounded-2xl bg-white p-8 shadow-lg">
         <h1 className="mb-2 text-center text-3xl font-bold text-gray-900">
-          Create Account
+          Join EduPath
         </h1>
 
         <p className="mb-6 text-center text-sm text-gray-600">
-          Choose whether you are using the platform individually or through an
-          institute.
+          Create your account to receive personalized academic recommendations and guidance.
         </p>
 
         <div className="mb-6 grid grid-cols-2 gap-3">
@@ -196,7 +195,7 @@ export default function SignupPage() {
             <input
               type="email"
               name="email"
-              placeholder="Enter email"
+              placeholder="Enter your email address"
               value={formData.email}
               onChange={handleChange}
               className="w-full rounded-lg border border-gray-300 bg-white px-4 py-3 text-gray-900 placeholder-gray-500 outline-none focus:border-black"
@@ -211,7 +210,7 @@ export default function SignupPage() {
             <input
               type="password"
               name="password"
-              placeholder="Enter password"
+              placeholder="Enter your password"
               value={formData.password}
               onChange={handleChange}
               className="w-full rounded-lg border border-gray-300 bg-white px-4 py-3 text-gray-900 placeholder-gray-500 outline-none focus:border-black"
@@ -227,7 +226,7 @@ export default function SignupPage() {
               <input
                 type="text"
                 name="institute"
-                placeholder="Enter institute name"
+                placeholder="Enter your institute name"
                 value={formData.institute}
                 onChange={handleChange}
                 className="w-full rounded-lg border border-gray-300 bg-white px-4 py-3 text-gray-900 placeholder-gray-500 outline-none focus:border-black"
@@ -245,7 +244,7 @@ export default function SignupPage() {
                 <input
                   type="text"
                   name="city"
-                  placeholder="Enter city"
+                  placeholder="Enter your city"
                   value={formData.city}
                   onChange={handleChange}
                   className="w-full rounded-lg border border-gray-300 bg-white px-4 py-3 text-gray-900 placeholder-gray-500 outline-none focus:border-black"
@@ -281,7 +280,7 @@ export default function SignupPage() {
                 <input
                   type="text"
                   name="institute_code"
-                  placeholder="Enter institute code"
+                  placeholder="Enter your institute code"
                   value={formData.institute_code}
                   onChange={handleChange}
                   className="w-full rounded-lg border border-gray-300 bg-white px-4 py-3 text-gray-900 placeholder-gray-500 outline-none focus:border-black"
@@ -295,9 +294,20 @@ export default function SignupPage() {
             disabled={loading}
             className="w-full rounded-lg bg-black px-4 py-3 text-white transition hover:opacity-90 disabled:opacity-60"
           >
-            {loading ? "Creating Account..." : "Create Account"}
+            {loading ? "Creating Account..." : "Create EduPath Account"}
           </button>
         </form>
+
+        <div className="mt-6 text-center text-sm text-gray-600">
+  Already have an account?{" "}
+  <button
+    onClick={() => router.push("/auth/login")}
+    className="font-semibold text-black hover:underline"
+  >
+    Sign in here
+  </button>
+</div>
+
       </div>
     </main>
   );

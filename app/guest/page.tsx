@@ -10,17 +10,15 @@ export default function GuestStartPage() {
       <div className="mx-auto max-w-4xl">
         <div className="rounded-3xl bg-white p-8 shadow-xl">
           <p className="text-sm font-semibold uppercase tracking-[0.25em] text-neutral-500">
-            Guest Mode
+            EduPath Guest Access
           </p>
 
           <h1 className="mt-3 text-4xl font-bold">
-            Get an Academic Recommendation Without Signup
+            Explore Your Academic Path — No Account Required
           </h1>
 
           <p className="mt-4 max-w-2xl text-neutral-600">
-            Use the system as an individual student without institute approval.
-            Choose your level and fill the questionnaire to receive an instant
-            AI-based recommendation.
+            Try EduPath instantly without creating an account. Select your academic level, complete a short questionnaire, and receive personalized Academic recommendations.
           </p>
 
           <div className="mt-8 grid gap-5 md:grid-cols-2">
@@ -30,7 +28,7 @@ export default function GuestStartPage() {
             >
               <h2 className="text-2xl font-semibold">Grade 8 Student</h2>
               <p className="mt-2 text-neutral-600">
-                Get guidance for school-level academic stream selection.
+                Discover the most suitable secondary education pathway based on your interests and academic performance.
               </p>
             </button>
 
@@ -42,7 +40,7 @@ export default function GuestStartPage() {
             >
               <h2 className="text-2xl font-semibold">O-Level / Matric</h2>
               <p className="mt-2 text-neutral-600">
-                Get guidance for college-level academic path selection.
+                Receive recommendations for selecting the most suitable college-level academic stream.
               </p>
             </button>
           </div>
@@ -51,7 +49,7 @@ export default function GuestStartPage() {
             onClick={() => router.push("/")}
             className="mt-8 rounded-lg border border-neutral-300 px-5 py-3 text-neutral-800 hover:bg-neutral-100"
           >
-            Back to Home
+            ← Back to Home
           </button>
         </div>
       </div>
