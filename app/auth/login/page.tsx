@@ -71,7 +71,7 @@ export default function LoginPage() {
       <div className="mx-auto max-w-md rounded-2xl bg-white p-8 shadow-lg">
         <div className="mb-8 text-center">
   <h1 className="text-3xl font-bold text-gray-900">
-    Welcome to EduPath
+    Welcome to BeGuided
   </h1>
   <p className="mt-2 text-sm text-gray-600">
     Sign in to access your personalized academic guidance dashboard.
@@ -117,7 +117,7 @@ export default function LoginPage() {
             {loading ? "Logging in..." : "Login"}
           </button>
         </form>
-        
+
         <div className="mt-6 text-center text-sm text-gray-600">
   Don't have an account?{" "}
   <button

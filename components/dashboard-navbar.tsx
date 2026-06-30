@@ -39,7 +39,7 @@ export default function DashboardNavbar() {
           <span className="flex h-10 w-10 items-center justify-center rounded-2xl bg-neutral-950 text-white shadow-lg dark:bg-white dark:text-neutral-950">
             <LayoutDashboard size={18} />
           </span>
-          EduPath
+          BeGuided
         </Link>
 
         <nav className="hidden items-center gap-2 md:flex">

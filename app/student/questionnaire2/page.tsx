@@ -159,7 +159,7 @@ export default function Questionnaire2Page() {
 
       showToast(
        "Assessment Complete",
-       "Your EduPath recommendation has been generated successfully.",
+       "Your BeGuided recommendation has been generated successfully.",
        "success"
       );
       
@@ -179,7 +179,7 @@ export default function Questionnaire2Page() {
           O-Level / Matric Academic Assessment
         </h1>
         <p className="mb-8 text-gray-600">
-          Complete this assessment to receive a personalized college stream recommendation from EduPath.
+          Complete this assessment to receive a personalized college stream recommendation from BeGuided.
         </p>
 
         <form onSubmit={handleSubmit} className="space-y-8">

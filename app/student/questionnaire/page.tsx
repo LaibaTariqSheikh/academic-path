@@ -144,7 +144,7 @@ export default function QuestionnairePage() {
 
     showToast(
        "Assessment Complete",
-       "Your EduPath recommendation has been generated successfully.",
+       "Your BeGuided recommendation has been generated successfully.",
        "success"
     );
 
@@ -162,7 +162,7 @@ export default function QuestionnairePage() {
       <div className="mx-auto max-w-4xl rounded-2xl bg-white p-8 shadow-lg">
         <h1 className="mb-2 text-3xl font-bold text-gray-900"> Grade 8 Academic Assessment </h1>
         <p className="mb-8 text-gray-600">
-          Complete this assessment to receive a personalized academic recommendation from EduPath.
+          Complete this assessment to receive a personalized academic recommendation from BeGuided.
         </p>
 
         <form onSubmit={handleSubmit} className="space-y-8">

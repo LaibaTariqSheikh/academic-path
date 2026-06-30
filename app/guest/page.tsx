@@ -10,7 +10,7 @@ export default function GuestStartPage() {
       <div className="mx-auto max-w-4xl">
         <div className="rounded-3xl bg-white p-8 shadow-xl">
           <p className="text-sm font-semibold uppercase tracking-[0.25em] text-neutral-500">
-            EduPath Guest Access
+            BeGuided Guest Access
           </p>
 
           <h1 className="mt-3 text-4xl font-bold">
@@ -18,7 +18,7 @@ export default function GuestStartPage() {
           </h1>
 
           <p className="mt-4 max-w-2xl text-neutral-600">
-            Try EduPath instantly without creating an account. Select your academic level, complete a short questionnaire, and receive personalized Academic recommendations.
+            Try BeGuided instantly without creating an account. Select your academic level, complete a short questionnaire, and receive personalized Academic recommendations.
           </p>
 
           <div className="mt-8 grid gap-5 md:grid-cols-2">

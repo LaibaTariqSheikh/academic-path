@@ -4,8 +4,8 @@ import { ToastProvider } from "@/components/ui/toast-provider";
 import SiteFooter from "@/components/site-footer";
 
 export const metadata = {
-  title: "EduPath",
-  description: "Academic Recommendation Platform",
+  title: "BeGuided",
+  description: "Guiding Students Towards Better Academic Decisions",
 };
 
 export default function RootLayout({

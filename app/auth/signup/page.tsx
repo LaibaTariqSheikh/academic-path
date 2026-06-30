@@ -122,7 +122,7 @@ export default function SignupPage() {
     <main className="min-h-screen bg-gray-50 px-4 py-10">
       <div className="mx-auto w-full max-w-xl rounded-2xl bg-white p-8 shadow-lg">
         <h1 className="mb-2 text-center text-3xl font-bold text-gray-900">
-          Join EduPath
+          Join BeGuided
         </h1>
 
         <p className="mb-6 text-center text-sm text-gray-600">
@@ -294,7 +294,7 @@ export default function SignupPage() {
             disabled={loading}
             className="w-full rounded-lg bg-black px-4 py-3 text-white transition hover:opacity-90 disabled:opacity-60"
           >
-            {loading ? "Creating Account..." : "Create EduPath Account"}
+            {loading ? "Creating Account..." : "Create BeGuided Account"}
           </button>
         </form>
 

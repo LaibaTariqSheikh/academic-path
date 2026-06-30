@@ -40,7 +40,7 @@ export default function HomePage() {
             </div>
             <div>
               <p className="text-lg font-black tracking-[-0.03em]">
-                EduPath
+                BeGuided
               </p>
               <p className="text-xs text-neutral-400">
                 Academic Recommendation & Guidance
@@ -354,7 +354,7 @@ export default function HomePage() {
       </section>
 
       <footer className="border-t border-white/10 px-6 py-8 text-center text-sm text-neutral-500">
-        EduPath — Academic Recommendation Platform
+        BeGuided — Guiding Students Towards Better Academic Decisions
       </footer>
     </main>
   );

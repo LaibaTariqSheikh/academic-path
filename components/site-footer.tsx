@@ -13,14 +13,11 @@ export default function SiteFooter() {
               <GraduationCap size={18} />
             </span>
 
-            <h3 className="text-xl font-bold text-white">EduPath</h3>
+            <h3 className="text-xl font-bold text-white">BeGuided</h3>
           </div>
 
           <p className="mt-4 max-w-sm text-sm leading-7 text-neutral-400">
-            EduPath is an AI-powered academic recommendation platform developed
-            to help students make informed educational decisions while enabling
-            institutes to manage academic guidance through role-based dashboards,
-            mentorship, and intelligent recommendations.
+            BeGuided is an AI-powered academic recommendation platform developed to help students make better educational decisions while enabling institutes to manage academic guidance through role-based dashboards, mentorship, and intelligent recommendations.
           </p>
         </div>
 
@@ -48,7 +45,7 @@ export default function SiteFooter() {
         </div>
 
         <div>
-          <h4 className="text-lg font-semibold text-white">About EduPath</h4>
+          <h4 className="text-lg font-semibold text-white">About BeGuided </h4>
 
           <ul className="mt-4 space-y-2 text-sm leading-7 text-neutral-400">
             <li>AI-based academic path prediction</li>
@@ -63,7 +60,7 @@ export default function SiteFooter() {
       <div className="border-t border-neutral-800 px-6 py-5 text-center text-sm text-neutral-500">
         <p>
           © {new Date().getFullYear()}{" "}
-          <span className="font-semibold text-white">EduPath</span>. Developed
+          <span className="font-semibold text-white">BeGuided</span>. Developed
           by{" "}
           <a
             href="https://www.linkedin.com/in/laiba-tariq-"
