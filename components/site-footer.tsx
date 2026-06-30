@@ -2,7 +2,7 @@ import { Brain, GraduationCap, ShieldCheck } from "lucide-react";
 
 export default function SiteFooter() {
   const linkClass =
-    "font-semibold text-white transition duration-300 hover:text-[#e5e5e5] hover:underline";
+    "font-bold text-white transition duration-300 hover:text-[#e5e5e5] hover:underline";
 
   return (
     <footer className="border-t border-neutral-200 bg-neutral-950 text-neutral-300 dark:border-neutral-800">
