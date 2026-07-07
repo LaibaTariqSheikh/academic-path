@@ -1,14 +1,37 @@
-import pandas as pd
+import os
+import re
+import json
 import joblib
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
 
-from sklearn.preprocessing import LabelEncoder
+from sklearn.preprocessing import LabelEncoder, label_binarize
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, classification_report
+from sklearn.metrics import (
+    accuracy_score,
+    precision_score,
+    recall_score,
+    f1_score,
+    classification_report,
+    confusion_matrix,
+    roc_curve,
+    auc
+)
 
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.naive_bayes import GaussianNB
 from sklearn.neighbors import KNeighborsClassifier
+
+
+# ============================================
+# HELPER FUNCTION
+# ============================================
+
+def safe_filename(name):
+    return re.sub(r"[^A-Za-z0-9_]+", "_", name.replace(" ", "_"))
+
 
 # ============================================
 # LOAD DATASET
@@ -16,8 +39,9 @@ from sklearn.neighbors import KNeighborsClassifier
 
 df = pd.read_csv("dataset1.csv")
 
-print("\nDataset Loaded ✅")
+print("\nDataset 1 Loaded Successfully")
 print(df.head())
+
 
 # ============================================
 # ENCODE CATEGORICAL DATA
@@ -30,12 +54,17 @@ for col in df.columns:
     df[col] = le.fit_transform(df[col].astype(str))
     encoders[col] = le
 
+
 # ============================================
-# FEATURES & TARGET
+# FEATURES AND TARGET
 # ============================================
 
 X = df.drop(["target_stream", "education_system"], axis=1)
 y = df["target_stream"]
+
+class_names = encoders["target_stream"].classes_
+classes = np.unique(y)
+
 
 # ============================================
 # TRAIN TEST SPLIT
@@ -45,8 +74,10 @@ X_train, X_test, y_train, y_test = train_test_split(
     X,
     y,
     test_size=0.2,
-    random_state=42
+    random_state=42,
+    stratify=y
 )
+
 
 # ============================================
 # MODELS
@@ -54,58 +85,231 @@ X_train, X_test, y_train, y_test = train_test_split(
 
 models = {
     "Decision Tree": DecisionTreeClassifier(random_state=42),
-
-    "Random Forest": RandomForestClassifier(
-        n_estimators=100,
-        random_state=42
-    ),
-
+    "Random Forest": RandomForestClassifier(n_estimators=100, random_state=42),
     "Naive Bayes": GaussianNB(),
-
     "KNN": KNeighborsClassifier(n_neighbors=5)
 }
 
+
+# ============================================
+# RESULT FOLDER
+# ============================================
+
+result_folder = "q1_results"
+os.makedirs(result_folder, exist_ok=True)
+
+
+# ============================================
+# TRAIN, EVALUATE, AND SAVE RESULTS
+# ============================================
+
+results = []
 best_model = None
 best_model_name = ""
 best_accuracy = 0
 
-# ============================================
-# TRAIN & EVALUATE
-# ============================================
-
-print("\n========== MODEL COMPARISON ==========\n")
+print("\n========== MODEL COMPARISON: DATASET 1 ==========\n")
 
 for name, model in models.items():
 
     model.fit(X_train, y_train)
-
     predictions = model.predict(X_test)
 
     accuracy = accuracy_score(y_test, predictions)
+    precision = precision_score(y_test, predictions, average="weighted", zero_division=0)
+    recall = recall_score(y_test, predictions, average="weighted", zero_division=0)
+    f1 = f1_score(y_test, predictions, average="weighted", zero_division=0)
 
-    print(f"{name} Accuracy: {accuracy:.4f}")
+    results.append({
+        "Algorithm": name,
+        "Accuracy": round(accuracy * 100, 2),
+        "Precision": round(precision * 100, 2),
+        "Recall": round(recall * 100, 2),
+        "F1-Score": round(f1 * 100, 2)
+    })
 
-    print(classification_report(y_test, predictions))
+    print(f"{name}")
+    print(f"Accuracy: {accuracy:.4f}")
+    print(
+        classification_report(
+            y_test,
+            predictions,
+            target_names=class_names,
+            zero_division=0
+        )
+    )
+    print("-" * 60)
 
-    print("-" * 50)
+    # ============================================
+    # SAVE CLASSIFICATION REPORT
+    # ============================================
+
+    report_text = classification_report(
+        y_test,
+        predictions,
+        target_names=class_names,
+        zero_division=0
+    )
+
+    with open(
+        os.path.join(result_folder, f"{safe_filename(name)}_classification_report.txt"),
+        "w"
+    ) as file:
+        file.write(f"{name} Classification Report - Dataset 1\n\n")
+        file.write(report_text)
+
+
+    # ============================================
+    # CONFUSION MATRIX
+    # ============================================
+
+    cm = confusion_matrix(y_test, predictions)
+
+    plt.figure(figsize=(7, 6))
+    plt.imshow(cm, interpolation="nearest", cmap="Blues")
+    plt.title(f"{name} Confusion Matrix - Dataset 1", fontsize=14)
+    plt.colorbar()
+
+    tick_marks = np.arange(len(class_names))
+    plt.xticks(tick_marks, class_names, rotation=45, ha="right")
+    plt.yticks(tick_marks, class_names)
+
+    threshold = cm.max() / 2 if cm.max() != 0 else 0
+
+    for i in range(cm.shape[0]):
+        for j in range(cm.shape[1]):
+            plt.text(
+                j,
+                i,
+                format(cm[i, j], "d"),
+                ha="center",
+                va="center",
+                color="white" if cm[i, j] > threshold else "black",
+                fontsize=12
+            )
+
+    plt.ylabel("Actual Class")
+    plt.xlabel("Predicted Class")
+    plt.tight_layout()
+
+    plt.savefig(
+        os.path.join(result_folder, f"{safe_filename(name)}_confusion_matrix.png"),
+        dpi=300,
+        bbox_inches="tight"
+    )
+    plt.close()
+
+
+    # ============================================
+    # MULTICLASS ROC CURVE - ONE VS REST
+    # ============================================
+
+    if hasattr(model, "predict_proba"):
+        y_score = model.predict_proba(X_test)
+        y_test_bin = label_binarize(y_test, classes=classes)
+
+        plt.figure(figsize=(8, 6))
+
+        for i in range(len(classes)):
+            fpr, tpr, _ = roc_curve(y_test_bin[:, i], y_score[:, i])
+            roc_auc = auc(fpr, tpr)
+
+            plt.plot(
+                fpr,
+                tpr,
+                linewidth=2,
+                label=f"{class_names[i]} AUC = {roc_auc:.2f}"
+            )
+
+        plt.plot([0, 1], [0, 1], linestyle="--", linewidth=1.5)
+        plt.xlabel("False Positive Rate", fontsize=11)
+        plt.ylabel("True Positive Rate", fontsize=11)
+        plt.title(f"{name} ROC Curve - Dataset 1", fontsize=14)
+        plt.legend(loc="lower right", fontsize=9)
+        plt.grid(alpha=0.3)
+        plt.tight_layout()
+
+        plt.savefig(
+            os.path.join(result_folder, f"{safe_filename(name)}_roc_curve.png"),
+            dpi=300,
+            bbox_inches="tight"
+        )
+        plt.close()
+
+
+    # ============================================
+    # BEST MODEL SELECTION
+    # ============================================
 
     if accuracy > best_accuracy:
         best_accuracy = accuracy
         best_model = model
         best_model_name = name
 
+
 # ============================================
-# SAVE BEST MODEL
+# SAVE COMPARISON TABLE
+# ============================================
+
+results_df = pd.DataFrame(results)
+results_df.to_csv(
+    os.path.join(result_folder, "model_comparison_q1.csv"),
+    index=False
+)
+
+print("\nModel Comparison Results - Dataset 1")
+print(results_df)
+
+
+# ============================================
+# SAVE COMPARISON BAR CHART
+# ============================================
+
+plt.figure(figsize=(9, 6))
+
+x = np.arange(len(results_df["Algorithm"]))
+width = 0.2
+
+plt.bar(x - 1.5 * width, results_df["Accuracy"], width, label="Accuracy")
+plt.bar(x - 0.5 * width, results_df["Precision"], width, label="Precision")
+plt.bar(x + 0.5 * width, results_df["Recall"], width, label="Recall")
+plt.bar(x + 1.5 * width, results_df["F1-Score"], width, label="F1-Score")
+
+plt.xticks(x, results_df["Algorithm"], rotation=25, ha="right")
+plt.ylabel("Score (%)")
+plt.title("Algorithm Performance Comparison - Dataset 1")
+plt.legend()
+plt.grid(axis="y", alpha=0.3)
+plt.tight_layout()
+
+plt.savefig(
+    os.path.join(result_folder, "algorithm_performance_comparison_q1.png"),
+    dpi=300,
+    bbox_inches="tight"
+)
+plt.close()
+
+
+# ============================================
+# SAVE BEST MODEL AND ENCODERS
 # ============================================
 
 joblib.dump(best_model, "model_q1.pkl")
-
 joblib.dump(encoders, "encoders_q1.pkl")
-
 joblib.dump(best_model_name, "best_model_q1.pkl")
+
+with open(os.path.join(result_folder, "best_model_q1.json"), "w") as file:
+    json.dump(
+        {
+            "Best Model": best_model_name,
+            "Best Accuracy": round(best_accuracy * 100, 2)
+        },
+        file,
+        indent=4
+    )
 
 print("\n======================================")
 print(f"Best Model: {best_model_name}")
 print(f"Best Accuracy: {best_accuracy:.4f}")
-print("Q1 Best Model Saved ✅")
+print("Q1 Best Model Saved Successfully")
 print("======================================")
